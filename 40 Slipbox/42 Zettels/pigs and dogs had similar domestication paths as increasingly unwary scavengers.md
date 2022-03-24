@@ -1,0 +1,1 @@
+![[The Origins of Agriculture in the Near East#p8 pigs and dogs had similar domestication paths as increasingly unwary scavengers]]

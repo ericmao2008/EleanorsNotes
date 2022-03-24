@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L1065 how to use the stars as a compass]]

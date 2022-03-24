@@ -1,0 +1,1 @@
+The world's largest salamander is the Chinese giant salamander. They're about 5 feet in length and are critically endangered. Apparently they [smell like pepper](https://www.wired.com/2013/10/absurd-creature-6-foot-salamander/). 

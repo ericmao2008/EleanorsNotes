@@ -1,0 +1,1 @@
+According to [[Brotherhood of Kings by Amanda Podany#Differences between Egyptian and Syrian princesses]], civilizations in the Fertile Crescent treated princesses as a diplomatic corps, whereas Egyptians tended to find the idea of "marrying off" their daughters appalling — but were happy to accept the daughters of nearby kings as "tribute.” 

@@ -1,0 +1,15 @@
+- [i] Met with Reid on [[2022-01-31]]
+
+- streaming video background; growth function stuff, analytics. performance marketing team, etc. 2016 noticed patreon. 
+- Reid started yem a year ago. 
+- helping paid newsletters set up email automations. 
+- first customer was a paid ghost newsletter
+- they integrate with stripe and ghost
+- they help set up an onboarding sequence, and an upsell email that is outside of the onboarding sequence. 
+- "core suite recommendation" 
+- pulls triggered emails
+- sendgrid email service provider 
+- score-based upsell 
+- ranks the free list based on likelihood to convert
+- retention side re: payment failures & reminders 
+- biggest customer is investigative journalism 

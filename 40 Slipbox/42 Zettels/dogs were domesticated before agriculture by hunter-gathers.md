@@ -1,0 +1,1 @@
+![[Tamed by Alice Roberts#ch01p37 dogs were domesticated before agriculture by hunter-gathers]]

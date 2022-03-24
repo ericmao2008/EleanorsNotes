@@ -1,0 +1,1 @@
+![[Assyrian imperialism#q2 Assyria was considered brutal because we have records from their victims]]

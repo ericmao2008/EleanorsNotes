@@ -1,0 +1,53 @@
+%%
+status: submitted to [[Daily Science Fiction]]
+%%
+
+I found my wayward empath at a playground just outside the funeral home, a faint smile on her pale lips. She'd always been small, but now she looked wasted, hollow. I worried the breeze would blow her away.  
+
+The wooden picnic table was too small for my frame, but I sat down anyway, contorting the genetically engineered height of a Peacekeeper into something less threatening. "Eisha."
+
+She didn't so much as twitch at my presence, which didn't surprise me. Her sepia eyes clung to a tearstained teenaged girl kicking her feet into the dirt as she listlessly sat on the swing. She'd always been able to fugue deeper than any other empaths in the program.
+
+"Eisha!" 
+
+Nothing.
+
+Reluctantly, I slapped her cheek. The sharp impact cut her link with the teenager and drew the attention of a nearby man in funeral black. He leapt up, brows heavy with outrage, but stumbled back when I shifted to expose the golden lion curled across my uniform. 
+
+It wouldn't hold him back for long. Not after last week. Not with this many mourners overflowing into the streets. 
+
+I had to get Eisha out of here before the riots started. 
+
+Eisha refocused, eyes locking onto mine with dead intensity before betrayal sparked into fury. She banked it with a single, even breath. No other empath had enough control over their own apathy to induce it. 
+
+I wished I'd never taught her the trick. 
+
+"You can't hide every time something goes wrong. That's not what I trained you for." My voice turned pleading. "Damn it, we have work to do." 
+
+A bitter cackle slashed out from between the placid cracks of ennui. "Jealous, Jack?"
+
+The hell of it was, I was, a little. When she linked with me, the force of her regard shined like the sun. I craved it almost as much as I missed her. Her sparking humor, the clever way she bartered in the markets, the brave smile she got before a jump into one of the Preserves. 
+
+But I ignored the petty accusation because this wasn't about me. I'd still be sitting here if I hated her, because the technocracy needed her. This was about the program and what would happen if she didn't return. The wars we wouldn't avert.
+
+"Eisha." The talisman of her name was a futile habit, but I used it anyway. "When was the last time you ate? You're wasting away."
+
+"It'll be my funeral," she said with a twisted, saccharine smile. "Isn't that what you said when I tried to help Taki?" 
+
+As a handler, I had plenty of practice suppressing guilt, but memories bubbled up anyway. Algorithms reporting a small town in the Andean Preserve as a potential revolt-point. The satisfaction of establishing Eisha as a caretaker for local orphans. For the first time, she'd loved using her gifts. 
+
+Identifying emotionally damaged children, not rebels, had distracted her from her purpose. 
+
+She blamed herself, though the analysts' reports had underestimated the violence bubbling under the local strand of rebel sentiment. The guns erupted earlier than expected. Hostages, a media standoff. Taki caught in the middle of a conflict no empath should have been present to feel. 
+
+"I can't give you much longer," I told her. "Projections say the burial will turn riot." 
+
+"I'm not going back, Jack. You can't force me." 
+
+"I won't let you throw your life away to mourn one barbarian boy." I picked her up and carried her to the helicopter. 
+
+She didn't resist. 
+
+She never did anything again, no matter what we put in her IV. 
+
+It was all such a waste. 

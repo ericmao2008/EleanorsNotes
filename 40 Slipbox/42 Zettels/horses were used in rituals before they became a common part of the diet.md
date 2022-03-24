@@ -1,0 +1,1 @@
+![[Early Pastoral Economies and Herding Transitions in Eastern Eurasia#p1010 horses were used in rituals before they became a common part of the diet]]

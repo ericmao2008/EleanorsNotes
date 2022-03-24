@@ -1,0 +1,6 @@
+{{tags}}
+{{related}}
+
+{{title}}
+
+{{noteContent}}

@@ -1,0 +1,1 @@
+![[how hunter-gatherer communities deal with locusts#id253461907 locust collection methods]]

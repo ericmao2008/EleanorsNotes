@@ -1,0 +1,1 @@
+![[Assyrian imperialism#q1a mass deportation policies were common in the Ancient Near East]]

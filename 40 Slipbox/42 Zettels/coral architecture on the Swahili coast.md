@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L2304 coral architecture on the Swahili coast]]

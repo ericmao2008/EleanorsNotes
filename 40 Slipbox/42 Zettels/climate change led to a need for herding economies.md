@@ -1,0 +1,1 @@
+![[Early Pastoral Economies and Herding Transitions in Eastern Eurasia#p1010 climate change led to a need for herding economies]]

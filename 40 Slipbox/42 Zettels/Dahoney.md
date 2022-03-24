@@ -1,0 +1,3 @@
+- A West African country. 
+- this [reflection on slavery in Dahoney](https://www.reddit.com/r/AskHistorians/comments/si8q38/to_what_extent_were_the_dahomey_a_tribe_of/hv9b97i/) was interesting. 
+- [[2021.10.11 Sumptuary Laws#Quick Facts]]

@@ -1,0 +1,1 @@
+![[The Civilizations of Africa by Christopher Ehret#ch05p228 Social and Political Change in West Africa's First Commercial Age]]

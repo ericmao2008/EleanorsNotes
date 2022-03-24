@@ -1,0 +1,3 @@
+![[Domestic Storage Behavior in Mesoamerica#p63 monocrop agriculture doesn’t work in tropical ecosystems which makes centralization difficult]]
+
+#research to find more evidence of this. I know I’ve taught about this at work so it’s definitely true, but some better examples would be nifty. I can probably get some stuff from [[Sarah Taber]], and maybe add some stuff about how monocrop agriculture is bad for the environment _in general_ but it’s _particularly_ nonviable in tropical ecosystems. 

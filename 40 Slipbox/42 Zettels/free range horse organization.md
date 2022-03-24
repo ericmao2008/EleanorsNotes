@@ -1,0 +1,1 @@
+![[Early Pastoral Economies and Herding Transitions in Eastern Eurasia#p1002 free range horse organization]]

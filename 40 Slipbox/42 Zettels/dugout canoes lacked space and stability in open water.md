@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L578 dugout canoes lacked space and stability in open water]]

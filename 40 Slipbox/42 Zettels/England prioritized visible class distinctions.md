@@ -1,0 +1,1 @@
+![[Elizabethan Sumptuary Statutes#Elizabethan England prioritized visible class distinctions]]

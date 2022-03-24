@@ -1,0 +1,1 @@
+![[Elizabethan Sumptuary Statutes#Elizabethan sumptuary laws had a variety of purposes]]

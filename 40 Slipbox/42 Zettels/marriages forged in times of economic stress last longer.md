@@ -1,0 +1,5 @@
+Bloomberg found studies to support the claim that marriages formed during economic downturns like the Great Depression and Coronavirus pandemic tend to last longer, statistically, than those formed during times of prosperity. 
+
+[Bloomberg claims](https://twitter.com/bopinion/status/1418279726469337089) that it’s because people “forge stronger bonds by enduring tumultuous times together” but my understanding (based on a lot of critiques of Romance movies and books, really) is that bonds formed during shared trauma tend to be more fragile, so my suspicion is that this is actually more related to the fact that people who live through major crises are _more afraid of the consequences of leaving a stable but unsatisfying relationship_. 
+
+This is based at least partially on instincts honed after reading a lot of Captain Awkward and pop culture articles about how millennial being more willing to estrange themselves from their parents, because the modern generation doesn’t view relationships as duty, they’re more looking for fulfillment. 

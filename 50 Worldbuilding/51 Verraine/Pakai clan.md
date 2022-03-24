@@ -1,0 +1,1 @@
+[[Kala]]'s inlaws. Priestess is [[Jorali]]. Name indicates that they were skilled at making salt glass. 

@@ -1,0 +1,1 @@
+![[Domestic Storage Behavior in Mesoamerica#p57 the Inca had stronger control of labor forces than Mesoamerican societies]]

@@ -1,0 +1,1 @@
+![[Botulism is the World's Deadliest Thing by Anthony Warner#q9 pure Botox is the most valuable substance on earth per gram]]

@@ -1,0 +1,3 @@
+- [l] broader:: [[economics]]
+
+> A hacienda, in the colonies of the Spanish Empire, is an estate, similar to a Roman latifundium. a large landed estate, one of the traditional institutions of rural life. Originating in the colonial period, the hacienda survived in many places late into the 20th century. Some haciendas were plantations, mines or factories. Many haciendas combined these activities. (— Wikipedia)

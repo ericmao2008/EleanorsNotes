@@ -1,0 +1,1 @@
+![[social status of women in Viking culture#q1 Norse burials of high-status women included sacrificed humans]]

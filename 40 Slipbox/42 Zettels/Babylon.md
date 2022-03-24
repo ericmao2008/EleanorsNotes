@@ -1,0 +1,3 @@
+Babylonia rose to prominence in the Bronze Age around 1900 B.C., in present-day Iraq. Its capital, the city of Babylon, was first occupied by people known as the Amorites.
+
+The Amorite King [Hammurabi](http://www.history.com/news/history-lists/category/hammurabi) created one of the world’s earliest and most-complete written legal codes. The [Code of Hammurabi](https://www.history.com/topics/ancient-history/hammurabi) helped Babylon surpass the [[Sumer|Sumerian]] City of Ur as the region’s most powerful city.

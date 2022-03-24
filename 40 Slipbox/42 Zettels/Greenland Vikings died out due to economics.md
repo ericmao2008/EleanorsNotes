@@ -1,0 +1,1 @@
+![[Tamed by Alice Roberts#ch03p93 Greenland Vikings died out due to economics]]

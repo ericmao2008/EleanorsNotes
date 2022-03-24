@@ -1,0 +1,1 @@
+![[We Condone It by Our Silence by Rebecca Futo Kennedy#q4 Athenian elites were cruel even to their friends]]

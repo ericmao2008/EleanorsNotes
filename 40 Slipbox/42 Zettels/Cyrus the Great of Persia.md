@@ -1,0 +1,7 @@
+The founder of the Achaemenid Empire, the first Persian empire.
+
+Under his rule, the empire embraced all the previous civilized states of the ancient Near East, expanded vastly and eventually conquered most of Western Asia and much of Central Asia. From the Mediterranean Sea and Hellespont in the west to the Indus River in the east, Cyrus the Great created the largest empire the world had yet seen. Under his successors, the empire eventually stretched at its maximum extent from parts of the Balkans (Bulgaria–Paeonia and Thrace–Macedonia) and Southeast Europe proper in the west, to the Indus Valley in the east.
+
+Cyrus the Great respected the customs and religions of the lands he conquered. This became a very successful model for centralized administration and establishing a government working to the advantage and profit of its subjects. (See also: [[leaders paid lip service to the preferences of natives they conquered]]
+
+The administration of the empire through satraps and the vital principle of forming a government at Pasargadae were the works of Cyrus. What is sometimes referred to as the Edict of Restoration (actually two edicts) described in the Bible as being made by Cyrus the Great left a lasting legacy on the Jewish religion. According to Isaiah 45:1 of the Hebrew Bible, God anointed Cyrus for this task, even referring to him as a messiah (lit. 'anointed one') and he is the only non-Jewish figure in the Bible to be called so.

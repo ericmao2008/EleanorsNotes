@@ -1,0 +1,1 @@
+Combine [[Wired for Story by Lisa Cron]] section 7 and [[Tamed by Alice Roberts]]'s piece about advancement being from necessity not ingenuity into an #nonfic/articleSeed

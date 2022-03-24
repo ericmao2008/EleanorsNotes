@@ -1,0 +1,2 @@
+- sheep herder
+- author of [[Against the Grain by James C. Scott]]

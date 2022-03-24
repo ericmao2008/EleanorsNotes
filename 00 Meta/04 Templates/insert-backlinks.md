@@ -1,0 +1,3 @@
+```query
+[[<% tp.file.title %>]]
+```

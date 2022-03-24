@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L864 founders of colonies attain high status]]

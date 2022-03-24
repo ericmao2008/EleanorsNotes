@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L882 relationships between distant peoples predate the internet]]

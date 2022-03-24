@@ -1,0 +1,1 @@
+![[The Origins of Agriculture in the Near East#p9 goat domestication was part of a regional economic strategy predating morphological changes in the animals]]

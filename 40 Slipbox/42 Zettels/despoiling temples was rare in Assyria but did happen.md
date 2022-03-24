@@ -1,0 +1,1 @@
+![[Assyrian imperialism#q4 despoiling temples was rare in Assyria but did happen]]

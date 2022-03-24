@@ -1,0 +1,6 @@
+- proton mail has a nice android app, and decent hotkey support, but is about $80 for 2 years to use with a custom domain name and **doesn't have "send later" support**
+- zoho mail is very "advertisey" and notification heavy and noisy and not at all soothing to use.
+- bluemail doesn't have good hotkey support, but _is_ basically free. 
+- fastmail is $60 for two years (pay by the year), but the basic plan doesn't support snooze. 
+- hey doesn't let you do send-as from gmail. 
+- mailbird doesn't have a uri scheme 

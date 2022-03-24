@@ -1,0 +1,1 @@
+Sometimes we think the old signs and portents are silly, but Hurricane Ida demonstrates that we do the same thing in the modern day. When the Mississippi River flows backwards, we hunker down and expect a big storm. 

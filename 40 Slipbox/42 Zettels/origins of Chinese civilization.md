@@ -1,0 +1,4 @@
+It is hard to say exactly when villages and tribes began arising in the Huang He Valley, but most scholars agree that a major power consolidation occurred from around 2100 to 1600 B.C.E., creating the Xia Dynasty. During that time, tribal leaders came together to try to solve the problem of the Huang He overflowing and wiping out their villages and crops — a common problem to face a [[river valley civilization]].
+
+Da Yu, or Yu the Great, is a mythological figure who created systems to control the floods in the Huang He Valley, and is credited as the first leader of the Xia Dynasty. With the ability to better control the Huang He and save their crops from flooding, Chinese leaders were able to solidify their rule of [[China]], and a number of dynasties headquartered in the region followed. The valley became the center of Chinese culture, society, and learning.
+

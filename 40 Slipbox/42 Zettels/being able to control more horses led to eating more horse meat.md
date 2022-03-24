@@ -1,0 +1,1 @@
+![[Early Pastoral Economies and Herding Transitions in Eastern Eurasia#p1011 being able to control more horses led to eating more horse meat]]

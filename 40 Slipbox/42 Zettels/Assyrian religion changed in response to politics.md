@@ -1,0 +1,1 @@
+![[Assyrian imperialism#q1c Assyrian religion changed in response to politics]]

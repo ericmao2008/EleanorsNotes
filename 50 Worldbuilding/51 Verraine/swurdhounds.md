@@ -1,0 +1,1 @@
+hunting dogs bred specially to accompany [[Swordwulfen]]. 

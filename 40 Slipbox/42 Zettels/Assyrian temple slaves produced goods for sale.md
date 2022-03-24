@@ -1,0 +1,1 @@
+![[Assyrian imperialism#q3 Assyrian temple slaves produced goods for sale]]

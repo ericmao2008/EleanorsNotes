@@ -1,0 +1,2 @@
+* [St. Brendan's Voyage](https://member.worldhistory.org/article/1330/in-search-of-the-promised-land--saint-brendans-voy/)
+* [[Five Real Sea Monsters Brought to Life by Early Naturalists by Grace Costantino#q5 folktale about giant whale as island]]

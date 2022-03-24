@@ -1,0 +1,2 @@
+- [Alpacas vs Llamas : BOLIVIA](https://www.reddit.com/r/BOLIVIA/comments/m3dwhu/alpacas_vs_llamas/?utm_medium=android_app&utm_source=share) explains how llamas are great for protecting flocks. 
+- [Geese](https://hellohomestead.com/why-geese-are-good-guard-animals/) are great at protecting farms (this was a plot point in the Imager series by [[L. E. Modesitt]]) 

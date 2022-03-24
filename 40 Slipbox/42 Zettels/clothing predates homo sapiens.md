@@ -1,0 +1,1 @@
+![[When Did Humans Start Wearing Clothes by Katie Hunt#q2 clothing predates homo sapiens]]

@@ -1,0 +1,1 @@
+![[The Origins of Agriculture in the Near East#p1 domestication markers for cereals and animals include tough rachis and size changes]]

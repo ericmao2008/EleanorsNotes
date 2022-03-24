@@ -1,0 +1,1 @@
+According to the [[The Tyrants of Syracuse by Jeff Champion]], the Greeks really hated the people of Carthage. Just ilke the [[Roman]] people did. It's super unclear why, though — other than the ritual sacrifices (a la the [[Aztecs]] of [[Mesoamerica]]) they didn't do much that was terribly different from the Greeks in terms of morality. 

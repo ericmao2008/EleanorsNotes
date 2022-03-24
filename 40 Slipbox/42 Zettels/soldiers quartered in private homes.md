@@ -1,0 +1,1 @@
+This phenomenon happened in [[Army and Society in Ptolemaic Egypt by Christelle Fischer-Bovet]], the American Revolution, and probably American soldiers during WWII (south of Netherlands). 

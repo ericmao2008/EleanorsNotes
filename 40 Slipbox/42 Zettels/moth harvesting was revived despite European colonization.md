@@ -1,0 +1,1 @@
+![[Aboriginal Australians Dined on Moths 2,000 Years Ago#Indigenous peoples stopped moth harvests because of European colonialism, but the practice was revived.]]

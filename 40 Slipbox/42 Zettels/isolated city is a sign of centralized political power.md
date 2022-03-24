@@ -1,0 +1,1 @@
+![[Domestic Storage Behavior in Mesoamerica#p60 isolated city is a sign of centralized political power]]

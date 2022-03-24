@@ -1,0 +1,1 @@
+Sometimes the rope snaps. Sometimes it's a deadlock. Sometimes you pull for a bit and are winning then the other team digs in and finds some grit. 

@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#l1558 Egyptian sea navigators relied on coastal sailors and land surveying tools]]

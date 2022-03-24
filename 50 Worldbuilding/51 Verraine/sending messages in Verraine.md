@@ -1,0 +1,2 @@
+- [?] How did messages get sent? Probably with travelers and tinkers and complex family connections from people who might go to different towns and meet up with different people in market days. Honestly, though, traders. 
+- [I] Relate this to [[Transporting Information]] and do an #nonfic/articleSeed/afterword where I #pkm/crossReference to that note I have somewhere about how people would get mad if their relatives in another town didn't send sufficient gifts. #nonfic/twitterFodder 

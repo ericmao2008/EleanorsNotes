@@ -1,0 +1,3 @@
+- see also: [[Misaligned Incentives]]
+- ranked choice voting vs. winner take all
+- [[more female leaders in parliamentary system]]

@@ -1,0 +1,2 @@
+- [[The Civilizations of Africa by Christopher Ehret#ch08 The Early Atlantic Age 1450-1640]]
+- [[greenSumptuaryLawsPrecolonial2019#p11]]

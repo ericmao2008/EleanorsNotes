@@ -1,0 +1,5 @@
+Sarah stared hatefully at the back of her captor’s bald head as he gave the bronze chain anchoring her to her fellow slaves a hard, negligent yank. She stumbled forward, but she would have stayed on her feet if the woman behind her hadn’t tripped over the hem of her skirt and fallen to her knees. The older woman’s weight drove Sarah to the ground, but at least she was wearing breeches. That was all that saved her from getting tangled up in her own clothes as she fell. 
+
+As the line halted, the bald slaver turned. His pockmarked face was thunderous as he got exactly the opposite effect that he’d intended. “Back on your feet!” he snapped, and two of the escorts moved in closer to help. They waded through the thorny grass of the eastern savannah under the watchful eye of the mounted rearguard, and Sarah struggled back to her feet without bracing herself with her chained hands. 
+
+She managed the feat, but the woman behind her was too wrapped up in her clothes to manage the same. She only fell again, for no one else was willing to lend a hand—not with the escorts mere footsteps away. 

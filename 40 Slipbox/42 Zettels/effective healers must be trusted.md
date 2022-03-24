@@ -1,0 +1,1 @@
+![[Pascalian Medicine by Scott Alexander#252516328 effective healers must be trusted]]

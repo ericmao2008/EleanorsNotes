@@ -1,0 +1,1 @@
+![[When Did Humans Start Wearing Clothes by Katie Hunt#q1 human hands polish bone tools]]

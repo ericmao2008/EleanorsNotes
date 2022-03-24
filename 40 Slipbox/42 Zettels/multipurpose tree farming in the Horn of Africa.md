@@ -1,0 +1,1 @@
+[[The Civilizations of Africa by Christopher Ehret#ch03p83]] discusses using palms for dates, oil, wine, nuts, and textiles. 

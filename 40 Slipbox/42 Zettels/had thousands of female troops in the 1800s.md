@@ -1,0 +1,1 @@
+![[The Amazons of Dahomey by Danielle Paquette#Dahomey had thousands of female troops in the 1800s]]

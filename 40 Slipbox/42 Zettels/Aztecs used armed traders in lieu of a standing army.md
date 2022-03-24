@@ -1,0 +1,1 @@
+![[Implications of the militarization of Aztec merchants#q2 Aztecs used armed traders in lieu of a standing army]]

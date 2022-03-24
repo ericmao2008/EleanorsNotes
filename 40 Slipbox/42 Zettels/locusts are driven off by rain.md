@@ -1,0 +1,1 @@
+![[Kenyan Pastoralists Impacted by Locust Swarms by Georgina Smith#q1 locusts are driven off by rain]]

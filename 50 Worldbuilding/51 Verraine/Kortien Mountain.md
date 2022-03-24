@@ -1,0 +1,1 @@
+The mountain in eastern [[Edarebia]] where [[Kala]] and the rest of the [[Eheu Isle]] refugees wound up. The settlement of [[Tulpitown]] was founded in the year 50 ATA. 

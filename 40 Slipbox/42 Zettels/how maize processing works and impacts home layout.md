@@ -1,0 +1,1 @@
+![[Domestic Storage Behavior in Mesoamerica#p81 how maize processing works and impacts home layout]]

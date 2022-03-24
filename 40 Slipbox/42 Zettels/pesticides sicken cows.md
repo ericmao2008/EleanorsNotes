@@ -1,0 +1,1 @@
+![[Kenyan Pastoralists Impacted by Locust Swarms by Georgina Smith#q5 pesticides can harm herds]]

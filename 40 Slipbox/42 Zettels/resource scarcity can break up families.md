@@ -1,0 +1,1 @@
+![[Kenyan Pastoralists Impacted by Locust Swarms by Georgina Smith#q2 resource scarcity can break up families]]

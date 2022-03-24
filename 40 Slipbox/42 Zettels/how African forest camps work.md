@@ -1,0 +1,1 @@
+![[People of the Rainforest#q3 how African forest camps work]]

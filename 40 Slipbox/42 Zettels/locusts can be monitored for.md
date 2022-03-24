@@ -1,0 +1,1 @@
+![[What Are Locusts and Why Do They Swarm by Greg Uyeno#q6 locusts can be monitored for]]

@@ -1,0 +1,3 @@
+[[Cynthia Lukyanenko]] once said (paraphrased) that a dead language is one that may have speakers but no native speakers who learn it in childhood. Hebrew was a dead language for a super long time before it was revived in Israel.
+
+Apparently, according to [[In Search of the Phoenicians by Josephine Quinn#L3911]] the Libyan language in the Maghreb died out and then was revived by Saharan migrants.  

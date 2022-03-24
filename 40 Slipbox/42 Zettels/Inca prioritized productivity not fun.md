@@ -1,0 +1,1 @@
+![[Inca games or the lack thereof#252578697 Inca prioritized productivity not fun]]

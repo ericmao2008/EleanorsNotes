@@ -1,0 +1,7 @@
+---
+moc: "china"
+---
+
+The Mongol conquest of [[China]] was a series of major military efforts by the Mongol Empire to invade China proper. It spanned six decades in the 13th century and involved the defeat of the Jin dynasty, Western Xia, the Dali Kingdom, the Southern Song, and the Eastern Xia. The [[Mongols]] under Genghis Khan started the conquest with small-scale raids into Western Xia in 1205 and 1207. By 1279, the Mongol leader Kublai Khan had established the Yuan dynasty in China and crushed the last Song resistance, which marked the onset of all of China under the Mongol Yuan rule. This was the first time in history that the whole of China was conquered and subsequently ruled by a foreign or non-native ruler.
+
+

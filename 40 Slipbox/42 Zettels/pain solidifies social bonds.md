@@ -1,0 +1,1 @@
+![[Why Walking on Legos Hurts More Than Walking on Fire or Ice#Shared pain solidifies social bonds]]

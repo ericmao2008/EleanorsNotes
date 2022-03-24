@@ -1,0 +1,1 @@
+![[Domestic Storage Behavior in Mesoamerica#p71 Maya residential compound layout]]

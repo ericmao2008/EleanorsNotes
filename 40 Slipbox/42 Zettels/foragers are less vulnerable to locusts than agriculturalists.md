@@ -1,0 +1,1 @@
+![[how hunter-gatherer communities deal with locusts#id253461192 foragers are less vulnerable to locusts than agriculturalists]]

@@ -1,0 +1,1 @@
+#fic/editPending to change [[Charm City Curses.docx]] into .md format, split the chapters or at least add headings, refactor so that it's taking place in post-[[Swordwulfen]] futuristic Verraine and not necessarily be urban fantasy anymore. 

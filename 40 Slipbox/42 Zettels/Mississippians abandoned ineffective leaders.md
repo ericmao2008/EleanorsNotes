@@ -1,0 +1,1 @@
+![[Mississippian Culture#q3 Mississippians abandoned ineffective leaders]]

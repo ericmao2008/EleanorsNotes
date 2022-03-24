@@ -1,0 +1,3 @@
+![[On Looking in the Past for a Better Future by Dr Eleanor Janega#id263739064 difficult to fight a monarchy without your soldiers becoming rulers]]
+- [n] this sort of misses the point that violence is necessary to defend from violence-how do you keep the people willing to defend you from becoming are nobility or ruling class? That is the critical question! #pkm/crossreference with the rise of social classes and maces stuff. #nonfic/articleSeed [[2021.06.16a symbols of power & the duties of leadership]]
+- [n] link to [[Pro Life]] as a way to flesh out the enemy and the core conflict; how do they preserve their wonderful way of life without becoming monsters; he who fights monsters is doomed to become.

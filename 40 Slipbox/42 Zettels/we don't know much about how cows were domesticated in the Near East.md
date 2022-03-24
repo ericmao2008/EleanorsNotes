@@ -1,0 +1,1 @@
+![[The Origins of Agriculture in the Near East#p7 we don't know much about how cows were domesticated in the Near East]]

@@ -1,0 +1,5 @@
+The biladiyn are the front-line operatives of the [[Order of the Hallowed Dakhma]] tasked with providing security and support for priests of all Nahrian Temples, specifically [[thaumaturge|thaumaturges]]. They are politically neutral and do not engage in offensive actions, they are bodyguards only. This has drawn criticism from both city-state nobility and the individual Temples themselves. There is a political movement to split them, and the internal politics are getting kind of ugly.
+
+```query
+tag:#character biladiyn
+```

@@ -1,0 +1,6 @@
+- [<] Status Log
+	- created:: [[<% tp.file.creation_date("YYYY-MM-DD") %>]]
+	- status-updated:: [[<% tp.date.now("YYYY-MM-DD") %>]]
+	- current-status:: #nonfic/articleSeed
+- [S] Marketing
+	- purpose:: 

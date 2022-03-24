@@ -1,0 +1,1 @@
+![[Fanged Deer Not Extinct, Still Roaming the Mountains of Afghanistan#1 some deer have fangs instead of antlers]]

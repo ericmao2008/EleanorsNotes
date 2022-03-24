@@ -1,0 +1,1 @@
+![[Domestic Storage Behavior in Mesoamerica#p54 control of food surplus leads to social hierarchy]]

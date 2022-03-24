@@ -1,0 +1,1 @@
+![[social status of women in Viking culture#q2 sacrifice in Norse burials was relatively rare]]

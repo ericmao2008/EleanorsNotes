@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L1172 too much taxation leads to starvation]]

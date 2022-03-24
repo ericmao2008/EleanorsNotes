@@ -1,0 +1,5 @@
+- [b] [reddit post](https://www.reddit.com/r/interestingasfuck/comments/ta13lh/demonstration_of_stokes_flow_in_a_corn_syrup_in/) 
+	- ["] Demonstration of Stokes' flow in a corn syrup. In this type of flow... The mixed solution can be reverted back to it's original state by just reversing the process of mixing.
+		- ["] It's not really blending the drops, just making a spiral- like a galaxy with different colored arms. You're looking at it from the side, and it's transparent, so you see the combination of the colors instead of the separate arms.
+		  
+		  If you looked at it from the top, you'd see the spiral winding and unwinding as the person turns the crank- the corn syrup behaves less like water and more like a very loose rubber — [source comment](https://www.reddit.com/r/interestingasfuck/comments/ta13lh/comment/hzz7sl7/?context=3)

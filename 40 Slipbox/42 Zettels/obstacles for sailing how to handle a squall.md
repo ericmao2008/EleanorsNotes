@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L490 obstacles for sailing how to handle a squall]]

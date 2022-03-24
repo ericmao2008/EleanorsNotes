@@ -1,0 +1,1 @@
+![[Early Pastoral Economies and Herding Transitions in Eastern Eurasia#p1002 the introduction of horses in North America led to new raid-based socio-economic dynamics]]

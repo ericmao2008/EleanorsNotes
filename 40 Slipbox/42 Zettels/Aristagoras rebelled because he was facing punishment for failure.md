@@ -1,0 +1,1 @@
+![[Persian Accounts of the Greek Wars#q4 Aristagoras rebelled because he was facing punishment for failure]]

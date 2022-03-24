@@ -1,0 +1,1 @@
+The United Nations Educational, Scientific and Cultural Organization is a specialized agency of the United Nations aimed at promoting world peace and security through the international cooperation in education, arts, sciences, and culture.

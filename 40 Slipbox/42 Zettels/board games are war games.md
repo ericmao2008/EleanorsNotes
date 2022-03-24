@@ -1,0 +1,1 @@
+![[Inca games or the lack thereof#252578695 board games are war games]]

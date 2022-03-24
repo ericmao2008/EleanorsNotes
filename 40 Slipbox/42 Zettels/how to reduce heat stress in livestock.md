@@ -1,0 +1,10 @@
+- [v] [Adaptation to hot climate and strategies to alleviate heat stress in livestock production](https://www.semanticscholar.org/paper/aad9b29a831dd8599e34b4f9aedb66691f08c92c)
+	-  strategies can be classified into three groups: 
+		- increasing feed intake or decreasing metabolic heat production, 
+		- enhancing heat-loss capacities
+		- genetic selection for heat tolerance.
+			- Although differences in thermal tolerance exist between livestock species (ruminants > monogastrics), there are also large differences between breeds of a species and within each breed. 
+	- Under heat stress, improved production should be possible through modifications of diet composition that either:
+		- promotes a higher intake 
+		- compensates the low feed consumption. 
+	- Altering feeding management such as a change in feeding time and/or frequency are efficient tools to avoid excessive heat load and improve survival rate, especially in poultry. 

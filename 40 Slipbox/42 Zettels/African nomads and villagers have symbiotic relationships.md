@@ -1,0 +1,1 @@
+![[People of the Rainforest#q4 African nomads and villagers have symbiotic relationships]]

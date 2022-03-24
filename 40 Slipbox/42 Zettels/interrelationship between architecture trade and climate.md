@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#the interrelationship between architecture trade and climate]]

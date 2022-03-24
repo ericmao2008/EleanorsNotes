@@ -1,0 +1,1 @@
+![[Malevolent Gods and Promethean Birds#p167 poets replaced philosophers as political critiquers during the Roman Empire]]

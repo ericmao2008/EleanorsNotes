@@ -1,0 +1,1 @@
+![[Persian Accounts of the Greek Wars#q6 Persian adoption of papyrus is a reason we have few Achaemenid records]]

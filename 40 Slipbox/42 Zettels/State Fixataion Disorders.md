@@ -1,0 +1,6 @@
+### Mal de debarquement
+
+> you know how if you go on a boat, you might get seasick and nauseous for a few hours/days until you get your "sea legs", and then you're fine? And you know how, once you get off the boat, you might feel sick and nauseous for a few hours/days until you get your "land legs" again, and then you're fine? In some extremely small percent of cases, you never get your land legs and you feel sick and nauseous forever. You can take one boat trip, get off it, something goes wrong, and you feel nauseous for the rest of your life. This is the purest example of what I mean by "state fixation disorder" - you have a state (like seasickness) that you ought to adjust away from quickly, and somehow it becomes fixed and lasts forever for unclear reasons. 
+> <cite>[What Should We Make Of Sasha Chapin's Claim That Taking LSD Restored His Sense Of Smell After COVID? - by [[Scott Alexander]] - Astral Codex Ten](https://astralcodexten.substack.com/p/what-should-we-make-of-sasha-chapins)</cite>
+
+Reminds me of [[obstacles sailors might face]] and how bad seasickness can really be. The fact that “omg I might be stuck like this forever” is a real fear blows my mind. 

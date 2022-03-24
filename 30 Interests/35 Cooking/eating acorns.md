@@ -1,0 +1,3 @@
+* [[Eating Acorns.pdf]] ([Source](https://twitter.com/melgillman/status/1347994784741384199)
+* You can hang the bag of acorns in the tank and flush normally for a couple weeks to leech the tannins. The tank water is CLEAN enough to be commonly recommended as available for human consumption in a water emergency. [Source](https://twitter.com/Donna_Barr/status/1348022923173367808?t=tDs598umPfLg8HvB_Kp-9A)
+* [[eating acorns aka squirrels vs trees]] by [[Sarah Taber]] 

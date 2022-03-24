@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L1329 canoes aren't faster than portage]]

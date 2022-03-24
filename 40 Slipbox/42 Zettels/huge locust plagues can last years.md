@@ -1,0 +1,1 @@
+![[What Are Locusts and Why Do They Swarm by Greg Uyeno#q5 huge locust plagues can last years]]

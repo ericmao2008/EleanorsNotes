@@ -1,0 +1,1 @@
+![[troxlerElectoralAbuseLate2008#p155 Romans cynically used religious auguries to manipulate politics]]

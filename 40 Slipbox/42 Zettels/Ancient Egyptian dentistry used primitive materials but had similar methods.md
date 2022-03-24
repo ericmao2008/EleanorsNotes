@@ -1,0 +1,1 @@
+![[How Would Your Teeth Fare in Ancient Egypt#2 Ancient Egyptian dentistry used primitive materials but had similar methods]]

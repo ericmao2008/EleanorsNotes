@@ -1,0 +1,1 @@
+![[Kenyan Pastoralists Impacted by Locust Swarms by Georgina Smith#q4 economic insecure leads to violence]]

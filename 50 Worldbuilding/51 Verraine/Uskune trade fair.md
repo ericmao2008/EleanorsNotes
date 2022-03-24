@@ -1,0 +1,5 @@
+A trade fair in [[Uskune]] organized by [[Valentia]] that is a major plot point in [[Civil Mage|Civil Mage]]. 
+
+The [[Monche Nomads]] are probably bringing [[how spidersilk is harvested]] textiles, leathers, fermented mare's milk, carved drinking horns, etc. They are also likely to bring texts from western [[Nahrian Basin]]. The [[Voldshee]] would likely bring high quality timber and medicinal herbs, while [[Lupicin]] will be overseeing the sale of copper from the mines of Uskune (see also: the <a href="https://mythicscribes.com/history/history-for-fantasy-writers-miners/">Mythic Scribes article on mining</a>. #fic/expandWorldbuilding to add more flavor to the mines for the trade fair.) as well as bulk grain and fine pottery (see also: [[2020.12.07 Waterwheels]]; [[Mesopotamia|Sumerians]] invented the pottery wheel). 
+
+The trade fair is really a gift exchange; reference that article about gifting and tribute economies because the "tribute" often resulted in the tributaries getting lots of stuff. See also: [[tribute economies]] & [[5 SFF Stories With Unconventional Economic Systems]]

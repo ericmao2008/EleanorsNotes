@@ -1,0 +1,1 @@
+![[Mammoths Roasted in Prehistoric Barbecue Pit by NBC News#q3 decorated shells were found near prehistoric ovens]]

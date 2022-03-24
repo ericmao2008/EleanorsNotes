@@ -1,0 +1,3 @@
+[Ritualised friendship and the greek city](http://www.worldcat.org/oclc/1030083451) has a discussion about the duties of guest-rights and friendship that mirrors what I read about in [[The Horse The Wheel And Language by David Anthony#ch13p303 Guest-Host Relationships]]. They in fact use the same reference to the Iliad, which means I can use it as an [[Article & Blog Idea]] seed for [[Classical Wisdom]].  
+
+%% Used for [[5 SFF Novels That Shed Light on Obscure History]] %%

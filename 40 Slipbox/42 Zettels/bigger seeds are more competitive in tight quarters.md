@@ -1,0 +1,1 @@
+![[Tamed by Alice Roberts#ch02p60 bigger seeds are more competitive in tight quarters]]

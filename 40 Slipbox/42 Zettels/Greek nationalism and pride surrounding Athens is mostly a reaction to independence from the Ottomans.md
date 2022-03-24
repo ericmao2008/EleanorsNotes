@@ -1,0 +1,1 @@
+![[on the longevity of Athens instead of Sparta#q5 Greek nationalism and pride surrounding Athens is mostly a reaction to independence from the Ottomans]]

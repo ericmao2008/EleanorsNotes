@@ -1,0 +1,1 @@
+![[People of the Rainforest#q6 the precolumbian Amazon was sustainably cultivated]]

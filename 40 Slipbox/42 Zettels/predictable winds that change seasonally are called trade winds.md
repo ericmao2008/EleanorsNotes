@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L300 predictable winds that change seasonally are called trade winds]]

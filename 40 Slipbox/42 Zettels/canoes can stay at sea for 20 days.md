@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L1131 canoes can stay at sea for 20 days]]

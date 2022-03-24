@@ -1,0 +1,1 @@
+[[Vampires & Valkyries.docx]] is a zombie valkyrie story that is technically a post-conflagration story. I want to see if I can adapt it for Verraine. The Conflagration is going to have to be an epoch-level event... alongside the "loss of magic." Which, honestly, would make a great time for "The Genocide Draft" to be when all the mages get kicked out. 

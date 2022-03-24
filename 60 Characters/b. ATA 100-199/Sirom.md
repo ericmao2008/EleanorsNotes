@@ -1,0 +1,1 @@
+High Priestess of the Counselors. Political ally (of convenience) of [[Avestur]]. 

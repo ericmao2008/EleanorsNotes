@@ -1,0 +1,1 @@
+![[Domestic Storage Behavior in Mesoamerica#p60 collecting taxes is cheaper than controlling labor forces]]

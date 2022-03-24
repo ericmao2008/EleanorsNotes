@@ -1,0 +1,9 @@
+* [asked 2021-10-31](https://www.reddit.com/r/AskHistorians/comments/qjx2ns/the_clothes_worn_by_the_kings_wives_and_daughters/), based on [[6 Times Sumptuary Laws Told People What to Wear#clothes in a Korean dynasty defined familial relationships]]
+ 
+I've been reading about sumptuary laws and I stumbled across some references to Korean royal clothing but even after chasing down a bunch of references from pop history articles, I'm still pretty confused, so I turn to y'all for help.
+
+>In most cultures, sumptuary laws helped distinguish nobility from commoners, but in some places they also helped define royal relationships. During Korea’s Joseon dynasty (1392- 1897), when kings had multiple wives and many children, the colors royal women wore helped define their relationship to the king. For example the [colors of the *wonsam*](http://www.lifeinkorea.com/culture/clothes/clothes.cfm?xURL=official), the ceremonial overcoat worn by royal and high-ranking married women, were strictly codified, with the empress wearing yellow, the queen wearing red, and the crown princess and concubines donning a purple-red color. A princess born to a king and a concubine (or women of a noble family or lower) wore green. These colors made it easier to determine rank from a distance.  
+>  
+>— Joan Vos MacDonald ([Source](https://mentalfloss.com/article/94521/6-times-sumptuary-laws-told-people-what-wear))
+
+Was there really an empress *and* a queen? I'm assuming these are just English words being slapped on a complex political situation with nuances that are being lost in translation, so I'm hoping someone can explain a bit more about the lives and ranks of women in the elite ranks Joseon Dynasty? Thanks!

@@ -1,0 +1,6 @@
+> Digging clay out by hand and hauling it back to the studio is back breaking hard labor. Horses or oxen can help with that. The clay fresh from the side of the river probably has organic matter in it: leaves, sticks, maybe some fish bones. Organic matter in the clay will burn out during firing, but before that, it generates mold growth and lots of stink.
+> 
+> If your fantasy society includes a “master-apprentice” model, it would be the apprentice’s job to process the clay. They would spread it out on rocks or a dry yard, mash it up, and remove any rocks and obvious debris. Depending on what the master potter knows about his local clay, dry clay might even get sieved through screens to purify it. Once as “clean” as the mud can get, it would be mixed with water again, and allowed to age. It takes time for water to fully mix with and surround all of the clay particles, giving it the best plasticity possible. Historically, it was common to age the clay in caves, where the moisture and temperature is constant. Aging might take months, or even years in some cases.
+> <div></div>
+> <cite><a href="http://dankoboldt.com/pottery-ceramics-writers-part1/">Lisa Harnish</a> via Dan Koboldt</a></cite>
+

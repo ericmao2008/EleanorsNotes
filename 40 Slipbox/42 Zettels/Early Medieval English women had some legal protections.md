@@ -1,0 +1,1 @@
+![[Scandinavian Invaders & Gender Equality in the Western World#q2 Early Medieval English women had some legal protections]]

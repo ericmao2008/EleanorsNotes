@@ -1,0 +1,3 @@
+Fishing may actually be relatively recent development; evidence from [[The Civilizations of Africa by Christopher Ehret#ch02p45 Early Niger-Congo Society]] suggests it wasn't really practiced until between 16,000 BCE and 9000 BCE. Permanent settlements date to roughly 10000 BCE. Crop domestication, by contrast, started around 9500 BCE. The first evidence of humans using fire to shape our environment? roughly 40,000 years ago. 
+
+Yet the earliest fishhooks come from 40,000 BCE. 

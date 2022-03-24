@@ -1,0 +1,1 @@
+![[We Condone It by Our Silence by Rebecca Futo Kennedy#q1 Athens was oppressive]]

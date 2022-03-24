@@ -1,0 +1,1 @@
+british india https://www.bbc.com/future/article/20210824-how-the-worlds-longest-shrubbery-vanished-without-trace hedge prickly pear salt tax [[newsletter idea]] salt? hedges? edible plants? barriers? but definitely similar to wurm hedges

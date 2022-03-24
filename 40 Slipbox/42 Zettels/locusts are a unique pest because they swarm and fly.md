@@ -1,0 +1,1 @@
+![[What Are Locusts and Why Do They Swarm by Greg Uyeno#q1 locusts are a unique pest because they swarm and fly]]

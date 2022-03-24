@@ -1,0 +1,1 @@
+![[The Origins of Agriculture in the Near East#p11 people who colonized Cyprus brought a lot of different types of wild animals with them]]

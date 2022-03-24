@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L528 sighting land is easier from land than from the sea]]

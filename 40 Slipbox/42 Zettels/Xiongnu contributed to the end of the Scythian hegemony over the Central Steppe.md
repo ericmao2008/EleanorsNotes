@@ -1,0 +1,1 @@
+[Ancient genomes trace the origin and decline of the Scythians](https://phys.org/news/2021-03-ancient-genomes-decline-scythians.html) is an incredible resource on Scythians and their relationship with the Xiongnu, who seem to have migrated west and contributed to the end of the Scythian hegemony over the Central Steppe.

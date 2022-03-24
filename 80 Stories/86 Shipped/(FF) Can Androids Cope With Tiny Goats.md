@@ -1,0 +1,48 @@
+## Story
+
+The first night Ollie stood watch over the teleporter's bio-printer, white-backed vultures destroyed the latrines in their quest for settler shit. Ollie spent the next morning weaving protective nets out of river reeds and cursing her predecessor, who’d had the privilege of standing to pee. 
+
+The second night, one of the erstwhile university professors got dizzy-drunk off the impromptu colony's last box of plum wine and declared that Gliese was too imprecise a name for the planet they’d fled to. “_Gliese_ is a _catalogue_ of stars,” Dr. Jackson shouted, “You can’t name a planet _Gliese_!” 
+
+The cook, Andrea, declared herself sick of pedantic engineers and tossed Jackson into the river. The splash scared the local storks, who got tangled in the nets, which collapsed on Ollie. Ollie made the cook help cut a replacement fence for the latrines. As revenge, Andrea left feathers in her stork meat stew.
+
+On the third night of standing watch at base camp, the teleporter started beeping during Ollie's midnight dump. She hoisted up her pants, wishing — and not for the first time — that her Colonel had chosen to stay on Earth and defend the technocracy. At least then maybe she’d be able to shit in peace. 
+
+The teleporter clanked and whirred as it maneuvered molecules into place; it must be working on something big, like maybe a rhino. The Colonel said the planet had been terraformed into sort of reserve for endangered animals; like geneticists, he'd said grimly. Hoping for an Exmoor pony instead, or maybe one last refugee — and not, say, a battalion of Luddite rebels — Ollie stood ready with her lasso and a makeshift spear.
+
+A full five minutes later, the bio-printer finally spat out an organidroid holding a tiny black goat and a cardboard plate of quesadillas. Its dress dissolved in a flurry of half-transportable fabric. Six eggs fell from its pockets and broke on the landing pad. The yolk spread, absorbing the rain of disconnected organic fibers. 
+
+ "It spent a year's budget on bribes to get here and this is the outcome?" The organidroid looked annoyed despite its modulated, robotic tone. "I told the tailor not to put anything exotic into it.”
+
+The goat bleated angrily and started to flail her little hooves. 
+
+“Fashionistas never listen. I'm surprised they gave you pockets.” Ollie lowered her spear. “Hey, can I have that plate?”
+
+“No,” said the organidroid. The goat kicked out of its grip and started to paw at the pile of fabric, smearing lumpy yolk across the wooden floor.
+
+“Why not? Actually, let’s back up.” Peacekeepers weren't supposed to ever have to fight the technocracy's organidroids, but Ollie had spent a long time guarding Academy professors. Even computers that looked like they'd been built out of frog bits and fungus had debugging protocols. “Status check: what's your directive?” 
+
+The organidroid held open its mouth and the Dr. Jackson's voice emerged. “Use the stuff we’ve got in the pantry to make me a grilled cheese for lunch, then pick up whatever you need to make cheesy eggs.”
+
+“Goats make cheese,” Ollie said slowly, thrilled at the unexpected prospect of a decent meal on the backwater planet they'd escaped to. "But that's not a grilled cheese."
+
+“That inference is not supported by logic,” the organidroid disagreed, bending down to retrieve the goat. 
+
+Blessing the endless debates of pedantic engineers and the simple-mindedness of computerized brains, Ollie grinned. “Override basis 547, regional idiom update, subcategory 7 Bread requires yeast.” Her stomach growled hopefully.
+
+The organidroid actually managed to sound desolate as it cuddled the goat to its chest. “I have failed in my directive." 
+
+“Hey, don’t worry. Two out of three counts as a win here on Gliese.”
+
+“I have no bread, I have no eggs, and I am seven thousand minutes late for lunch,” the organidroid reported. “Success in one out of four parameters is clearly failure.” 
+
+“Listen, we’ve got plenty of birds here on Gliese. Why don’t you give me the quesadillas, since they’re useless now, and go hunt up some vulture eggs. I’ll tell Jack you're here, and he can reset your directive.”
+
+The organidroid agreed, and Ollie enjoyed the quesadilla — with its perfect char lines and just the faintest hint of cilantro — so much she didn't even mind having left her lactase pills behind. At least it got her in and out the latrines quickly.
+
+The engineers were devastated to get word of the Technocracy's fall, but her fellow Peacekeepers were mostly pissed that the goat got away from the organadroid long enough to devour the last of the wine. 
+
+## References
+
+* [Xenobots: The Organic Robots For Stem Cell Treatments](https://www.boldbusiness.com/health/organic-robots/)
+* [How to Make Goat Cheese Recipe - Chèvre - Analida's Ethnic Spoon](https://ethnicspoon.com/how-to-make-goat-cheese-recipe-chevre/)

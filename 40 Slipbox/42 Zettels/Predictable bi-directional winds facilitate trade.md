@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L111 Predictable bi-directional winds facilitate trade]]

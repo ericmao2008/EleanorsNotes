@@ -1,0 +1,3 @@
+- [b] [Sarah Hour on Twitter](https://twitter.com/SaCha1689/status/1505312346549403654)
+	- ["] Chinese & Japanese cultures have considered crickets good luck, symbols of prosperity, & even watchdogs, as they stop singing when someone approaches. In ancient times, farmers only began preparing for spring harvest after hearing a cricket's song. 
+- [I] Old European blogger has a bunch of stuff on this. #research 

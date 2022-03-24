@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L1306 human power mattered more than sail on the Aegean sea due to unpredictable winds]]

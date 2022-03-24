@@ -1,0 +1,4 @@
+> While the War of 1812 ended with the US, which had started the war, effectively surrendering following military failure on multiple fronts, the negotiated settlement included no loss of territory or reparations, and is widely considered a success for the US government because Britain was persuaded to treat the US as a contender in the Western Hemisphere and avoid further conflict.
+> 
+> <cite>u/GeschicteGeist — [Is it true that US never lose wars it didn't start but loses wars it started? : AskHistorians](https://www.reddit.com/r/AskHistorians/comments/pc2ict/is_it_true_that_us_never_lose_wars_it_didnt_start/hagdzvv/)</cite>
+> 

@@ -1,0 +1,3 @@
+- Max's [racoon video](https://www.youtube.com/watch?v=zbj0xOp_sLg) talks about how a big percentage of baby racoons die from "misadventure" i.e. falling out of a tree. 
+- Does most population control stuff happen because some animals don't reproduce if they're stressed from low nutrition, or do a bunch of animals actually _die_ of starvation? 
+- I [tweeted out the question](https://twitter.com/EleanorKonik/status/1493750090539753475). 

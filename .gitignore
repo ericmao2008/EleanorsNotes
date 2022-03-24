@@ -1,0 +1,42 @@
+# Ignore obsidian things
+
+.obsidian
+.trash
+*.vault-stats
+*.js
+*.ico
+
+# Ignore folders with private contents 
+
+00 Meta/01 Attachments/
+00 Meta/02 Pending/
+00 Meta/07 Platform/
+00 Meta/08 Markets/
+10 Dated/
+20 Private/
+30 Interests/31 Programming/
+30 Interests/34 Writing/
+40 Slipbox/43 References/43.05 PDFs/
+40 Slipbox/43 References/43.07 Unaltered/
+40 Slipbox/44 Entities/44.1 Acquaintances/
+60 Characters/61 Character Ideas/
+60 Characters/62 Character References/
+70 Newsletters/71 Iceberg/71.1 MMRR Ideas/
+90 Articles/
+
+# Ignore specific files with private contents
+
+00 Meta/04 Templates/Obsidian Roundup Template.md
+00 Meta/04 Templates/Refind Deep Dives Template.md
+publish.css
+
+# Ignore potentially large files
+
+*.pdf
+*.jpg
+*.jpeg
+*.excalidraw
+*.docx
+*.doc
+*.gif
+*.png

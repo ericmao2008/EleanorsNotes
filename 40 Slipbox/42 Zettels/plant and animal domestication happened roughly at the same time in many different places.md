@@ -1,0 +1,1 @@
+![[The Origins of Agriculture in the Near East#p1 plant and animal domestication happened roughly at the same time in many different places]]

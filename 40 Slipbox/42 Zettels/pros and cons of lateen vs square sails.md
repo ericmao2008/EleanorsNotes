@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L2044 pros and cons of lateen vs square sails]]

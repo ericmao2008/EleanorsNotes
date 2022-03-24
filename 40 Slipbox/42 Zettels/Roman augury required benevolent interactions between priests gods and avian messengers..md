@@ -1,0 +1,1 @@
+![[Malevolent Gods and Promethean Birds#p151 Roman augury required benevolent interactions between priests, gods, and avian messengers.]]

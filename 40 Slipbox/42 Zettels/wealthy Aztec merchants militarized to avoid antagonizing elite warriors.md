@@ -1,0 +1,1 @@
+![[Implications of the militarization of Aztec merchants#q3 wealthy Aztec merchants militarized to avoid antagonizing elite warriors]]

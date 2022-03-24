@@ -1,0 +1,1 @@
+[Chesterton's Fence](https://publish.obsidian.md/sashinexists/Concepts/Chesterton's+Fence) is similar to how [[hard cases make bad law]] in that laws exist for a reason, except it’s geared toward why you shouldn’t change them unless you understand them. 

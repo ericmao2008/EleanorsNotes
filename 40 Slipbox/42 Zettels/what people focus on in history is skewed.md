@@ -1,0 +1,1 @@
+![[Tamed by Alice Roberts#ch02p47 what people focus on in history is skewed]]

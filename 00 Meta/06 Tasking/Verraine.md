@@ -1,0 +1,2 @@
+-  #fic/expandWorldbuilding what is Verraine's moon situation? [[Newsletter Ideas]] tides/moons/gravity. 
+- create a linter that checks for common units of measure in Verraine stories. Speaking of linters, is there a good Linter for Chicago style stuff? 

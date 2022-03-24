@@ -1,0 +1,1 @@
+![[Tamed by Alice Roberts#ch02p60 sickles were a matter of preference not necessity]]

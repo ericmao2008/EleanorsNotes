@@ -1,0 +1,1 @@
+![[Domestic Storage Behavior in Mesoamerica#p63 elites can control agriculturalists by controlling surplus and information]]

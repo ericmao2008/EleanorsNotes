@@ -1,0 +1,1 @@
+![[Too Big to Sail How a Legal Revolution Clogged Our Ports by Matt Stoller#q8 resiliency is short-term inefficient]]

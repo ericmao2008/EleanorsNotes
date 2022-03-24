@@ -1,0 +1,2 @@
+## Decline
+Gradual drying of the region's soil during the 3rd millennium BCE may have been the initial spur for the urbanisation associated with the civilization, but eventually weaker monsoons and reduced water supply caused the civilisation's demise, and to scatter its population eastward and southward.

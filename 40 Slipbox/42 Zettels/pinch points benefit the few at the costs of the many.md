@@ -1,0 +1,3 @@
+![[Too Big to Sail How a Legal Revolution Clogged Our Ports by Matt Stoller#q6 pinch points benefit the few at the costs of the many]]
+
+- This is the kind of thing that gets leveraged a lot in history, monopolies aren't really new, for example toll booths and the kinds of exploitation that controlling the only access to water might have. There's a lot of #fic/storyStem opportunity here; consider Modesitt's work about damming water in the _Imager_ series. #nonfic/articleSeed about monopolies in fiction, too, and how fiction can teach us about monopolies. This one might be worth pitching to [[Tordotcom]] if I can get enough examples. 

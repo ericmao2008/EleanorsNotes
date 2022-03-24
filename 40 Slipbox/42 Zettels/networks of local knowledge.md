@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L1382 networks of local knowledge]]

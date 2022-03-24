@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L1079 mental models for sailing]]

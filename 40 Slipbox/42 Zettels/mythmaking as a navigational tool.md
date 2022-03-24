@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L838 mythmaking as a navigational tool]]

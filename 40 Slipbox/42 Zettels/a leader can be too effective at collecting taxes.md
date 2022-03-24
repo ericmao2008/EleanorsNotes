@@ -1,0 +1,1 @@
+![[Taxing Times in 2013 and 1013 The Anglo-Saxon State We're In by James Pennock#id242084408 a leader can be too effective at collecting taxes]]

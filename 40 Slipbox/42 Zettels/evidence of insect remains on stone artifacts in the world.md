@@ -1,0 +1,1 @@
+![[Aboriginal Australians Dined on Moths 2,000 Years Ago#first evidence of insect remains on stone artifacts in the world]]

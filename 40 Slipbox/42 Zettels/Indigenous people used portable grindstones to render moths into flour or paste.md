@@ -1,0 +1,1 @@
+![[Aboriginal Australians Dined on Moths 2,000 Years Ago#ancient Indigenous people used portable grindstones to render moths into flour or paste]]

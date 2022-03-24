@@ -1,0 +1,1 @@
+![[Beyond the Blue Horizon by Brian Fagan#L211 Sailing requires patience]]

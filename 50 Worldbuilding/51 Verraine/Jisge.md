@@ -1,0 +1,1 @@
+A market and trading town with a bridge located a few leagues north of [[Senna's Ford]]. It is a popular place for [[Imazi]] tribes to cross the [[Aakari River]].

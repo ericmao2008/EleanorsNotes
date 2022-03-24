@@ -1,0 +1,1 @@
+![[Mississippian Culture#q4 indigenous North American civilizations collapsed for a variety of reasons]]
