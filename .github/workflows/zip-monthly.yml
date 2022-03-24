@@ -28,7 +28,7 @@ jobs:
         
       # Runs a single command using the runners shell
       - name: zip everything but the Stories folder
-        run: zip -r "${{ env.FILE_NAME }}" . -x 80 Stories/**\*
+        run: zip -r ${{ env.FILE_NAME }} . -x 80 Stories/**\*
 
       - name: Upload zip file
         uses: actions/upload-artifact@v2
