@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: zip everything but the Stories folder
-        run: zip -r myarchive.zip dir1 -x 80 Stories/**\*
+        run: zip -r myarchive.zip . -x 80 Stories/**\*
 
       - name: Get file name
         run: |
