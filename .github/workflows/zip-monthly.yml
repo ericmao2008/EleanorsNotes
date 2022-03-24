@@ -34,6 +34,6 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.FILE_NAME }}
-          path: src/${{ env.FILE_NAME }} # path of the zip file you just created in the previous steps
+          path: ${{ env.FILE_NAME }} # path of the zip file you just created in the previous steps
 
 
