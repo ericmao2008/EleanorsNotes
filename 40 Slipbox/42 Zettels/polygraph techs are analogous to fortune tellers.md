@@ -7,4 +7,4 @@
 > 
 > However, the problem with that, is that it presumes that individuals react in a predictable manner with specific traits associated with deception.  In other words, the underlying "theory" is that physiological reactions will occur because of "guilty knowledge" in whatever is being investigated.
 
-- [I] This is a useful #fic/storyStem because when I write about the 
+- [I] This is a useful #fic/storyStem because when I write about mentalist and psychic type characters, I should do it with the seriousness and earnestness that modern culture treats lie detector techs. 

@@ -1,0 +1,2 @@
+* [melon](https://melonapp.com/) is free for up to 4 hours, allows for real-time alerts, 2 participants, and has limited branding options. $5 (with coupon) it's $5/mo to mirror to up to 3 platforms (i.e. twitch / youtube / twitter)
+* [obs](https://obsproject.com/) is confusing and hard to use, but FOSS. 

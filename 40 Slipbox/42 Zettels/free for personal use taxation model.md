@@ -1,0 +1,1 @@
+I like the "free for personal use" business model for software; I wonder what it would look like applied at the government level. Nobody seems to begrudge it for software, and honestly lots of governments in history got most of their tax revenue from trade, i.e. the [[West African Kingdoms]] so it doesn't seem that outrageous. #fic/storyStem 
