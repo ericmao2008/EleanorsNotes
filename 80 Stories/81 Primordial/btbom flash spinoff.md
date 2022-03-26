@@ -1,5 +1,5 @@
 %%
-universe:: [[80 Stories/82 Indexes/Verraine]]
+universe:: [[Verraine]]
 year::
 status:: pitched
 protagonist:: [[Kirken]]

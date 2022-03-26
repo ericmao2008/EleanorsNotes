@@ -1,6 +1,6 @@
 - [i] Metadata
 	- length:: flash
-	- universe::  [[80 Stories/82 Indexes/Verraine]]
+	- universe::  [[Verraine]]
 	- time:: 445 ATA
 	- market::
 	- protagonist:: [[Dracie]]

@@ -4,7 +4,7 @@
 
 - [i] Metadata
 	- length::
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: related to [[2022.02.16 Corbels (MF)]] maybe? [[Iaque]] would be [[Kayci]]'s father. 
 	- market:: [[The Iceberg]]
 	- protagonist:: [[Iaque]] 

@@ -6,7 +6,7 @@ created: 2021-11-20
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: 650 ATA, during the conquest of [[Maehlorn]], after [[2021.10.20 Eavesdrop (MF)]]
 	- market:: [[The Iceberg]]
 	- protagonist:: [[Chaghalka]] 

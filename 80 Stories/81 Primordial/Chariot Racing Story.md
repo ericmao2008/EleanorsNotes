@@ -5,7 +5,7 @@ current-status: seed
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: after [[2021.10.20 Eavesdrop (MF)]]
 	- market::
 	- protagonist:: [[Chaghalka]] 

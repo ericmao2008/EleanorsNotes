@@ -1,7 +1,7 @@
 
 - [i] Metadata
 	- length:: short story
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: 3000 ATA
 	- market::
 	- protagonist:: [[Adalia]] 

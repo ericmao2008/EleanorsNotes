@@ -1,4 +1,4 @@
-The solar year in [[80 Stories/82 Indexes/Verraine]] is about 400 days long. The planet has no moon, but astrologically speaking, a new constellation rises in the east every 10 days, marking the beginning of a **decan**. There are 15 constellations that cycle through, so that the astrological calendar does not perfectly align with the solar calendar. However, most civilizations count **40 decans in a year.**
+The solar year in [[Verraine]] is about 400 days long. The planet has no moon, but astrologically speaking, a new constellation rises in the east every 10 days, marking the beginning of a **decan**. There are 15 constellations that cycle through, so that the astrological calendar does not perfectly align with the solar calendar. However, most civilizations count **40 decans in a year.**
 
 The **dating system** for Verraine on a meta level counts from the founding of the Temple of [[The Archivist]] and is therefore demarcated as ATA. 
 

@@ -1,5 +1,5 @@
 %%
-universe:: [[80 Stories/82 Indexes/Verraine]]
+universe:: [[Verraine]]
 year::
 status:: 
 market:: [[The Iceberg]], [VSS395](https://twitter.com/EleanorKonik/status/1434849080354779136). 

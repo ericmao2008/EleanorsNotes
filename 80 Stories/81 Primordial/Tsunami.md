@@ -8,7 +8,7 @@ year: 2500 ATA
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- market:: [[Worldbuilding Magazine]]
 	- protagonist:: [[Nicopimu]]
 	- mentions:: [[Savion Euskara]]

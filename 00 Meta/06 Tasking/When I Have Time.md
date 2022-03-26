@@ -5,6 +5,6 @@
 ## Fiction
 
 - [ ] finish [[Carmine Mage]]
-- [ ] migrate [[Charm City Curses]] to [[Verraine]] in the future the important point was always about the businesses and the werewolf magic which can be handled it never really required the Baltimore setting that was just something easier, it should be workable to move it into the future of a Eastern region that fights the marsh people as an allegory for Christianity, and also has some sort of [[Swordwulfen]] heritage in the biology. 
+- [ ] migrate [[Charm City Curses]] to [[Verraine Tasking]] in the future the important point was always about the businesses and the werewolf magic which can be handled it never really required the Baltimore setting that was just something easier, it should be workable to move it into the future of a Eastern region that fights the marsh people as an allegory for Christianity, and also has some sort of [[Swordwulfen]] heritage in the biology. 
 
 

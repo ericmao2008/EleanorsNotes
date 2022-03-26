@@ -6,7 +6,7 @@ created: 2021-11-20
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: circa [[2022.01.05 The Magic of Marsh Protection (FF)]] & [[Indigenous Mage]]
 	- market::
 	- protagonist:: [[Tyoka]]

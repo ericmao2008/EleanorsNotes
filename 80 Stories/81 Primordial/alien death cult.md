@@ -5,7 +5,7 @@ tag: fic/editPending
 
 
 - [i] An alien species that counts prestige in the number of spouses you've buried. Or is that too on the nose? Ehh it's too similar to first wive's club, I think. 
-- [i] should be in [[80 Stories/82 Indexes/Verraine]] because it doesn't really fit anywhere else, I think. Alien from the [[crystal magic]] realm, maybe? 
+- [i] should be in [[Verraine]] because it doesn't really fit anywhere else, I think. Alien from the [[crystal magic]] realm, maybe? 
 
 They didn't realize I was male. 
 
@@ -13,7 +13,7 @@ It was the only explanation I could think of for why a group of six $alien speci
 
 The one with a ring of green snakes wrapped around her prehensile tail %% #research  prehensile tails this is a common scifi schtick but maybe I can do it better? %% held a priceless porcelain teacup a handspan from her nose and paused for effect. "Would you believe he expected me to _dance_?"
 
-"No!" the woman I was trying to serve nearly knocked the bowl of [[snapper]] pie right out of my hands with her dramatics. I kept my face impassive, because, like everyone who worked at Portal Paradise, I was a a trained diplomat in the service of the Star Council. %% post-modern period of [[80 Stories/82 Indexes/Verraine]] history, after portals, after demesnes, after the queens and councils and that whole form of government becomes the norm. %%
+"No!" the woman I was trying to serve nearly knocked the bowl of [[snapper]] pie right out of my hands with her dramatics. I kept my face impassive, because, like everyone who worked at Portal Paradise, I was a a trained diplomat in the service of the Star Council. %% post-modern period of [[Verraine]] history, after portals, after demesnes, after the queens and councils and that whole form of government becomes the norm. %%
 
 It had taken me sixteen years to work myself up to this position, learning everything there was to know about the cuisines of all $number$ realms that could be reached from the $bifrost bridge analogy I'm using for this world$. I left home at sixteen, 
 

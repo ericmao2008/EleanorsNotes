@@ -1,5 +1,5 @@
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: after [[Swordwulfen and Delia]]
 	- market::
 	- protagonist:: [[Rhiannon Red]]

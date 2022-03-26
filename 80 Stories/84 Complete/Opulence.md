@@ -1,5 +1,5 @@
 %%
-universe:: [[80 Stories/82 Indexes/Verraine]]
+universe:: [[Verraine]]
 year:: after [[2022.03.23 Semblance (MF)]] to establish that mage blood can be sold to The Tower
 status:: complete
 market:: [[Inkblood]], [Twitter](https://twitter.com/EleanorKonik/status/1405318135364923392) 

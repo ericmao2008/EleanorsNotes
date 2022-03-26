@@ -6,7 +6,7 @@ created: 2009-03-08
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]] 
+	- universe:: [[Verraine]] 
 	- time:: well after [[The Dead King's Daughter]] because this has [[tulpi]] in [[Maehlorn]]
 	- related:: [[2021.09.01 Gregarious (MF)]] is probably a founding myth from her people, since this has a very Norse feel too. 
 	- market:: [[The Iceberg]]

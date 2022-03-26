@@ -1,7 +1,7 @@
 
 - [i] Metadata
 	- length:: short story
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: 1750 after [[2021.10.27 Poison (MF)]] and the fall of [[Tal]]. Must also be after [[Collared Mage]], [[Tagg Rancher]] & [[Shepherd Mage]] because the land-sense stuff has to be established. 
 	- market::
 	- protagonist::

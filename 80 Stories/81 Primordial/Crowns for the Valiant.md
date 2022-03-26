@@ -6,7 +6,7 @@ created: 2021-11-14
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: circa [[Tagg Rancher]]
 	- market:: [[The Iceberg]]
 	- protagonist:: [[Anna]]

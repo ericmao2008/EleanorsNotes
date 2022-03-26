@@ -9,7 +9,7 @@ year:
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: contemporary to [[Crowns for the Valiant]]
 	- market:: 
 	- protagonist:: [[Tagg]]

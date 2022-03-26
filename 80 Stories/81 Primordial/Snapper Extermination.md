@@ -6,7 +6,7 @@ created: 2021-11-20
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]] 
+	- universe:: [[Verraine]] 
 	- time:: after [[Indigenous Mage]] & [[2022.01.05 The Magic of Marsh Protection (FF)]]
 	- market::
 	- protagonist::

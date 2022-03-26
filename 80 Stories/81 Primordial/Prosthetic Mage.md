@@ -8,7 +8,7 @@ year:
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- market:: 
 	- protagonist:: 
 	- mentions::

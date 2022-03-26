@@ -1,7 +1,7 @@
 
 - [i] Metadata
 	- length:: microfiction
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: circa [[2021.10.06 The laundress & the fungal growth (FF)]]
 	- market:: [[The Iceberg]]
 	- protagonist:: [[Paertan]] 

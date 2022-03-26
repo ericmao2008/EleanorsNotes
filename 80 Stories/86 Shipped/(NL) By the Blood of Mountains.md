@@ -7,7 +7,7 @@ character-arc: "Kala goes from being indecisive/follower to becoming a confident
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- location:: [[Eheu Isle]]
 	- previous:: [[Finding Winged Island Story]]
 	- protagonist:: [[Kala]]

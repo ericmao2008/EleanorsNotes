@@ -1,5 +1,5 @@
 %%
-universe:: [[80 Stories/82 Indexes/Verraine]]
+universe:: [[Verraine]]
 year:: after [[eheu isle climate change short story]]
 status:: Tweeted 
 market:: [[The Iceberg]], [VSS365 on Twitter](https://twitter.com/EleanorKonik/status/1433780237368807435)

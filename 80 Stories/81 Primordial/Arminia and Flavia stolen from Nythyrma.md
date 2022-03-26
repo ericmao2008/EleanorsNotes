@@ -6,7 +6,7 @@ created: 2021-11-15
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- market::
 	- time:: roughly 15 years before [[Collared Mage]]
 	- protagonist:: [[Arminia]], [[Flavia]]

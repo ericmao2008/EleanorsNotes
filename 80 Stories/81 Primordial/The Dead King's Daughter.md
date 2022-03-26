@@ -6,7 +6,7 @@ created: 2021-11-25
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: after [[2021.10.20 Eavesdrop (MF)]]
 	- market:: [[Chronicles of Verraine Anthology]]
 	- protagonist:: [[Verity]]

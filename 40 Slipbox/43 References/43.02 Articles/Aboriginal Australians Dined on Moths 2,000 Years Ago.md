@@ -36,5 +36,5 @@ tags:
 
 > “Opinions vary about the taste. Some people report a peanut butter flavor and others saying they have a sweet aftertaste like nectar.”
 
-Might be useful for fleshing out a worldbuilding concept for [[GeneE]] or [[80 Stories/82 Indexes/Verraine]].
+Might be useful for fleshing out a worldbuilding concept for [[GeneE]] or [[Verraine]].
 

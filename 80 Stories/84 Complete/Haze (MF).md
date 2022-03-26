@@ -1,0 +1,22 @@
+
+- [i] Metadata
+	- length:: microfiction
+	- universe:: [[Verraine]]
+	- time:: after [[Tagg Rancher]] and [[Collared Mage]]
+	- market:: 
+	- protagonist:: [[Osseia]]
+	- mentions:: [[Monstrance]]
+	- location:: [[Srin]] > [[Srineport]]
+	- pitch:: A powerful mage secretly defends the autonomy of a port city. 
+- [<]  Status Log
+	- created:: [[2022-03-24]] on paper at the dining room table
+	- status-updated:: [[2022-03-26]] updated to make more sense. 
+	- #nonfic/articleSeed/afterword the prince's name is modeled off of the normal name of [ostensoriums](https://en.wikipedia.org/wiki/Monstrance)  — autocorrect "fixed" a thing I had typed in as a placeholder and I was curious what the word meant and I was so delighted that I just kind of went with it. 
+	- current-status:: pending [order completion](https://www.fiverr.com/v4/users/eleanorkonik819/orders/FO5129B80BD83/requirements) by March 29. 
+
+
+Osseia looked out at the window of her sixth story apartment and frowned at the haze of violet magic creeping into Srineport. 
+
+She hadn't publicly claimed the city; Prince Monstrance must think his assassins had succeeded. The poor, greedy fool. 
+
+She almost laughed as she pushed her aura into the courtyard, rejecting his advance. 

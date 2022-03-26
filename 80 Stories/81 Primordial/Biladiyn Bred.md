@@ -1,6 +1,6 @@
 - [i] Metadata
 	- length:: short story
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- market:: [[Chronicles of Verraine Anthology]]
 	- protagonist:: [[Iganmor]]
 	- mentions:: Jirena

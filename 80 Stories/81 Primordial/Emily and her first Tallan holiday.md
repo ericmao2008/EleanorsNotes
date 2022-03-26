@@ -1,5 +1,5 @@
 - [i] Metadata
-	- universe:: [[Verraine]]
+	- universe:: [[Verraine Tasking]]
 	- time:: after [[2021.12.01 The Black Stones of Sanctuary (FF)]] but before [[2022.01.19 Stint (MF)]].
 	- market:: [[The Iceberg]]
 	- protagonist:: [[Emily]]

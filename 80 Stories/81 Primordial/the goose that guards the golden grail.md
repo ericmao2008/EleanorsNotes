@@ -4,7 +4,7 @@
 
 - [i] Metadata
 	- length:: flash fiction
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time::
 	- market::
 	- protagonist::

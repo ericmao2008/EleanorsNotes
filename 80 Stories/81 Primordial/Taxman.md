@@ -6,7 +6,7 @@ created: 2021-11-19
 ---
 
 - [i] Metadata
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time::
 	- market::
 	- protagonist::

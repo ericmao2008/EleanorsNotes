@@ -16,7 +16,7 @@ current-status: seed
 - [!] Status Log
 	-  created:: [[2022-01-25]] inspired by [[Against the Grain by James C. Scott]] bits about domestication of our environments. 
 	-  status-updated: [[2022-01-25]] #fic/storyStem 
-- [I] should I make this more of a [[80 Stories/82 Indexes/Verraine]] story by swapping out Mars/Earth/Horses? I probably could make it a portal story, but better to go with the obvious stand-ins before I layer in worldbuilding. 
+- [I] should I make this more of a [[Verraine]] story by swapping out Mars/Earth/Horses? I probably could make it a portal story, but better to go with the obvious stand-ins before I layer in worldbuilding. 
 
 The first step on the path to mars was changing our vocabulary.
 

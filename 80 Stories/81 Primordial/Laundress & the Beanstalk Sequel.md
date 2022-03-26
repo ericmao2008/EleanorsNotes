@@ -1,6 +1,6 @@
 - [i] Metadata
 	- length:: flash
-	- universe:: [[80 Stories/82 Indexes/Verraine]]
+	- universe:: [[Verraine]]
 	- time:: after [[2021.10.06 The laundress & the fungal growth (FF)]]
 	- market:: [[The Iceberg]]
 	- protagonist:: [[Innalie]]
