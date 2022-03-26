@@ -1,0 +1,39 @@
+
+name: Monthly zip
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: "0 1 28 * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: Get file name
+        run: |
+          TODAY=$(date "+%Y.%m.%d")
+          echo "FILE_NAME=myarchive-$TODAY.zip" >> $GITHUB_ENV 
+        
+      # Runs a single command using the runners shell
+      - name: zip everything but the Stories folder
+        run: zip -r ${{ env.FILE_NAME }} . -x "80 Stories/**" ".git/**"
+
+      - name: Upload zip file
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{ env.FILE_NAME }}
+          path: ${{ env.FILE_NAME }} # path of the zip file you just created in the previous steps
+
+
