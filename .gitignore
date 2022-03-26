@@ -1,7 +1,8 @@
 # Ignore obsidian things
 
-.obsidian
-.trash
+.obsidian/
+.trash/
+.github/
 *.vault-stats
 *.js
 *.ico
