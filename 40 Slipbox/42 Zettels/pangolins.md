@@ -8,4 +8,4 @@ BN: ["Mammals"]
 
 * broader:: [[animals]]
 * narrower:: [[peafowl not pangolins are traditional Hainan foods]]
-* narrower:: [[2022.03.07 Armor]] about pangolin scales being used as armor. 
+* used for:: [[2022.03.07 Armor]] about pangolin scales being used as armor. 

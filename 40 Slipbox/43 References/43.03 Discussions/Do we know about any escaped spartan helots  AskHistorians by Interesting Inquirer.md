@@ -9,7 +9,7 @@ date: 2022-02-01
 - Link: https://reddit.com/r/AskHistorians/comments/p13hr6/do_we_know_about_any_escaped_spartan_helots/hv5d1tk
 - [i] Outline 
      - [[The Messenian revolt was the most successful slave revolt]]
-     - [[Spartan Helots revolted otten]]
+     - [[Spartan Helots revolted often]]
      - [[the historicity of the Second Messenian War is debated]]
      - [[the Messenian revolt was instigated by an earthquake]]
      - [[the Messenian revolt was ethnically motivated]]

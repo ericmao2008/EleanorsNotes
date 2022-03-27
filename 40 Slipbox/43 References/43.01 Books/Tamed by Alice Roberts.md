@@ -1,13 +1,13 @@
 ---
-alias: 10407307
 publication-date: 2017
 ---
 
 # Tamed: Ten Species that Changed Our World
-<cite>Alice Roberts</cite>
+
 ## Metadata
 
 - Author:: [[Alice Roberts]]
+- ReadwiseID: 10407307
 - [i] Outline
 	- [[natural vs artificial selection is a false dichotomy]]
 	- [[classification of species is hard]]
