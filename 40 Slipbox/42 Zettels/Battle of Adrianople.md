@@ -1,0 +1,7 @@
+- [I] an inspiration for [[Civil Mage]]
+- [b] [World History Encyclopedia](https://www.worldhistory.org/Battle_of_Adrianople/) 
+	- ["] The Battle of Adrianople on August 9, 378 CE ranks among the worst military defeats in all of Roman history.
+		- [i] after the the [[Battle of the Teutoburg Forest]]
+	- ["] The hostilities between the Goths and the Empire began harmlessly enough. As the nomadic Huns moved westward across Asia wreaking havoc, the Visigoths, numbering over 200,000, moved from modern-day Ukraine to the frontier of the Roman Empire and, in 376 CE, crossed the Danube River and established themselves in Thrace. As the Huns continued their way westward into Europe the Gothic and Roman leadership made an alliance, and the tribes were finally given permission to permanently settle. It was an alliance unpopular with many Romans. However, the permission came with a caveat: in return for land and provisions, the Goths had to promise to provide soldiers for the Roman army. Other demands by unscrupulous Roman commanders (Lupicinus and Maximus) were soon made: children had to be provided to serve as slaves and all weapons had to be surrendered.
+	- ["] Facing starvation due to inadequate provisions and a lengthy famine, the Goths rose up against the Romans. After an attempt to assassinate the Gothic leaders Fritigern and Alavivus failed, Fritigern and his fellow Thervingi began pillaging the countryside. As the raiding continued, the Romans and Goths eventually met in battle
+

@@ -6,7 +6,7 @@ const files = app.vault.getMarkdownFiles()
 let arr = files.map(async(file) => {
   const content = await app.vault.cachedRead(file)
 //turn all the content into an array
-let lines = await content.split("\n").filter(line => line.includes("- [?]"))
+let lines = await content.split("\n").filter(line => line.includes("- [I]"))
 return ["[["+file.name.split(".")[0]+"]]", lines]
 })
 

@@ -1,7 +1,20 @@
 
-Senna's Ford grew organically as a convenient crossing for the [[Imazi]] tribes to cross the [[Aakari River]] that separates either side of the [[Midire Desert]]. Though once it was a bustling town with merchants and markets, since the construction of the [[Jisge]] bridge a few leagues to the north, it has been declining. Now, it is primarily inhabited by fisherfolk and small-scale subsistence farmers. 
+Senna's Ford grew organically as a convenient crossing for the [[Imazi]] tribes to cross the [[Aakari River]] that separates either side of the [[Midire Desert]]. Though once it was a bustling town with merchants and markets, since the construction of the [[Jisge]] bridge a few leagues to the south, it has been declining. Now, it is primarily inhabited by fisherfolk and small-scale subsistence farmers. 
 
 It is notable for being the birthplace of [[Kia]]. The Jisge bridge was built after [[Zahle]] came to live in Senna's Ford. 
+
+
+```leaflet
+id: verraine-large
+image: [[Verraine 2022-03-26-13-30.svg]]
+bounds: [[0,0], [2135,4271]]
+defaultZoom: 1
+height: 275px
+width: 500px
+minZoom: -5
+coordinates: [1189, 1428]
+```
+
 
 #### Seasons 
 (see also: [[units of measure]])

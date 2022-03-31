@@ -1,6 +1,5 @@
 A conservationist mage from [[Nythymra]]. Skilled at hunting [[snapper]]. Has a niece, as established in [[2022.01.05 The Magic of Marsh Protection (FF)]]. 
 
-
 ## Appears In
 
 ```dataview

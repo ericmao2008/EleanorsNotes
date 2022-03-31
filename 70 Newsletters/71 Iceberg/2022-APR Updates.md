@@ -1,6 +1,0 @@
-* Ask your audience what other newsletters they love, and run a cross-promotion with those newsletters.
-* Announce raising the price to $3 next week. Coming up on 1,000 members which means my hosting costs are going up. 
-* mention all the different comments that have happened. 
-* set [[2022.01.19 Stint (MF)]] as the next free fiction; it has a lot of good hooks to other authors I can ping and reference. 
-* With all of the local or creator-driven newsletters I work with, I’m always encouraging them to share updates with their readers like the one the Agenda published. Interestingly, I’ve found that these sorts of updates often lead to a spike in subscriptions — maybe it’s because readers like seeing proof that others are subscribing, too; or maybe it’s because readers want to support the writers and their dream of building an independent publication; or maybe it’s because they’re getting a different sort of nudge to subscribe. Whatever it is, if you’re building a newsletter like this, don’t forget to share your progress with readers — good or bad!
-* theme updates, mostly minor but things should look and feel nicer on the web version. Have a poke around the archives if you haven't in awhile! 

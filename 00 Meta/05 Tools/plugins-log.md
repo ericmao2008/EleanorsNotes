@@ -1,3 +1,11 @@
+[[2022-03-30]] 09:41 LAPTOP-V0N8V2B7 obsidian-zotero-desktop-connector Plugin has been updated from version 1.1.2 to 1.1.4. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.1.4)
+
+[[2022-03-29]] 10:10 MOBILE obsidian-zotero-desktop-connector Plugin has been updated from version 1.0.3 to 1.1.4. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.1.4)
+
+[[2022-03-28]] 14:39 LAPTOP-V0N8V2B7 obsidian-zotero-desktop-connector Plugin has been updated from version 1.0.3 to 1.1.2. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.1.2)
+
+[[2022-03-27]] 14:25 LAPTOP-V0N8V2B7 obsidian-zotero-desktop-connector Plugin has been updated from version 1.0.2 to 1.0.3. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.0.3)
+
 [[2022-03-27]] 13:37 MOBILE obsidian-zotero-desktop-connector Plugin has been updated from version 1.0.2 to 1.0.3. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.0.3)
 
 [[2022-03-24]] 19:33 MOBILE image-window Plugin has been updated from version 1.0.4 to 1.0.5. [Release Info](https://github.com/valentine195/obsidian-image-window/releases/tag/1.0.5)

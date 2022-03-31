@@ -11,7 +11,7 @@ year: 2500 ATA
 	- universe:: [[Verraine]]
 	- market:: [[Worldbuilding Magazine]]
 	- protagonist:: [[Nicopimu]]
-	- mentions:: [[Savion Euskara]]
+	- mentions:: [[Savyn Euskara]]
 	- location:: [[Port Valentia]], [[Dhortian]]
 	- pitch:: 
 	- character-arc::
@@ -28,7 +28,7 @@ Sometimes it was the weather — crop failure, not enough rain, whatever. The st
 - [?] where am I going with this? 
 	- test?
 
-It was [[Savion Euskara]]'s job to keep the peace, and that meant more than just banishing the dumb bastards sitting in his throne room begging for the chance to take their revenge on the poor bastards who had raided [[Port Valentia]] not three days after he had signed a treaty with every naval power within a season's sale that he and his would remain neutral in whatever petty war the maritime empires were fighting this year. 
+It was [[Savyn Euskara]]'s job to keep the peace, and that meant more than just banishing the dumb bastards sitting in his throne room begging for the chance to take their revenge on the poor bastards who had raided [[Port Valentia]] not three days after he had signed a treaty with every naval power within a season's sale that he and his would remain neutral in whatever petty war the maritime empires were fighting this year. 
 
 If Dhortian had a Queen, on one would have dared. Instead, the Council had Savion. 
 

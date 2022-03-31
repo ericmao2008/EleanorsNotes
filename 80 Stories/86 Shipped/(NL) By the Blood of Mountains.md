@@ -1,19 +1,23 @@
----
-year: 50 ATA
-status: draft 3
-length: novelette
-pitch: "A priestess learns the dark truth behind the magic of Eheu Isle and flees the corrupt priesthood."
-character-arc: "Kala goes from being indecisive/follower to becoming a confident leader." 
----
-
 - [i] Metadata
+	- length:: novelette or novella
 	- universe:: [[Verraine]]
-	- location:: [[Eheu Isle]]
-	- previous:: [[Finding Winged Island Story]]
+	- time:: after [[Finding Winged Island Story]] before [[2021.12.29 Vagrant (MF)]]
+	- market:: [[The Iceberg]]
 	- protagonist:: [[Kala]]
-	- mentions:: [[Kala]], [[Healani]], [[Mahiai]], [[Tusiata]], [[Amalai]], [[Caipan]], [[Jorali]], [[Kirken]], [[Ereni]], [[Rukanui]], [[The Realmwalker]]
-	- concepts:: [[euphorigum]], [[Pakai clan]], [[Kukihoi clan]], [[Hanaupo Clan]], [[tulpi]], [[Voldshee]], [[Jorjia clan]] 
-	- inspiration:: [[Sugar Changed the World]], [[Beyond the Blue Horizon by Brian Fagan]], [[textiles]]
+	- mentions:: [[Kala]], [[Healani]], [[Mahiai]], [[Tusiata]], [[Amalai]], [[Caipan]], [[Jorali]], [[Kirken]], [[Ereni]], [[Rukanui]], [[The Realmwalker]], [[euphorigum]], [[Pakai clan]], [[Kukihoi clan]], [[Hanaupo Clan]], [[tulpi]], [[Voldshee]], [[Jorjia clan]] 
+	- location:: [[Eheu Isle]]
+	- pitch:: A priestess learns the dark truth behind the magic of Eheu Isle and flees the corrupt priesthood.
+	- character-arc:: Kala goes from being indecisive/follower to becoming a confident leader.
+- [<]  Status Log
+	- created:: [[2021-07-26]]
+	- status-updated:: [[2022-03-31]] #fic/storyStem 
+- [b] References
+	- [[Sugar Changed the World]], [[Beyond the Blue Horizon by Brian Fagan]], [[textiles]], [[circumstances that lead to polyandry]], [[realgar is a poisonous red crystal]], [[cinnabar lacquer can be carved]]
+	* [analysis](https://docs.google.com/document/d/1PIn7npUYTt9H_c5AO650EHHTQ-o2FJpFAdTTu1oQ-gg/edit) and [wip in gdocs](https://docs.google.com/document/u/1/d/1y_H_of2MtRX6-POsimaE5qL2lsyeBZEirP4C8wV9SAs/edit?pli=1)
+	* #fic/editPending to merge in [[BTBOM End]]
+- [!] Goals
+	- For lore purposes, Kala's rebellion should not succeed; she needs to escape with enough people to found a colony, including a breeding population of Tulpi, in the east. She should not overthrow the priesthood; let's leave the fall of the Ehuians for a later story. This is just supposed to be the origin story for "how the tulpi wound up in eastern Verraine"
+	- Thematically, a key message is "escaping is winning" if you get out and get to found your own thing; it's not as satisfying as overthrowing your oppressors, but it's still a valid win condition
 
 Kala leaned backward, curling into herself as Tusiata's cloud-gray wings flared with the force of his frustration. He'd helped her clear the morning ice and snow from the leather of her tent, his duty as one of the bachelor males fostered into her clan, but she wished he hadn’t stuck around.
 

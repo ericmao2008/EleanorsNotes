@@ -1,5 +1,18 @@
 A port located just to the southwest of Ghoug's Teeth. Widely considered the ancestral home of the sailors of [[Ghoug]], control varies frequently throughout history between [[Zig]], [[Ghoug]], and [[Edarebia]]. 
 
+
+```leaflet
+id: verraine-large
+image: [[Verraine 2022-03-26-13-30.svg]]
+bounds: [[0,0], [2135,4271]]
+defaultZoom: 1
+height: 275px
+width: 500px
+minZoom: -5
+coordinates: [1588, 2774]
+```
+
+
 The closest real-world analogue is [Gdańsk](https://en.wikipedia.org/wiki/Gda%C5%84sk): 
 
 > The city is situated at the southern edge of Gdańsk Bay, in a conurbation with the city of Gdynia, the resort town of Sopot, and suburban communities; these form a metropolitan area called the Tricity (Trójmiasto), with a population of approximately 1.5 million.Gdańsk lies at the mouth of the Motława River, connected to the Leniwka, a branch in the delta of the Vistula River, which drains 60 percent of Poland and connects Gdańsk with the Polish capital, Warsaw.

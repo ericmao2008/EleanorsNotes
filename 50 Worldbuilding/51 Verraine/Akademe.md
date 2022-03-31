@@ -1,0 +1,1 @@
+Similar to the [[the Collegium of Tal]] but in [[Edarebia]], it's where the [[Swordwulfen]] were developed in [[2022.03.30 Left (MF)]]. 

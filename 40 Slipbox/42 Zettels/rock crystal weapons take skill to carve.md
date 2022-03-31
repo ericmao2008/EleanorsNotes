@@ -1,0 +1,3 @@
+- [b] [Researchers Uncovered a 5,000-Year-Old Crystal Dagger Buried in Spain](https://mymodernmet.com/prehistoric-crystal-dagger/) by Jessica Stewart on August 24, 2020
+	- ["] Archeologists have discovered many tools left behind by prehistoric civilizations. Most of these are made of stone, but in Spain, researchers have found incredible weapons made of rock crystal. Dating back to at least 3000 BCE, these weapons include an incredible crystal dagger that would have taken enormous skill to carve. 
+	- ["] In addition to the dagger, they found 25 arrowheads and cores for making the weapons.

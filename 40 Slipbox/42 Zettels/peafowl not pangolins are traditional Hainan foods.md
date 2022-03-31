@@ -3,3 +3,5 @@
 - broader:: [[animals]], [[pangolins]]
 - [v] [Exploitation Histories of Pangolins and Endemic Pheasants on Hainan Island, China: Baselines and Shifting Social Norms](https://doi.org/10.3389/fevo.2021.608057)
 	- ["] Our findings suggest that eating pangolin meat was not a traditional behaviour in Hainan, with past consumption prohibited by local myths about pangolins. In contrast, local consumption of peacock-pheasant meat was a traditional activity. However, later attitudes around hunting pangolins and peacock-pheasants in Hainan were influenced by pro-hunting policies and a state-run wildlife trade from the 1960s to the 1980s. 
+		- [I] #research  what local myths about pangolins? 
+		- [?] have traditional foods become less popular in this region? 

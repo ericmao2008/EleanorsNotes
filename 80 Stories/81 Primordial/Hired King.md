@@ -1,19 +1,17 @@
----
-alias: "Hired King" 
-universe: Verraine
-year: 1503 ATA
-status: begun
-protagonist: Reginald 
-location: Tal 
 
-length: "short story"
-pitch: "A provincial mage gets randomly selected to serve on the board of hiring for a new king of Tal."
----
-
-- [i] Premise: a man gets randomly selected to serve on the board of hiring for a new king. Goes through the whole resume and interview process -- riff off of some of the AAM stories to make it outrageous and engaging. Riff off of the town with the mayor type guy with no power normally and the government run by a civil servant that got taken over by QAnon crazy guy because not enough people vote in mayoral elections -- #research and find that reference!
-- [i] before [[2021.10.27 Poison (MF)]]
-- [!] #fic/editPending 
-
+- [i] Metadata
+	- length:: short story
+	- universe:: [[Verraine]] 
+	- time:: 1503 ATA, after [[Civil Mage]], before [[2021.10.27 Poison (MF)]]
+	- market::
+	- protagonist:: [[Reginald]]
+	- mentions::
+	- location:: [[Tal]]
+	- pitch:: A provincial mage gets randomly selected to serve on the board of hiring for a new king of Tal
+- [<]  Status Log
+	- created:: [[2022-01-25]]
+	- status-updated:: [[2022-03-31]] #fic/storyStem 
+- [I] Premise: a man gets randomly selected to serve on the board of hiring for a new king. Goes through the whole resume and interview process -- riff off of some of the AAM stories to make it outrageous and engaging. Riff off of the town with the mayor type guy with no power normally and the government run by a civil servant that got taken over by QAnon crazy guy because not enough people vote in mayoral elections -- #research and find that reference!
 
 %%
 

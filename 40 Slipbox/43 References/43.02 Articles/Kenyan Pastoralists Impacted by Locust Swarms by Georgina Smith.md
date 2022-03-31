@@ -12,7 +12,7 @@ date: 2021-11-23
 - [i] Outline
 	- [[locusts are driven off by rain]]
 	- [[resource scarcity can break up families]]
-	- [[economic insecure leads to violence]]
+	- [[economic insecurity leads to violence]]
 	- [[pesticides sicken cows]]
 
 ## Highlights
