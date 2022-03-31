@@ -1,5 +1,6 @@
+* [l] broader:: [[textiles]]
 * [[6 Times Sumptuary Laws Told People What to Wear]]
-	* [[Roman sumptuary laws failed similarly to Prohibition]]
+	* [[Roman sumptuary laws failed]]
 * [[Elizabethan Sumptuary Statutes]]
 	* [[sumptuary laws had a variety of purposes]]
 	* [[England prioritized visible class distinctions]]

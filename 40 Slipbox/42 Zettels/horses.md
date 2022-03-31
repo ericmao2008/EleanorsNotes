@@ -14,7 +14,7 @@
 
 - [[The Horse The Wheel And Language by David Anthony]]
 - [[libradoHorseRidingRebuttal2021.pdf]]
-- [[The Horse Bit and Bridle Kicked Off Ancient Empires – A New Giant Dataset Tracks the Societal Factors That Drove Military Technology by Peter Turchin]]
+- [[world population is a proxy for innovation likelihood]]
 - [[Early Pastoral Economies and Herding Transitions in Eastern Eurasia]]
 - [[Empire of Horses by John Man]]
   

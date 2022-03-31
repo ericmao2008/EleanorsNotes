@@ -1,0 +1,4 @@
+> [!quote] [The Horse Bit and Bridle Kicked Off Ancient Empires – A New Giant Dataset Tracks the Societal Factors That Drove Military Technology](https://theconversation.com/the-horse-bit-and-bridle-kicked-off-ancient-empires-a-new-giant-dataset-tracks-the-societal-factors-that-drove-military-technology-170073) by Peter Turchin
+> We found that the major drivers of technological innovation did not have to do with attributes of states themselves, like population size or the sophistication of a governance. Rather, the [biggest drivers of innovation](https://doi.org/10.1371/journal.pone.0258161) appear to be the overall world population at any given time, increasing connectivity among large states – along with the competition that such connections brought – and a few fundamental technological advances that set off a cascade of subsequent innovations.
+> * [l] ReadwiseID: [11566482](https://read.readwise.io/read/01fjw0a1tp0yt0h5yexm9xhman)
+

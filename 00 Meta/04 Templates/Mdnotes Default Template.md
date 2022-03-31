@@ -5,7 +5,7 @@ date: {{yamldate}}
 ---
 
 {{title}}
-<cite>{{author}} </cite>
+{{author}}
 
 ## Metadata
 {{url}}

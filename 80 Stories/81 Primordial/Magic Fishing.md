@@ -1,10 +1,3 @@
----
-
-length:
-current-status: seed
-created: 2021-11-18
----
-
 - [i] Metadata
 	- universe:: [[Verraine]]
 	- time:: after [[Snapper Extermination]]
@@ -14,7 +7,7 @@ created: 2021-11-18
 	- location:: [[Braez Strait]]
 	- pitch:: Catie's family gets a hint that terrifying invaders are coming through the tower at [[Eheu Isle]], but ignore it because of their prejudices against the Ehuians. 
 	- character-arc:: Catie learns that her father and uncle are not great people. 
-- [!] Status Log
+- [<] Status Log
 	- 2021-11-18 imported from pdf as #fic/storyStem 
 - [!] Do not publish this anywhere family can see it, lol. This is based on a true story. 
 

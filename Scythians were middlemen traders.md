@@ -1,0 +1,3 @@
+- [l] broader:: [[Scythian]], [[economics]]
+- [b] [Scythians, Trading Gold and Culture](https://www.latimes.com/archives/la-xpm-2000-jul-01-ca-46607-story.html) by Christopher Knight on July 1, 2000
+	- ["] As nomads, the Scythians were relatively limited in their artistic traditions and capacities. They had migrated from Central Asia around 600 BC. Hunting and gathering (and no doubt plundering) still went on, but in relatively short order they discovered something new. They discovered trade, and especially the meaning of the potentially lucrative term “middleman.”

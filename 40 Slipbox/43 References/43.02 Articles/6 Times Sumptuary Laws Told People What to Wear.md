@@ -14,7 +14,7 @@ publication-date: 2021-09-17
 - Link: https://mentalfloss.com/article/94521/6-times-sumptuary-laws-told-people-what-wear
 
 ###### Outline 
-- [[Roman sumptuary laws failed similarly to Prohibition]]
+- [[Roman sumptuary laws failed]]
 - [[clothes in a Korean dynasty defined familial relationships]]
 
 ### Roman sumptuary laws failed similarly to Prohibition 

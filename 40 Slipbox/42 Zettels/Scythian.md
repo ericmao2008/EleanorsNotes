@@ -18,9 +18,7 @@ Wikipedia claims that Scythians are generally believed to have been of [[Persian
 
 Among the earliest peoples to master mounted warfare, the Scythians replaced the [[Cimmerians]] as the dominant power on the Pontic Steppe in the 8th century BCE. During this time they and related peoples came to dominate the entire Eurasian Steppe from the Carpathian Mountains in the west to Ordos Plateau in the east, creating what has been called the first Central Asian nomadic empire.
 
-## Trade
-
-> As nomads, the Scythians were relatively limited in their artistic traditions and capacities. They had migrated from Central Asia around 600 BC. Hunting and gathering (and no doubt plundering) still went on, but in relatively short order they discovered something new. They discovered trade, and especially the meaning of the potentially lucrative term “middleman.”
->  <div></div>
->  <cite>Christopher Knight (<a href="https://www.latimes.com/archives/la-xpm-2000-jul-01-ca-46607-story.html">link</a>)</cite>
-
+```breadcrumbs
+dir: down
+type: tree
+```
