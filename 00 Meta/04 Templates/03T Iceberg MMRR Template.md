@@ -5,7 +5,8 @@ excerpt: "3 THINGS"
 desc: "Quick facts about historical SOMETHING from around the world. From SOMETHING to SOMETHING."
 ---
 
-* [i] Marketing:: 
+* [S] Marketing:
+	* Idea. 
 
 # <% tp.file.title.replace(/^[\w.]+\s/, '') %>
 

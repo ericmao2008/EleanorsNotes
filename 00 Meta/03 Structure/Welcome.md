@@ -8,7 +8,7 @@ For a reasonably good overview of how my vault is structured, I maintain the mos
 
 There's also this graph, which only includes the contents of my "nonfiction notes" (slipbox), stories, and newsletters, to show how interconnected all of those things are:
 
-![[writing-graph-021-11-10.png]]
+![[graph2022-04-01.jpg]]
 
 Overwhelmed by all the files on the left & looking for somewhere to start? Check out my notes about [[textiles]], [[economics]] or [[domestication]]. 
 

@@ -3,9 +3,21 @@ tag: fic/editPending
 
 ---
 
-
-- [i] An alien species that counts prestige in the number of spouses you've buried. Or is that too on the nose? Ehh it's too similar to first wive's club, I think. 
-- [i] should be in [[Verraine]] because it doesn't really fit anywhere else, I think. Alien from the [[crystal magic]] realm, maybe? 
+- [i] Metadata
+	- length:: flash fiction
+	- universe:: [[Verraine]]
+	- time:: circa [[Quirk (MF)]]
+	- market:: [[The Iceberg]]
+	- protagonist:: 
+	- mentions:: 
+	- location::
+	- pitch:: 
+- [<]  Status Log
+	- created:: [[2021-12-25]]
+	- status-updated:: [[2022-04-01]] #fic/storyStem 
+- [n] Notes
+	- An alien species that counts prestige in the number of spouses you've buried. Or is that too on the nose? Ehh it's too similar to first wive's club, I think. 
+	- The women are from [[Cystyaln]] < [[Monstterra]]
 
 They didn't realize I was male. 
 
