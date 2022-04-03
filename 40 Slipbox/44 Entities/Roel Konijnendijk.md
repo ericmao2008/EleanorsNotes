@@ -1,7 +1,7 @@
 ---
-alias: 
-  - u/Iphikrates
-  - @Roelkonijn
+aliases: 
+  - Iphikrates
+  - Roelkonijn
 ---
 
 Ancient historian (Classical Greek warfare). Teaching Fellow at @HCAatEdinburgh

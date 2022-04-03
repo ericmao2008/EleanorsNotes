@@ -1,0 +1,8 @@
+- [l] related:: [[2022.01.17 Art|Art Newsletter]], [[textiles]]
+- [b] [[Cave Painting in Indonesia Is Oldest Known Work of Figurative Art  NPR by Merrit Kennedy & December & Pm Et & Heard On & All Things Considered & Instagram]]
+- [b] [[Mammoth Ivory Pendant Is Oldest Decorated Jewellery Found in Eurasia by Alison George]]
+- [n] [[humans decorated pottery 30k years ago]]
+- [n] [[decorated shells were found near prehistoric ovens]]
+- [n] [[neolithic people in Anatolia redecorated after funerals]]
+- [n] [[encaustic paintings utilize wax]]
+- [n] [[female Greek painters were mostly the daughters of famous painters]], but [[Ancient Greek men accepted female painters]]

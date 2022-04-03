@@ -13,7 +13,7 @@ date: 2021-09-29
 ###### Outline 
 - [[complex kitchens date to 30k years ago]]
 - [[decorated shells were found near prehistoric ovens]]
-- [[decorated pottery 30k years ago]]
+- [[humans decorated pottery 30k years ago]]
 - [[ceramic art 30k years ago]]
 
 ## Highlights

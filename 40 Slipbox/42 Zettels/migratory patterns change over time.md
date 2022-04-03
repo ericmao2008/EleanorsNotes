@@ -1,0 +1,4 @@
+> [!quote] [[rAskHistorians|r/AskHistorians]] > [What did the Indo-European migrations actually look like?](https://www.reddit.com/r/AskAnthropology/comments/km66dc/what_did_the_indoeuropean_migrations_actually/) > u/Astro3840
+> I believe genetics suggests that while the farmer migrations of 6500 BCE consisted mostly of whole families, the steppe migrations after 3500 BCE may have followed a pattern of a male warrior class first exploring or scouting out a new homeland, then mating with the indigenous females while forcing out or subjugating the indigenous males.
+
+This is useful for working on some of the stories set on the main continent, and may be a useful origin story for the [[Monche Nomads]] although how they managed to find themselves on this island (or get off the island, with their horses...) would need a little extra thought. 
