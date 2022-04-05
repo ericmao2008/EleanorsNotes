@@ -12,13 +12,13 @@ cssclass: longform
 ## Atomic Notes
 * [[crop domestication timeline]] - a timeline of when major crops were first domesticated in various locations. 
 * [[textiles]] — an index of different textiles, including linen, cotton, and silk, that humans acquired as a result of domestication. 
-* [[Do animals utilize mind-altering substances]]? Apparently, yes. 
 * [[many useful animals were domesticated for their meat first]]
 * [[climate change has had major impacts on history]] discusses how climate change led to the domestication of the horse. 
 * [[domestication markers indicate new methods not domestication date]]
 * [[plants and animals were domesticated concurrently]]
 * [[gourd domestication]] – gourds were probably the first “container” plant domesticated. 
 * [[ants domesticated aphids]]
+* domesticated [[palms]]
 ## Articles 
 * [[Transporting Information]] covers how domesticated species were used to send messages in low-tech societies, e.g. pigeons, dogs, and messengers on horseback. 
 * [[5 SFF Novels That Shed Light on Obscure History]] touches on how domestication led to the development of strict guest/host rules in the [[Yamnaya]] culture. 
@@ -35,8 +35,7 @@ cssclass: longform
 * [[The Civilizations of Africa by Christopher Ehret#ch03 Culture and Technology in Africa]] goes into a lot of detail about the domestication of cattle and how that led to major social changes. 
 * [[Human-Animal Entanglements in the Neolithic]] covers early domestication, mixed economies, and changing relationships with animals in stone-age Turkey. 
 * [[The Origins of Agriculture in the Near East]] covers the domestication of plants in the Levant and also has a lot of important "updates" about how we identify whether animals have been domesticated. 
-## Daily Notes
-* [[2021-02-02#^ced4ba]] - about domesticated palm trees. 
+
 %% ## Raw Dumps %%
 ## In the Wild 
 * [History Magazine - The Impact of the Potato](https://www.history-magazine.com/potato.html)

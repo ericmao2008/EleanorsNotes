@@ -1,0 +1,3 @@
+- [b] [Freshwater mussels can inhibit bacterial diseases](https://www.sciencedaily.com/releases/2022/04/220404093013.htm)
+	- the larvae of freshwater pearl mussels were thought to be purely parasitic on salmon and trout, but actually they help protect them against bacterial infection, even after the larvae drop away. 
+	- mature mussels are filter feeders; a single mussel can halve the density of bacteria in the nearby water. 

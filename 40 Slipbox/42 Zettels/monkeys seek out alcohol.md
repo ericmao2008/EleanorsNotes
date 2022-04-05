@@ -1,0 +1,4 @@
+- [b] [[Monkeys routinely consume fruit containing alcohol via Science Daily]]
+	- [?] why is ethanol more nutritious / highly caloric than fruit? #research 
+- related:: [[2021.06.21 Fungus#Pee Shrooms]] & [[8 animals that take hallucinogenic drugs and enjoy it]]
+- broader:: [[animals use mind-altering substances]]

@@ -15,5 +15,4 @@ I like the idea of the protagonist being [[Tyoka]]'s niece, , [[Jdanve]].
 
 * flash fiction accompaniment: [[2022.01.05 The Magic of Marsh Protection (FF)]]
 - relevant article [[rosas-ribeiroFishermenVsOtters2012.pdf]]
----
-
+- relevant article: [[The Keeper of Sacred Bees Who Took on a Giant by Gemma Tarlach]]

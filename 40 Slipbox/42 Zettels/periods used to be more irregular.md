@@ -1,0 +1,3 @@
+- [b] [A history of menstruation](https://www.historyextra.com/period/general-history/history-menstruation-periods-how-people-women-cope-deal-periods-past-health)
+	- ["] periods were less regular in pre-modern times than today, due to the fact that many women would have been malnourished. Menstrual regularity was also impacted by the fact that most women spent a larger part of their reproductive life either pregnant or breastfeeding, compared to today.
+		- [I] reminds me of the bit about iron deficiency being common in women with grain-based diets from [[Against the Grain by James C. Scott#^3302c5]]

@@ -1,0 +1,6 @@
+- [b] [The Vikings Left Greenland](https://www.sciencedaily.com/releases/2022/03/220323151650.htm) via [[ScienceDaily]]
+	- The Norse established successful settlements in southern Greenland in 985, but  abandoned them in the early 15th century because of drought, not cold temperatures. 
+	- ["] The population of the Eastern Settlement peaked at around 2,000 inhabitants, but collapsed fairly quickly about 400 years later. 
+		- [n] [[how safe are small population colonies]] #pkm/crossReference 
+	- ["] Norse farmers had to overwinter their livestock on stored fodder, and even in a good year the animals were often so weak that they had to be carried to the fields once the snow finally melted in the spring. Under conditions like that, the consequences of drought would have been severe. An extended drought, on top of other economic and social pressures, may have tipped the balance just enough to make the Eastern Settlement unsustainable.
+		- [n] interesting note for [[domestication]] related stories; I hadn't ever heard of this sort of extreme weakness in animals at the end of a season being common. 
