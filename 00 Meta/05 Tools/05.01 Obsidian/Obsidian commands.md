@@ -1,0 +1,2 @@
+Probably the most important thing to familiarize yourself with is the Obsidian command palette. You can access it by typing `/` or by using a hotkey like `ctrl+p`. There's also an icon you can hit with your mouse on the left hand screen, it looks like a box with `>_` inside of it. This will give you the ability to run almost every Obsidian command just by searching for it, as well as tell you if there's a hotkey assigned for it. For example, you can use this command to `toggle bold` if you forget how to format a text as bold. 
+

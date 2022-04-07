@@ -1,1 +1,0 @@
-See also: [[Civilizations Thrive in Adverse Environments]]

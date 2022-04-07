@@ -7,7 +7,7 @@ BN: ["Fasting--Religious aspects","Theology, Practical","Liturgics"]
 - [I] #pkm/crossReference [[religious rituals that make practical sense]]
 - [n] [[social impacts of early cattle domestication in ancient Russia]]
 - [n] [[feast culture may be responsible for agriculture]]
-- [v] [The goose is an inconvenient bird – too big for one, but too small for two](https://doi.org/10.1111/j.1467-789X.2008.00530.x) ([[rossnerGooseInconvenientBird2009.pdf]])
+- [b] [The goose is an inconvenient bird – too big for one, but too small for two](https://doi.org/10.1111/j.1467-789X.2008.00530.x) ([[rossnerGooseInconvenientBird2009.pdf]])
 	- ["] The more exotic a food is, the better it is perceived.
 	- ["] To show off in society by demonstrating that one can afford huge meals has traditions long back in history. For the Romans, extremely rare foods, such as stewed peacock tongue or the wombs of sows that have just given birth to piglets, were described as the utmost luxury. The more exotic, the better.
 	- ["] When Westphalian peace was celebrated in 1648 following the end of the 30-year war, 120 courses were served to the participants in the peace congress dinner. Elegance and creativity in the appearance of each dish was probably more important than how the food actually tasted, because most of this food was never consumed by the guests for whom it was primarily intended. Instead, the dishes were taken out the backdoor of the kitchen and served to the poor.

@@ -11,6 +11,8 @@
 
 ## In The Community
 
+- Nicole van der Hoeven and Jeremy Valentine (`@javalent` is the developer of the "TTRPG suite" of plugins like dice roller, leaflet, admonitions, etc) are going to be [live on Youtube](https://www.youtube.com/watch?v=2Jm5lZWy-0Y) in a couple of hours (1pm EST) to discuss his plugins & potentially some upcoming ones 👀 
+
 ### Hub
 
 _The Obsidian Hub is a community knowledge base designed to help organize information about the Obsidian ecosystem. It's an excellent companion to this Roundup, which tends to be very chronological in nature. Here are some of the [recent updates](https://github.com/obsidian-community/obsidian-hub/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+-label%3A%22scripted+update%22+-label%3A%22hub+tools+%26+scripts%22+%3E+)_
@@ -39,6 +41,8 @@ _Note: these plugins have not yet been submitted for code review, and are being 
 
 ### For Developers
 
+* `@shabegom` is looking for maintainer(s) for the [block ref counter plugin](https://github.com/shabegom/obsidian-reference-count). 
+
 ## Feature Requests
 
 ## Appearance
@@ -49,9 +53,11 @@ _Note: these plugins have not yet been submitted for code review, and are being 
 
 ## Guides
 
+
 ## Discussions
 
-## Knowledge Management
+* Here's a lovely writeup from Sébastien Dubois about how their [25 years of personal knowledge management](https://dsebastien.net/blog/2022-04-03-25-years-of-personal-knowledge-management) led them to Obsidian, and the key lessons they learned along the way, with an [accompanying discussion on HackerNews](https://news.ycombinator.com/item?id=30903940).
+
 
 ## Ancillary Tools
 

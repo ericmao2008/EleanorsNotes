@@ -1,0 +1,4 @@
+There are several ways to the contents of a single file into multiple files, for easier readability and to make it easier to access only the most relevant content. 
+
+* `/merge` will let you combine the contents of one file with another file, and redirect all links to the original file to the new link location. You can also click on a file in the file explorer and select `merge entire file with` to get the option to merge two files together without needing to open them. 
+* If you right click on a heading in a document, you will have an option to `extract this heading`. Clicking that setting will give you a modal to type in the new file name. A new file will be generated containing the contents of that section. The section will be moved into the new file, and only a link to the new file will remain. The new file will also contain a link to the original location. 

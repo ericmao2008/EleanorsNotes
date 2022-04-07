@@ -2,7 +2,7 @@
 alias: Eheuians
 ---
 
-A blue-blooded species of winged, lactating egglayers who were brought to [[Eheu Isle]] by [[The Realmwalker]]. They are very much not "humans with wings like angel pictures."  Think huge wingspan, wonky ribs, hollow bones, different muscle-to-fat ratio, hardcore leg muscles (and probably shorter legs, proportionally) for launching into the air, designed like a six-limbed creature (i.e. insect) and not a bird/mammal (they were magically engineered, we can do what we want there lol), air sacs and lungs (like the opposite of ballast, lol)
+A blue-blooded species of winged, lactating egglayers who were brought to [[Eheu Isle]] by [[The Realmwalker]]. They are very much not "humans with wings like angel pictures."  Think huge wingspan, wonky ribs, hollow bones, different muscle-to-fat ratio, hardcore leg muscles (and probably shorter legs, proportionally) for launching into the air, designed like a six-limbed creature (i.e. insect) and not a bird/mammal (they were magically engineered, we can do what we want there lol), air sacs and lungs (like the opposite of ballast, lol) — their faces resemble bats more than birds. 
 
 they are [[animals that sleep unihemispherically]] like dolphins and birds. they have to land every week or so to do things on land, but generally I picture it sort of like they sleep face down with their butts in the air and wings on top. Like a cross between a toddler and a quail 😂
 

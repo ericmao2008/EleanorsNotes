@@ -14,5 +14,5 @@ coordinates: [967, 1787]
 
 
 - [n] References
-	- [[how similar are Tenochtitlán and Venice]]
+	- [[Tenochtitlán and Venice were both marsh cities]] 
 	- modelled on Louisiana / New Orleans creole culture in some ways. 
