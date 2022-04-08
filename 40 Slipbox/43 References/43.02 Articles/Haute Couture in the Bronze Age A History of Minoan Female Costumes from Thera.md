@@ -17,8 +17,6 @@ summary:: Minoan Thera is similar to Roman Pompeii in that it was preserved due 
 1. [[Haute Couture in the Bronze Age A History of Minoan Female Costumes from Thera#p18 Tyrian purple doesn't need as many snails as people think]]. 
 2. [[Haute Couture in the Bronze Age A History of Minoan Female Costumes from Thera#p19 textile creation was specialized much earlier than previously believed]]. 
 
-# Extracted Annotations (2021-04-26)
-
 ### p13 Minoan Thera is similar to Roman Pompeii
 
 > the destruction of Thera created a freeze-frame in which Minoan life and material culture was preserved. [...]
@@ -37,9 +35,6 @@ summary:: Minoan Thera is similar to Roman Pompeii in that it was preserved due 
 
 > the Minoans did not necessarily need the pure substance for their textiles (Burke 1999). A strong, vivid, and colourfast colour can be obtained with much less murex. This technical misunderstanding, combined with the Theran frescoes and the knowledge of Roman extravagance have contributed to the idea of the Minoan culture as being luxurious and sophisticated. Roots from the madder plant can also be used for red dyes. We are less sure about the blue colours, but it was probably obtained from woad. The yellow could be obtained from either saffron or safflower flowers. On the Theran frescoes, women gather saffron and we know from the Late Bronze Age inscriptions that safflower was cultivated on palace land, most probably for dye substances to be used in the textile industry.
 
-Two main important things here:
-* Tyrian purple probably wasn't as hard to make as it's made out to be
-* Paintings of red and purple clothes doesn't automatically mean trade with [[Phoenician|Tyre]]. 
 
 ### p18 silk outside of China
 

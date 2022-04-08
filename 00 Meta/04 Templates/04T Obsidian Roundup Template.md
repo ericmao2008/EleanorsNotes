@@ -8,6 +8,7 @@
 > - Bookmarks
 > - [Feature Requests](https://forum.obsidian.md/c/feature-requests/8)
 > -  [Hub merges](https://github.com/obsidian-community/obsidian-hub/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+-label%3A%22scripted+update%22+-label%3A%22hub+tools+%26+scripts%22+%3E+)
+> - [Check Reddit](https://www.reddit.com/r/ObsidianMD/)
 > - Some kind of pitch to the Iceberg if I don't have any other housekeeping notes. 
 
 ## In The Community
@@ -43,8 +44,6 @@ _Note: these plugins have not yet been submitted for code review, and are being 
 ## Feature Requests
 
 ## Appearance
-
-* Here's a snippet to get [Craft-style tabs](https://gist.github.com/kepano/7fc1cd9433b5506ce45b44cfa3734fa0) in the Minimal theme. 
 
 ## Ancillary Code
 
