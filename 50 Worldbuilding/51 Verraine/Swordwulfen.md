@@ -3,3 +3,12 @@ The elite military forces of [[Edarebia]] (on the eastern continent). They’re 
 They can go “feral” when they meet a woman with the right genetics to bear their children, which is rare (and substitutes for the whole “fated mate” thing). Most Swordwulfen are told they can’t sire children. 
 
 They exist by bonding a wolf aether-spirit (created out of magic) with a human. The wolves can be magically bound to the swords and in that form can be used by mages as protection. 
+
+
+## Appears In
+
+```dataview
+table status, protagonist, location, year, time, length, pitch
+WHERE contains(string(mentions), "Swordwulfen")
+sort year desc
+```

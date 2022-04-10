@@ -8,3 +8,4 @@ This phenomenon shows up in fiction a fair amount. The Black Company by Glen Coo
 
 * [[The Tyrants of Syracuse by Jeff Champion#p120 example of why discipline matters for armies]]
 * [[Review of the Traitor Son Cycle by Miles Cameron]]
+* [[2022.04.13a Mercenaries make for a strange army]]

@@ -1,3 +1,7 @@
+---
+alias: bluestone
+---
+
 magic crystals made out of mage blood that can be used to passively pull power from the aether and refine it at a very slow rate. 
 
 ## On Eheu Isle

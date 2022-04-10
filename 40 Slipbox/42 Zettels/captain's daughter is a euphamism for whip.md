@@ -1,0 +1,1 @@
+ [[On Age of Sail captains and taking their families on sea voyages#^177d93|The "captain's daughter" was an instrument of punishment, be it a rod or a whip]] but note [[On Age of Sail captains and taking their families on sea voyages#^0f638c|the precise meaning would have varied by ship, because sailors are not a monolithic culture]]. 

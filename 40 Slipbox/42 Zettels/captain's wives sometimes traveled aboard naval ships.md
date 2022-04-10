@@ -1,0 +1,1 @@
+[[On Age of Sail captains and taking their families on sea voyages#^e6720a|Traveling via merchant ship was comfortable and preferred, but sometimes the wife of a captain might travel to a nearby naval station if the voyage followed the coast]].
