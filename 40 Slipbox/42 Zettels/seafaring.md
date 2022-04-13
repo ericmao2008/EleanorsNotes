@@ -23,4 +23,5 @@
 ## Raw Dumps
 ## In the Wild 
 
+- [Asian mariners who made great discoveries](https://www.reddit.com/r/AskHistorians/comments/u0qf7v/is_there_an_asian_christopher_columbus/) via [[rAskHistorians]]
 
