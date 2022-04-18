@@ -323,7 +323,7 @@ It's more than a little agitating how long it seems to have taken scholars to fi
 
 > This maps onto a change in the nature of Carthaginian imperialism, especially in Sicily. C. R. Whittaker argued in a classic article published in 1978 that until the fourth or even third century BCE, Carthage’s expansionary strategies primarily involved the control of ports of trade rather than “direct territorial conquest and annexation, a system of provincial administration, the levying of tribute, a method of exploiting land, unequal alliances and . . . trade monopolies and controls.”142 Scholars now quibble about some of the details, but no one has succeeded in disproving Whittaker’s basic hypothesis for the sixth and most of the fifth centuries.
 
-#pkm/crossReference with [[The Tyrants of Syracuse by Jeff Champion]]
+#pkm/xref with [[The Tyrants of Syracuse by Jeff Champion]]
 
 *  [Location 2269](https://readwise.io/to_kindle?action=open&asin=B0746TLVNS&location=2269)
 

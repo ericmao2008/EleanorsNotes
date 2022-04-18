@@ -4,5 +4,5 @@ They had a mixed economy, farming and herding hunting and gathering. They create
 
 ## References
 * [[Human-Animal Entanglements in the Neolithic]]
-* #pkm/crossReference  [[The Golden Thread by Kassia St Clair#ch01p33]] also discusses Catal Huyuk in Turkey
+* #pkm/xref  [[The Golden Thread by Kassia St Clair#ch01p33]] also discusses Catal Huyuk in Turkey
 * [Çatalhöyük - Wikipedia](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk)

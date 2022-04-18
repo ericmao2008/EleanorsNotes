@@ -18,7 +18,7 @@ date: 2021-09-25
 
 > For example, sacrifices, of both people and animals, are commonly found in Norse burials pre-conversion. However even in graves where the "primary" occupant is female there are attested human sacrifices, often theorized to be slaves that are killed to accompany their master. Other burials of high status women feature horse sacrifices, another extremely high status good.
 
-Useful for the [[90 Articles/92 WIP/70 Newsletters/71 Iceberg/2022.01.26a broken heart syndrome and human sacrifice customs]] article. #pkm/crossReference with [[child sacrifice in the Punic world]]
+Useful for the [[90 Articles/92 WIP/70 Newsletters/71 Iceberg/2022.01.26a broken heart syndrome and human sacrifice customs]] article. #pkm/xref with [[child sacrifice in the Punic world]]
 
  * [View Highlight](https://read.readwise.io/read/01fgey252mc3x9e9wbcad4had7)
 

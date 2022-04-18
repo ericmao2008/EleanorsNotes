@@ -1,4 +1,18 @@
-## Story
+
+- [i] Metadata
+	- length:: flash
+	- universe:: [[GeneE]] (AU)
+	- time:: arrival 
+	- market:: [[The Iceberg]]
+	- protagonist:: Ollie
+	- mentions:: Dr. Jackson, Andrea
+	- location:: Gliese
+	- pitch:: An android manages to make it to a distant planet in an effort to follow its owner's last command. 
+- [<]  Status Log
+	- created:: 2021-09-02]
+	- status-updated:: 2022-04-16
+	* Afterword: [[Organidroids]]
+
 
 The first night Ollie stood watch over the teleporter's bio-printer, white-backed vultures destroyed the latrines in their quest for settler shit. Ollie spent the next morning weaving protective nets out of river reeds and cursing her predecessor, who’d had the privilege of standing to pee. 
 

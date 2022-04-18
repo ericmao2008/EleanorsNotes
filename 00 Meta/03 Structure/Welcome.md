@@ -1,6 +1,6 @@
 Welcome to the personal notes of Eleanor Konik. This vault is meant to showcase how I personally use Obsidian to manage a variety of things. Because it’s a live website, some details (like metadata and comments) are hidden.
 
-If you’d like to download a significantly less sanitized version of this vault that will allow the plugins to actually do their thing, the `.zip` of my notes is available to [subscribers to the Iceberg, my research & fiction newsletter](https://newsletter.eleanorkonik.com/membership/). Be warned, though — thar be spoilers! 
+If you’d like to download a significantly less sanitized version of this vault that will allow the plugins to actually do their thing, the `.zip` of my notes is available to [financial supporters of the Iceberg, my research & fiction newsletter](https://newsletter.eleanorkonik.com/membership/). Be warned, though — thar be spoilers, and I do charge... since it contains stories and articles that are otherwise paywalled. 
 
 If you’re interested in reading my [articles about notetaking knowledge management](https://www.obsidianroundup.org/tag/thoughts), check them out over at the Obsidian Roundup. If you want a synthesized version of my notes and access to my fiction, as well as weekly analysis of educational history-and-biology related topics, subscribe to my [newsletter](http://newsletter.eleanorkonik.com/). I’m also pretty active on [Twitter](https://twitter.com/EleanorKonik) and use it as a space to discuss [[Impacts of Increasing Population Density|questions]] that come up in my research. 
 

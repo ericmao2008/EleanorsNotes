@@ -31,7 +31,7 @@ alias: 10978381
 > The other concern was that letting anyone wear just anything must lead inexorably to moral decline. If you couldn't tell a milkmaid from a countess at a glance, the very fabric of society might unravel.
 
 * ([View Highlight](https://read.readwise.io/read/01ffr2ky4brzwj97b3tjbj20jk))
-* #pkm/crossReference with [[The Golden Thread by Kassia St Clair]]
+* #pkm/xref with [[The Golden Thread by Kassia St Clair]]
 
 ### Elizabethan England legislated sword length by rank
 

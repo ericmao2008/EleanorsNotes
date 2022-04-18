@@ -147,7 +147,7 @@ The most pressing problem was that of stability, or “tippiness,” as a sailor
 
 > the natural dynamics of fishing and coastal living were never static. People were always on the move; families splintered, relatives quarreled; disputes over fishing territories or food shortages threatened survival. And, just as on land, the option of moving away was always there. In these instances, voyagers simply sailed away to distant islands visible from the shore.
 
-This meshes with [[The Civilizations of Africa by Christopher Ehret]] and [[The Horse The Wheel And Language by David Anthony]]. #pkm/crossReference 
+This meshes with [[The Civilizations of Africa by Christopher Ehret]] and [[The Horse The Wheel And Language by David Anthony]]. #pkm/xref 
 
 ### L671 
 

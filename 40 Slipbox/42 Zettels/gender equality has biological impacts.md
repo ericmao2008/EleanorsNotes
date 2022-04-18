@@ -2,4 +2,4 @@
 > — my article on [Women in militaristic cultures](https://eleanorkonik.com/women-militaristic-culture/). 
 
 - Probably Egypt? #research 
--  #pkm/crossReference with [[Against the Grain by James C. Scott]] I know I saw something similar there. 
+-  #pkm/xref with [[Against the Grain by James C. Scott]] I know I saw something similar there. 

@@ -25,4 +25,4 @@ One last thing I'll note is that although I absolutely loved every part of this 
 ## Notes
 
 * see also: [[2021.03.08 Laundry]] 
-* #pkm/crossReference  with [[Backwards Mapping Fiction]]
+* #pkm/xref  with [[Backwards Mapping Fiction]]

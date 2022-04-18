@@ -1,3 +1,5 @@
+[[2022-04-15]] 18:04 MOBILE obsidian-zotero-desktop-connector Plugin has been updated from version 1.2.1 to 1.2.24. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.2.24)
+
 [[2022-04-05]] 20:47 MOBILE obsidian-zotero-desktop-connector Plugin has been updated from version 1.2.0 to 1.2.1. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.2.1)
 
 [[2022-04-05]] 17:11 MOBILE obsidian-zotero-desktop-connector Plugin has been updated from version 1.1.9 to 1.2.0. [Release Info](https://github.com/mgmeyers/obsidian-zotero-desktop-connector/releases/tag/1.2.0)

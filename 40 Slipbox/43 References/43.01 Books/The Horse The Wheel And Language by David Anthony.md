@@ -214,7 +214,7 @@ This relates to the [[Greek]] peoples of [[classical antiquity]] and can therefo
 
 > The Suvorovo chiefs displayed many of the behaviors that fostered language shift among the Acholi in East Africa: they imported a new funeral cult with an associated new mortuary ideology; they sponsored funeral feasts, always events to build alliances and recruit allies; they displayed icons of power (stone maces); they seem to have glorified war (they were buried with status weapons); and it was probably their economic example that prompted the shift to pastoral economies in the Danube valley. Proto-Indo-European religion and social structure were both based on oath-bound promises that obligated patrons (or the gods) to provide protection and gifts of cattle and horses to their clients (or worshippers). 
 
-Interesting connection to Africa. Something to #pkm/crossReference later. 
+Interesting connection to Africa. Something to #pkm/xref later. 
 
 ## ch12 Seeds of Change on the Steppe Borders
 

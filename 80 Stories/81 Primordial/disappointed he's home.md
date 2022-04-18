@@ -331,7 +331,7 @@ Not that the prince's strategic idiocy had done Burcad or his crew a damn bit of
 
 "Get me that brown bag we got in Lnigh, please," Burcad asked Reriana. "It's in the botBurcad of the pack."
 
-- [ ] #pkm/crossReference with the thing from [[The Golden Thread by Kassia St Clair|The Golden Thread]] about the materials you need to climb safely. Also, can have him barter in Lnigh — but what's the goal / conflict / disaster there? 
+- [ ] #pkm/xref with the thing from [[The Golden Thread by Kassia St Clair|The Golden Thread]] about the materials you need to climb safely. Also, can have him barter in Lnigh — but what's the goal / conflict / disaster there? 
 - [ ] file an issue for Sanctum about how the right padding for tag search box is off. 
 
 She had brightened with every league %% [[units of measure]] %% they climbed — still pale, but the crystalline translucence of an ice sculpture, not the cloudy-grey of weakness. Her cheeks were flushed with exertion, blue instead of red, and though the effect was eerie, he could tell she was excited. 

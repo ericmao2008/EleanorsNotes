@@ -1,1 +1,3 @@
 In fiction, it's important to make sure to address the _reasons_ that patriarchies evolve. Gender equality is easier in a society where childbirth isn't very dangerous, early childcare can be handled equally by either gender (aka, formula exists), and sex-linked characteristics like testosterone and size are mitigated because of technology or magic. I admit I get frustrated when I read medieval fantasy, for example, that doesn't address that sort of thing somehow.
+
+But see: [[gender in Ancient Africa]]

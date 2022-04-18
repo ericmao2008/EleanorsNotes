@@ -25,7 +25,7 @@ publication-date: 2021-08-26
 
 > For at least three centuries, the Kingdom of Dahomey was a West African power that drew comparisons to Sparta. European visitors gushed about its women fighters: *She-soldiers. Medusas. Spinster warriors*.  The name that stuck in modern Benin: Amazons.
 
-#pkm/crossReference with [[The Amazons by Adrienne Mayor]]
+#pkm/xref with [[The Amazons by Adrienne Mayor]]
 
 ### Dahomey had fraternal twin co-rulers
 

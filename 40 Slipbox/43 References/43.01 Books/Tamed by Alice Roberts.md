@@ -91,7 +91,7 @@ probably. There’s some controversy still. But the latest genetic evidence from
 
 > What we don’t really know is who chose whom. Our instinct may be to assume that our own human ancestors chose wolves and deliberately moulded them into dogs over generatoins. In reality, conscious intent may have had very little to do with the transformation of certain wolves into domesticated species. It may have started as a gentle form of symbiosis, a loose partnership based on mutual benefit. Perhaps it was even the wolves that drove the process. By hanging around humans more and more, even if just picking over middens for scraps of food, wolves may have unconsciously trained humans into accepting them – first as neighbors, then as companions. 
 
-This reminds me of the [[A Storytelling of Ravens by Betty Wheelwright]]. #pkm/crossReference 
+This reminds me of the [[A Storytelling of Ravens by Betty Wheelwright]]. #pkm/xref 
 
 ### ch01p36 the initial domestication of wolves into dogs could have been very fast
 
@@ -188,7 +188,7 @@ Something to bear in mind when teaching the neolithic revolution.
 
 > Mesolithic lifestyles were quite variable: some communities seem to have been quite sedentary; others were developing seafaring – shown by the trade in obsidian around the Mediterranean as well as evidence for deep-sea fishing. 
 
-#pkm/indexThis & #pkm/crossReference with [[seafaring]]
+#pkm/indexThis & #pkm/xref with [[seafaring]]
 
 ## Chapter 03 Cattle
  
@@ -196,7 +196,7 @@ Something to bear in mind when teaching the neolithic revolution.
  
  > In Siberia, I watched reindeer hunter cutting into the belly of a reindeer they'd just killed, cutting out pieces of the still-warm liver and eating those, raw, while dipping a cup into the cavity to bring out the blood to drink.
 
-#pkm/crossReference with the Siberian reindeer hunters who drink hallucinogenic Reindeer urine [[2021.06.21 Fungus#Pee Shrooms]]
+#pkm/xref with the Siberian reindeer hunters who drink hallucinogenic Reindeer urine [[2021.06.21 Fungus#Pee Shrooms]]
 
 ### ch03p92 milk-filled antelope udders were delicacies 
 
@@ -236,7 +236,7 @@ Reminds me of the way we lost "og" bananas and American chestnuts to blights. #n
 
 > Metzger's tropical maize, transplated into a temperate climate, is a fantastic example of how malleable the phenotype can be.
 
-Pheontype plasticity (when environment changes how genes are expressed) is similar (but actually super different) to the way octopods can change their RNA. #pkm/crossReference #nonfic/articleSeed 
+Pheontype plasticity (when environment changes how genes are expressed) is similar (but actually super different) to the way octopods can change their RNA. #pkm/xref #nonfic/articleSeed 
 
 ## Chapter 05 Potatoes
 
@@ -252,7 +252,7 @@ Pheontype plasticity (when environment changes how genes are expressed) is simil
 
 > By night, potatoes were laid out on the ground to freeze. During the day the'd thaw out and would be trodden on, to squeeze out water. Then they'd left out to freeze again. After three or four days and nights the potaro ow the pc Eu freeze-dried potatoes. As well as were transformed into chuño dehydrating the tubers, this processing would also drive our glycoalkaloids from the chuño, making it less bitter than fresh potatoes. While domestication would have involved the selection of the most palatable potatoes cultivation- some potatoes remained a little too bitter. Another way of reducing bitterness was to eat the potatoes with clay, which binds to the glycoalkaloids. Around Lake Titicaca today, there are still some Aymara people who eat their potatoes this way. Perhaps even moe importantly, making chuño transformed potatoes into a form that could be stored for extended periods, sometimes years. While the elite amongst agricultural societies in the Fertile Crescent grew wealthy amassing stores of wheat and herds of cattle, the Inca chiefs grew and fat on their stores of dried potatoes. Chunk became a currency in its own right. Peasants paid their taxes with it, and laborers and mercenaries were paid in it.
 
-#pkm/crossReference with [[2021.06.28 Food Preservation]] & the Romans paying soldiers in flour rations for bread making and using salt as currency. 
+#pkm/xref with [[2021.06.28 Food Preservation]] & the Romans paying soldiers in flour rations for bread making and using salt as currency. 
 
 ### ch05p160 elite Catholics spread potatoes 
 

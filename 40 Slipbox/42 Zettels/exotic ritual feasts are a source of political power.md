@@ -4,7 +4,7 @@ uri: https://id.loc.gov/authorities/subjects/sh85047412
 BN: ["Fasting--Religious aspects","Theology, Practical","Liturgics"]
 ---
 
-- [I] #pkm/crossReference [[religious rituals that make practical sense]]
+- [I] #pkm/xref [[religious rituals that make practical sense]]
 - [n] [[social impacts of early cattle domestication in ancient Russia]]
 - [n] [[feast culture may be responsible for agriculture]]
 - [b] [The goose is an inconvenient bird – too big for one, but too small for two](https://doi.org/10.1111/j.1467-789X.2008.00530.x) ([[rossnerGooseInconvenientBird2009.pdf]])

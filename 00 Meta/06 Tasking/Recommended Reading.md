@@ -25,7 +25,7 @@ alias: tbr
 
 
 ### Seafaring
-* [Boats of the world : from the Stone Age to Medieval times (Computer file, 2009) [WorldCat.org]](https://www.worldcat.org/title/boats-of-the-world-from-the-stone-age-to-medieval-times/oclc/1241670991?referer=list_view) to #pkm/crossReference with [[Beyond the Blue Horizon by Brian Fagan]]
+* [Boats of the world : from the Stone Age to Medieval times (Computer file, 2009) [WorldCat.org]](https://www.worldcat.org/title/boats-of-the-world-from-the-stone-age-to-medieval-times/oclc/1241670991?referer=list_view) to #pkm/xref with [[Beyond the Blue Horizon by Brian Fagan]]
 * Under the black flag: the romance and the reality of life among the pirates by Cordingly, David.
 	* pretty sure this one was also recommended by an rAskHistorians thread. 
 
@@ -48,7 +48,7 @@ alias: tbr
 * The Classical world: the foundations of the West and the enduring legacy of antiquity by Spivey, Nigel Jonathan,
 * Carthage must be destroyed: the rise and fall of an ancient civilization Miles, Richard
 * [The eastern Mediterranean in the age of Ramesses II (Book, 2007)](https://www.worldcat.org/title/eastern-mediterranean-in-the-age-of-ramesses-ii/oclc/124074895?referer=list_view)
-
+* N. Luraghi, The Ancient Messenians (Cambridge, 2008) is the best single work on the Messenians, going over the history of the people and the region from the Greek Dark Ages to the Imperial Roman period.
 
 ### Mediterranean & Near East
 * Letters of the Great Kings of the Ancient Near East by Trevor Bryce – This is similar in content to [[Brotherhood of Kings by Amanda Podany]], but Bryce focuses on the Late Bronze Age specifically, particularly the role of the Hittites in Late Bronze Age diplomacy. Since Podany's book ends in the Amarna period (ca. 1350-1330 BCE) and does not cover the Egyptian-Hittite relations of the Ramesside period, this focus on the Hittites is helpful.

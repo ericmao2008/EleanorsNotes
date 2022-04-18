@@ -42,7 +42,7 @@ Dorotha had no friends in ==location== beyond a single spinster aunt, who Ejciak
 
 It was that devotion to building his trade empire that had led him to marry Dorotha, of course. Her family was not wealthy in the way his people understood, but her father was the latest of a long line of powerful chieftans, and while it was supposedly a ceremonial role with little in the way of power, it _did_ mean that he was entitled to half the war trophies of his clan. 
 
-- [i] this references the "how people manipulate their extant systems to give themselves ballooning power" phenomenon mentioned in [[social impacts of early cattle domestication in ancient Russia]], but there's also a version of it from Africa. #pkm/crossReference 
+- [i] this references the "how people manipulate their extant systems to give themselves ballooning power" phenomenon mentioned in [[social impacts of early cattle domestication in ancient Russia]], but there's also a version of it from Africa. #pkm/xref 
 
 In exchange for a powerful husband for his eldest daughter and a series of enchanted weapons for his nephews and sons, he had been happy to pass along most of the otherwise-useless trinkets. With the weapons he'd been given, his family was able triple their trophy collection, and the prestige they'd gained had been more than enough to catapult Ejciak, as the old man's son-in-law, into having enough status to be the recipient of many "gifts" — each one of which represented a highly sought after luxury good in the cosmopolitan city of [[Tal]], which had long since ==something to ground this in the timeline.== 
 

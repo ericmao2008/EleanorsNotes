@@ -26,7 +26,7 @@ The fact that a herd of sheep and a herd of cows have similar social structures 
 
 Horses and cows have very different social structures and were domesticated by very different methods. Horses trace their lineage back to one _male_ ancestor — a particular docile & agreeable male — whereas animals cows trace their lineage back to one _female_ ancestor: probably one prone to overproduction of milk. 
 
-- [!] #fic/editPending to #pkm/crossReference this with the evidence. 
+- [!] #fic/editPending to #pkm/xref this with the evidence. 
 - [I] Also speak to the [[crop domestication timeline]]
 
 Just because Earth and Mars are both planets (as opposed to satellites, natural or artificial — or something else entirely, intergalactic travelers like comets or generation ships or Niven's puppeteers with a captive star) doesn't mean we need to "tame" them the same way.

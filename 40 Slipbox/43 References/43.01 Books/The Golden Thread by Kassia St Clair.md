@@ -19,7 +19,7 @@ Not tree bark? Not leather?
 - [?] Can you make fibers from leather? 
 - [?] tree bark is a fiber, people use it — why don't _more_ people use it? 
 
-#pkm/crossReference [[All the Things That Trees Can Be]]
+#pkm/xref [[All the Things That Trees Can Be]]
 
 ## ch00 Introduction
 
@@ -33,13 +33,13 @@ There are lots of phrases that have to do with thread, "hanging by a thread" "pa
 
 * [[Historical tips for worldbuilding realistic symbolism]] — this page has a bunch more examples. 
 
-- [?] cotton was the first global commodity? Or sugar? #pkm/crossReference with [[Sugar Changed the World]]
+- [?] cotton was the first global commodity? Or sugar? #pkm/xref with [[Sugar Changed the World]]
 
 ### ch00p05
 
 > Spindles give spinners an advantage, since they also provide a place on which to wind the thread as it is made, preventing it from getting knotted. 
 
-* #pkm/crossReference reference with [[Spindle Whorls of British Columbia]]
+* #pkm/xref reference with [[Spindle Whorls of British Columbia]]
 
 ### ch00p08
 
@@ -80,7 +80,7 @@ Am parent, can confirm, this makes sense.
 
 > Many peoples, including the 5th century Huns, bandaged children's skulls to flatten them, making the heads of adults sweep backwards and up, for example. 
 
-* #pkm/crossReference with [[Dental Ritual Mutilations]]
+* #pkm/xref with [[Dental Ritual Mutilations]]
 * #nonfic/twitterFodder for [[2021.09.20 Dentition]] 
 * similar to bound feet, circumcision, neck elongation, etc. [[Newsletter Ideas]] for just mutilations. Ritual scarification? 
 * [[2021.07.05 Tattoos]] #nonfic/twitterFodder maybe?

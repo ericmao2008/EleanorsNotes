@@ -21,7 +21,7 @@ date: 2021-12-20
      - [[spiders can be surprised]]
      - [[Portia spiders have good number sense]]
      - [[time planning correlates positively with safety]]
-- [ ] #pkm/crossReference with [[how spidersilk is harvested]] and [[yhaoginli]]
+- [ ] #pkm/xref with [[how spidersilk is harvested]] and [[yhaoginli]]
 
 ## Highlights
 

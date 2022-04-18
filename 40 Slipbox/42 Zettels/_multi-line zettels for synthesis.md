@@ -1,0 +1,4 @@
+```query
+/(?:\* .+\n)+/ path:Zettel
+```
+
