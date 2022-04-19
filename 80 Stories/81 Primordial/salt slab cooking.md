@@ -1,0 +1,15 @@
+
+- [i] Metadata
+	- length::
+	- universe:: 
+	- time::
+	- market::
+	- protagonist::
+	- mentions::
+	- location::
+	- pitch:: Story about someone who lives near a salt mine (brutal, awful work) + cooks using salt blocks (unusual [[2022.01.10 Cuisine]] cooking methods) 
+- [<]  Status Log
+	- created:: [[2022-04-18]]
+	- status-updated:: [[2022-04-18]] #fic/storyStem 
+- [b] References
+	- [directions for cooking on a himalayan salt block](https://seasalt.com/salt-101/about-himalayan-salt/using-himalayan-salt-blocks)
