@@ -25,7 +25,7 @@ isbn13: 9781594630385
 > A banana tree isn't a tree at all; it's the world's largest herb. The fruit itself is actually a giant berry. 
 
 
-### pxiii 
+### pxiii **
 
 > The bananas we eat today never reproduce on their own. They _must_ have human assistance. 
 
@@ -37,7 +37,7 @@ isbn13: 9781594630385
 
 > Bananas are the world's largest fruit crop and the fourth-largest product grown overall, after wheat, rice, and corn. 
 
-> Bananas surpassed aples to become America's best seller despite the fact that the banana is a tropiocal product that rots easiluy and needs to be shipped up to thousands of miles, while apples grow within a few hours of most U .S. cities
+> Bananas surpassed apples to become America's best seller despite the fact that the banana is a tropical product that rots easily and needs to be shipped up to thousands of miles, while apples grow within a few hours of most U .S. cities
 
 - [n] #fic/expandWorldbuilding this is a really relevant fact for [[Verraine]] trade routes and worldbuilding; don't fall into the trap of assuming that they'll all eat local foods, and maybe a cool #fic/storyStem would be someone lamenting that people _don't_ eat sensible local foods. Could relate this to the chef stories like [[2022.02.02 The Bitter Business of Sweetwater Beans (FF)]]
 

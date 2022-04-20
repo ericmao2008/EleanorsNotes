@@ -41,7 +41,7 @@ alias: tbr
 	* Recommended from rAskHistorians probably
 * The Incan Army: Volume II Strategy, Tactics and Logistics – has some stuff about the Incan education system 
 * Hassig's *Mexico and the Spanish Conquest* incorporates a lot of the scholarship he's done on Aztec warfare and recounts the Conquest with an eye towards understanding the Aztec perspective, rather than just regurgitating Spanish accounts. (per [[Tlahuizcalpantecutli]])
-
+* _The Conquest of the Incas_ (John Henming, 1970)maybe starts with some context about the fragmentation of the empire before the arrival of the Spanish conquerors, especially the civil war. Recommended by [Deborah Pinkett](https://aus.social/@futzle/108115413230334291) 
 ### Mediterranean
 * [Ritualised friendship and the Greek city (Book, 2002)](https://www.worldcat.org/title/ritualised-friendship-and-the-greek-city/oclc/1030083451?referer=list_view)
 * [While Rome burned : fire, leadership, and urban disaster in the Roman cultural imagination (Book, 2020)](https://www.worldcat.org/title/while-rome-burned-fire-leadership-and-urban-disaster-in-the-roman-cultural-imagination/oclc/1124905303?referer=list_view)
@@ -62,6 +62,8 @@ alias: tbr
 - "Empire-Building and Market-Making at the Qin Frontier: Imperial Expansion and Economic Change, 221–207 BCE" recommended by [[rememberthatyoudie|u/rememberthatyoudie]] in [[hypermilitarized groups in history]]
 
 ### Prehistoric Art
+
+* [[Alice Roberts]] has a book about prehistoric [[funerary practices]] that Richard Carter recommended. 
 * Sacred Darkness: A Global Perspective on the Ritual Use of Caves ed Holley Moyes, 2014
 * Sigfried Giedion, "Space Coinceptioin in Prehistoric Art," in Explorations in Communication, 1960
 * Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History by Nicola Di Cosmo "I got this under the impression it was an account of the Xiongnu Empire and its wars with Han China. It is, in part, that, but Di Cosmo casts his net rather wider, covering also the archaeology of China's early northern fringes, the history of the Rong and Di peoples who preceeded the Xiongnu as China's northern neighbours, and Sima Qian's methods and aims in writing of the Xiongnu in the Shiji. I found it extremely interesting, especially the sections on the rise of horseback nomadism in eastern Asia and on the Rong and Di (who were not horseback nomads but agriculturalists and footslogger pastoralists)."
