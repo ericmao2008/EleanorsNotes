@@ -19,6 +19,8 @@ _The Obsidian Hub is a community knowledge base designed to help organize inform
 
 ## Obsidian Updates
 
+[v0.14.6](https://forum.obsidian.md/t/obsidian-release-v0-14-6/35640) requires an installer update, but should fix the issue with PDFs. 
+
 ## Plugin News
 
 ### New in Community Plugins
@@ -48,6 +50,7 @@ _Note: these plugins have not yet been submitted for code review, and are being 
 ## Ancillary Code
 
 ## Guides
+* Nicole van der Hoeven has a new video about [task management in Obsidian](https://www.youtube.com/watch?v=ccN5vJzXwvo).  
 
 ## Discussions
 
