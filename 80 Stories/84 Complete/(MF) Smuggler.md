@@ -5,8 +5,8 @@
 	- time:: before [[2021.08.25 Penitent (MF)]]
 	- market::  [[Inkblood]], [Twitter](https://twitter.com/EleanorKonik/status/1409578866298048515)
 	- protagonist::
-	- mentions::
-	- location::
+	- mentions:: [[yhaoginli]] 
+ ​location::
 	- pitch:: A man is smuggling GMO cattle to a new colony and doesn’t have a big enough bribe to keep the cow from getting gutted. 
 	- character-arc::
 - [<]  Status Log
@@ -20,6 +20,7 @@
 		* [[Mesoamerican governments distributed taxed food in times of famine]]
 		* [[the technical and psychological design rationale behind everyday things]]
 		* [[We Condone It by Our Silence by Rebecca Futo Kennedy]] -- Athenian taxes (import taxes vs. local taxes vs. extracted taxes)
+	* Baltimore vs Annapolis vs st Mary's and smuggling, see also that piece on where pirates fit into the social hierarchy
 
 The first thing I learned smuggling was: don’t ask questions. 
 
