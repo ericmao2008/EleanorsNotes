@@ -20,6 +20,7 @@ created: 2021-11-26
 	- Was the little girl was the egg of a dead woman? There's going to be an abortion/adoption angle no matter what I do, unless we go the "poacher" route. 
 	- The "win" is when Burcad gets her back to her family in the mountains. 
 	- Maybe base it on Rapunzel, but if possible find an alternative culture. Have the witch be the witch, move the basement to a tower, the kidnapping daughter element is already there, the prince is a sea prince pirate her dad's age and a different species — the witch's husband. But there's the whole into the woods element, and I can probably find more.  
+	- the little girl should express phenotype plasticity of the Eheuains:  optimized for caves and being more batlike than birdlike because of the lowland temperatures and the basement she was raised in; it's the environmental she incubated and hatched in! 
 
 
 Burcad walked in the door, his hat coming off with the same instincts that drove the dog to bark; habit, nothing more. The dog didn't so much as budge from the couch.

@@ -1,5 +1,5 @@
 ---
-alias: ["aetherrock", "atherok", "aetherok",]
+alias: ["aetherock", "atherok", "aetherok",]
 ---
 
 Based on [[2020.11.16 Aerogels|aerogels]] (but less absorbent), aetherrock is a product of transmutation that was discovered by the early Temple of [[The Gardener]], which uses thin aetherrock bubbles to preserve food by creating a vacuum inside the bubble. These brittle bubbles are easily shattered/broken open and are non-toxic, so they're good for food storage. 

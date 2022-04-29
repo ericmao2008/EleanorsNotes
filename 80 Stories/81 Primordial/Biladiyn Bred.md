@@ -62,7 +62,7 @@ At the end of the day, he'd been born a marsh-rat, with absolutely no relationsh
 
 "How much do you know about the origins of the Order? The founder, I mean."
 
-- [i] must align with [[Healer Mage]]
+- [i] must align with [[2022.04.27 The Apothecary's Daughter (MF)]]
 
 "His sister was a healer who was killed because she refused to join any of the Temples and went rogue — the High Priests were in a conflict with the royal house of [[Keldehss]] and she healed him when he was dying. Her brother was the king's bodyguard."
 
@@ -146,7 +146,7 @@ Iganmor raised his eyebrow. "How old is $HealerMage2$?"
 
 "Now," $order head title$ said, and led him into a small classroom off the main balcony. 
 
-- [!] go back and edit this scene so that the way it looks is similar to the central room in Sabrina the Teenaged Witch Netflix series, with a big sculpture of [[Healer Mage]] and her brother in the center, a big open space, books, and then the balcony overtop that leads to a bunch of different classrooms. 
+- [!] go back and edit this scene so that the way it looks is similar to the central room in Sabrina the Teenaged Witch Netflix series, with a big sculpture of [[2022.04.27 The Apothecary's Daughter (MF)]] and her brother in the center, a big open space, books, and then the balcony overtop that leads to a bunch of different classrooms. 
 
 $HealerMage2$ was five years younger than Iganmor. She was going to be beautiful — not in the way that appealed to him, but with the sort of $descripton$ that was going to make it harder to keep her safe, because anywhere she went in public, she'd be mobbed by admirers. He imagined the reactions of the $idle male youths$ in the market square buying finger food and 
 

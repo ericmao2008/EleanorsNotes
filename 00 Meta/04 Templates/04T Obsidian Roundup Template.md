@@ -1,4 +1,4 @@
-> [!INFO] Creation Steps
+No> [!INFO] Creation Steps
 > Intended for publication with [[Obsidian Roundup]]
 > - [Obsidian Updates](https://forum.obsidian.md/c/announcements/13) (check pins in `#mobile`)
 > - [Github Action](https://github.com/argenos/obsidian_roundup/actions)

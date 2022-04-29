@@ -72,7 +72,7 @@ It looked like she would be checking in at the Temple first after all.
 
 ---
 
-Each of the six gods of Nahria boasted a Temple in Marna, but the Temple of the Architect was by far the tallest. Even if Irella hadn’t lived in the Temple of the Architect since coming to Oruku, it would have been impossible to miss. Constructed by magic out of glittering blue [[aetherock]] barely distinguishable from the clouds above, tall enough that it would have required a massive base to support its bulk had it been built of any other material. Together, the six levels of the Temple formed a stairway for the gods' journeys to the heavens. 
+Each of the six gods of Nahria boasted a Temple in Marna, but the Temple of the Architect was by far the tallest. Even if Irella hadn’t lived in the Temple of the Architect since coming to Oruku, it would have been impossible to miss. Constructed by magic out of glittering blue [[aetherrock]] barely distinguishable from the clouds above, tall enough that it would have required a massive base to support its bulk had it been built of any other material. Together, the six levels of the Temple formed a stairway for the gods' journeys to the heavens. 
 
 A pair of workers sat in front of the entrance to the Temple, chatting as they ate sour fish balls straight from their skewers. Irella passed them with her escort. They paid her no mind as she walked by, the sight of a priestess and her guards returning to Temple too common to note. 
 

@@ -4,7 +4,7 @@
 ![[Finding Winged Island Story]]
 ![[2021.12.08 Mock (MF)]]
 ![[2021.07.28 Embaphium (MF)]]
-![[Healer Mage]]
+![[2022.04.27 The Apothecary's Daughter (MF)]]
 ![[2021.09.08 Petrichor (MF)]]
 ![[2021.12.15 Shock (MF)]]
 ![[Herding Giant Spiders]]

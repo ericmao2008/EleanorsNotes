@@ -4,7 +4,7 @@ The doctor took one look at her and sneered, which gave Irella a hint at why the
 
 A lazy $asshole$, at that. 
 
-Irella supposed that technically, he was correct. Neither she nor her _biladiyn_ were officially part of the army. It had never mattered before; when she campaigned with Eramepi, nobody would have dared turn her away. But she didn't know where else to turn--medicine was not the purview of the gods. %% See: [[Healer Mage]] %%
+Irella supposed that technically, he was correct. Neither she nor her _biladiyn_ were officially part of the army. It had never mattered before; when she campaigned with Eramepi, nobody would have dared turn her away. But she didn't know where else to turn--medicine was not the purview of the gods. %% See: [[2022.04.27 The Apothecary's Daughter (MF)]] %%
 
 %% Note: 
 The idea here character-arc wise is that she's used to everyone working on the same team, and hasn't run up against bureaucratic nonsense anymore. This is the niave --> savvy thing. %%

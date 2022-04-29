@@ -10,7 +10,7 @@
 	- character-arc:: Kala goes from being indecisive/follower to becoming a confident leader.
 - [<]  Status Log
 	- created:: [[2021-07-26]]
-	- status-updated:: [[2022-03-31]] #fic/storyStem 
+	- status-updated:: [[2022-03-31]]
 - [b] References
 	- [[Sugar Changed the World]], [[Beyond the Blue Horizon by Brian Fagan]], [[textiles]], [[circumstances that lead to polyandry]], [[realgar is a poisonous red crystal]], [[cinnabar lacquer can be carved]]
 	* [analysis](https://docs.google.com/document/d/1PIn7npUYTt9H_c5AO650EHHTQ-o2FJpFAdTTu1oQ-gg/edit) and [wip in gdocs](https://docs.google.com/document/u/1/d/1y_H_of2MtRX6-POsimaE5qL2lsyeBZEirP4C8wV9SAs/edit?pli=1)

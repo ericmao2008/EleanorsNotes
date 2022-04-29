@@ -4,7 +4,7 @@ alias: dakhma, ossuary, astudan
 
 Modeled on the [[2020.09.07 Tombs|Order of the Holy Sepulchre]]. A religious order (not a Temple) in [[Nahrian Basin]] devoted to the protection of [[thaumaturge|thaumaturges]]. The [[biladiyn]] are the "front-line" agents, but the Order itself is a bureaucracy with childcare, financial agents, etc. 
 
-The order was founded as a direct result of the events in [[Healer Mage]] — the protagonist was murdered after the miraculous healing of the Prince of [[Pontero]]. Her brother, one of the Prince's bodyguards, was the first *biladiyn.*
+The order was founded as a direct result of the events in [[2022.04.27 The Apothecary's Daughter (MF)]] — the protagonist was murdered after the miraculous healing of the Prince of [[Pontero]]. Her brother, one of the Prince's bodyguards, was the first *biladiyn.*
 
 ## References
 

@@ -47,7 +47,7 @@ date: 2021-10-29
 > Incubators for premature babies were not used until 1857. All that needed was a warm box, and their introduction reduced premature infant mortality by 28 percent.
 
  * [View Highlight](https://read.readwise.io/read/01fqpczfq2hv5xy4e4nq40h53x)
- * This is a good example of the sort of thing that could be done by [[Healer Mage]].
+ * This is a good example of the sort of thing that could be done by [[2022.04.27 The Apothecary's Daughter (MF)]].
 
 ### id261665394 waterwheel designs could have been improved earlier
 

@@ -4,7 +4,7 @@
 * 0 ATA; the Temple of [[The Archivist]] is founded in [[Canpium]] > [[Lysaria]] > [[Maehlorn]], which develops an archival system and the dating system that is eventually adopted around the world. 
 * 50 ATA: During [[Finding Winged Island Story]], [[Eheu Isle]] is first discovered by sailors out of [[Arais Delta]]. Because this story involves the Temple of [[the Counselor]], it has to happen after the [[Nahrian Temples]] are founded. Shortly thereafter, the Ehuians begin trading with the [[Voldshee]], so the story has to take place before the total [[Unification of Maehlorn]].
 * 75 ATA: Iyranlenili mages create the [[aetherglass desert]] trying to destroy [[Surzi]] during [[2021.12.08 Mock (MF)]].  
-* 100 ATA: The [[biladiyn]] are founded as part of the events in [[Healer Mage]] & [[2021.07.28 Embaphium (MF)]].
+* 100 ATA: The [[biladiyn]] are founded as part of the events in [[2022.04.27 The Apothecary's Daughter (MF)]] & [[2021.07.28 Embaphium (MF)]].
 * 140-150 ATA: The beginning of the Consolidation Era of Maehlorn as described in [[Civil Mage]]. Eastern Nahria is united by [[Eramepi]] into the [[Lysaria|Lysarian League]] as a result of the [[Unification War]]. His sister [[Valentia]] founds a secular dynasty based on merit. The various temples reorganize into a more centralized hierarchy. 
 * 175 ATA: Iyranlenili mages continue trying to destroy [[Surzi]] in [[2021.09.08 Petrichor (MF)]] & [[2021.12.15 Shock (MF)]]. 
 * 200 ATA: [[Kala]] flees [[Eheu Isle]] with the other Ehuian political refugees and founds the village of [[Tulpitown]] atop [[Kortien Mountain]] in [[Edarebia]].

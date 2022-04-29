@@ -12,8 +12,6 @@
 - [<]  Status Log
 	- created:: [[2022-02-07]]
 	- status-updated: [[2022-03-06]]
-	- current-status:: #fic/editPending 
-		- swap this around to relate to the snapper stuff, [[2022.01.05 The Magic of Marsh Protection (FF)]] time period, because they're trying do [[Snapper Extermination]] and the smuggler is basically trying to breed them for their amazing hide and very environmentally dangerous mad science.
 	* #nonfic/articleSeed/afterword A deep dive on how efficient taxes actually caused problems for the British government based on [[2021.10.18 Taxes]] & 
 		* [[collecting taxes is cheaper than controlling labor forces]]
 		* [[too much taxation leads to starvation]]

@@ -2,16 +2,21 @@
 alias: tbr
 ---
 
-## In Progress
+## Finished Reading, Review Pending
 
 * [[THE Tyrants of Syracuse by Jeff Champion]]
 * [[The Amazons by Adrienne Mayor]]
-* [[The Golden Thread by Kassia St Clair]]
 * [[The Phoenicians and the West by Maria Aubet]]
+* [[The Golden Thread by Kassia St Clair]]
+
+## In Progress
+
 * [[Empire of Horses by John Man]]
+* [[Banana by Dan Koeppel]]
 
 ## History
 
+* Kambic, Emily Button. "The Changing Lives of Women’s Knives: ulus, Travel, and Transformation." Historical Archaeology 49.3 (2015): 35-53.
 - [the Archaeology of Seasonality](http://www.brepols.net/Pages/ShowProduct.aspx?prod_id=IS-9782503593951-1) studies the cycle of seasons throughout the ancient world. 
 - [Textiles the whole story](https://thamesandhudson.com/textiles-the-whole-story-9780500291139) is a vibrantly illustrated book, is an original look at the myriad roles played by textiles in all aspects of human life, from ancient weavings to light-sensitive and other futuristic fabrics of our own era; [recommended by TinkerBot](https://discord.com/channels/686053708261228577/700466324840775831/935716870017921034) and should be a good complement to [[The Golden Thread by Kassia St Clair]]
 * "A History of the Yoruba People" by Stephen Adebanji Akintoye
@@ -51,6 +56,7 @@ alias: tbr
 * N. Luraghi, The Ancient Messenians (Cambridge, 2008) is the best single work on the Messenians, going over the history of the people and the region from the Greek Dark Ages to the Imperial Roman period.
 
 ### Mediterranean & Near East
+* Jean Bottero, "The Oldest Cuisine in the World: Cooking in Mesopotamia", University of Chicago Press, 2004 recommended as part of [[Im a woman in the Bronze Age with no special access to prestige items. Do I own a knife What kind What do I use it for]]
 * Letters of the Great Kings of the Ancient Near East by Trevor Bryce – This is similar in content to [[Brotherhood of Kings by Amanda Podany]], but Bryce focuses on the Late Bronze Age specifically, particularly the role of the Hittites in Late Bronze Age diplomacy. Since Podany's book ends in the Amarna period (ca. 1350-1330 BCE) and does not cover the Egyptian-Hittite relations of the Ramesside period, this focus on the Hittites is helpful.
 * International Relations in the Ancient Near East by Mario Liverani – This is a very dry but important book, and Liverani has influenced how every ancient historian analyzes the Late Bronze Age. Rather than write a history of kings and trade goods, Liverani focuses on the ideology and realpolitik of Bronze Age diplomacy, which makes it a very nice companion volume to Podany's book. You may want to check to see if it's been translated into your native tongue.
 * Amarna Diplomacy: The Beginnings of International Relations edited by Raymond Cohen and Raymond Westbrook – This is a very unusual book in ancient Near Eastern studies, since it includes contributions not only by Egyptologists and ancient Near Eastern historians but also specialists in political science and international relations.
@@ -76,6 +82,8 @@ alias: tbr
 - Haynes, S. 2000. Etruscan Civilization: A Cultural History. Los Angeles: J. Paul Getty Museum Press
 - Steingräber, S. 2006. Etruscan Wall Painting: From the Geometric Period to the Hellenistic Period. Los Angeles: J. Paul Getty Museum (Almost exclusively tomb paintings)
 - Turfa, J. (ed.) 2013. The Etruscan World. London: Routledge
+
+
 
 ## Fiction
 

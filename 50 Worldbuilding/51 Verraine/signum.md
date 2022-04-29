@@ -2,7 +2,7 @@ A signum is, in short, a signature spell. Mages can create only one to add it to
 
 ![[2020.12.07 Waterwheels#Big Trees Little Holes]]
 
-During the [[thaumaturge]] era, people who created a signum were essentially diefied; for example, [[Nahrian Temples]] are composed at least partially of mages who learned the secrets of their signum, along with support personnel and those who are philosophically aligned to the mage's goal. [[The Architect]] and [[The Gardener]] for example taught [[aetherock]] and vacuum seals to their followers, respectively. 
+During the [[thaumaturge]] era, people who created a signum were essentially diefied; for example, [[Nahrian Temples]] are composed at least partially of mages who learned the secrets of their signum, along with support personnel and those who are philosophically aligned to the mage's goal. [[The Architect]] and [[The Gardener]] for example taught [[aetherrock]] and vacuum seals to their followers, respectively. 
 
 [[60 Characters/b. ATA 100-199/Irella]] does not (yet) have a signum, she's just adapting the aether transmogrification spell she learned from the temple. In [[202 ATA Barrow Mage|book 2]] she might develop one after working with the [[Voldshee]] (necromancy involving the Mallorn tree was a foundational *signum* in their culture) and the [[Monche]] (whose ability to control and bond with animals is also the result of a signum project). 
 
