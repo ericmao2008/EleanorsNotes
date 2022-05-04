@@ -1,10 +1,3 @@
----
-
-length:
-current-status: seed
-created: 2021-11-15
----
-
 - [i] Metadata
 	- universe:: [[Verraine]]
 	- time::
@@ -14,11 +7,10 @@ created: 2021-11-15
 	- location:: [[Ulmes]], [[Arais Delta]], [[Maehlorn]]
 	- pitch:: A powerful trader marries a woman from the frozen north. 
 	- character-arc::
-- [!] Status Log
-	- 2021-11-15 Importing from [[Otter 1]]
-
-
-- [I] This guy just got married.
+- [<] Status Log
+	- 2021-11-15 Importing from Otter.ai
+- [I] #nonfic/articleSeed/afterword [[2021.11.08 Inheritance]] / [[2021.11.01 Marriage]] reference about how Christian priests in Mexico were mad about the indigenous habit of pre-marriage. 
+- [n] This guy just got married.
 
 Ejciak's wife had the blackest hair he'd ever seen, a shadowy nimbus that fell to her thighs and shadowed a face so pale that even the color of her lips was filtered, like a rose petal caught by an early frost. She came to him wearing a blue dress so faded and old that it nearly disappeared against her skin — a sign of prestige among her people, he'd been told, but to him it just looked fragile. 
 
@@ -26,7 +18,6 @@ She seemed nice enough, if nearly as subdued as her dress, and to his great reli
 
 Theirs was an arranged marriage, like many traders' were, but ever since the ==priests== came to ==location,== the rules had been different. 
 
-- **Analysis Idea** [[2021.11.08 Inheritance]] / [[2021.11.01 Marriage]] reference about how the Aztec priests were mad about the indigenous habit of pre-marriage. Probably don't want to discuss Alec & I's compromise here. 
 
 His parents had known each other for over a year before deciding to formalize their union, and his older brother's wife had joined their household for a season before they'd left to set up on their own. 
 

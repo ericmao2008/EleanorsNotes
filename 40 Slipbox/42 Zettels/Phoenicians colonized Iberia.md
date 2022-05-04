@@ -1,0 +1,2 @@
+* [[The Phoenicians and the West by Maria Aubet]]
+* the Phoenician-Carthaginian [cemetery in Osuna](https://www.theguardian.com/world/2022/apr/26/unprecedented-phoenician-necropolis-osuna-spain) (55 miles east of Seville) dates back to the fourth or fifth century BC and is unusual for being so far inland. 

@@ -7,6 +7,7 @@
 - [S] Marketing
 	-  [[2021-09-26]] shared to [r/worldbuilding](https://www.reddit.com/r/worldbuilding/comments/pvtot5/ancient_identities_historical_tips_for/). & [twitter](https://twitter.com/EleanorKonik/status/1442129359469531143). 
 	- Referenced in [[on notes bound by time and locale]] [[2022-03-18]]
+	- Used to answer an [[rAskHistorians]] [question](https://www.reddit.com/r/AskHistorians/comments/ua9vfc/how_do_historians_differentiate_cultures_in_the/) on 2022-05-01
 
 [Classification is difficult](https://eleanorkonik.com/hard-history/). Identity is complicated. Questions about whether the Irish are British (or at what point Irish-Americans are distinct from mainland Irish or Americans), or what "Jewishness" "really means" are fraught and complicated and for my own sanity I generally avoid thinking about it as much as possible. 
 

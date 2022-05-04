@@ -5,6 +5,7 @@
 - reimported on 2022-02-08 from reader
 - Real Title:: Elephant and Mammoth Hunting During the Paleolithic: A Review of the Relevant Archaeological, Ethnographic and Ethno-Historical Records
 - Link:: https://mdpi.com/2571-550X/1/1/3/htm
+- [[agamElephantMammothHunting2018.pdf]]
 
 ## Highlights
 

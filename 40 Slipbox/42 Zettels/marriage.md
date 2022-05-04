@@ -29,4 +29,5 @@
 ## References
 * [Where and how did the idea of marriage originate?](http://www.reddit.com/r/AskHistorians/comments/15pnk1/where_and_how_did_the_idea_of_marriage_originate/)
 * [Why were medieval noblewomen expected to marry incredibly young?](https://www.reddit.com/r/AskHistorians/comments/400vr9/why_were_medieval_noblewomen_expected_to_marry/cyqk4qh)
+* [Chinese folktale about the woman who married a horse](https://www.jstor.org/stable/1178945) / this is apparently an etiological myth for the origin of the silkworm goddess and cult in China. 
 
