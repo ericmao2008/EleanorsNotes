@@ -13,6 +13,7 @@
 	- status-updated:: [[2022-04-01]]  
 - [b] References
 	- original prompt was about [emotion decomposers](https://medium.com/promptly-written/a-natural-thought-prompt-410ad9dc2be7)
+	- #nonfic/articleSeed/afterword could be about the development of euphorigum, it's based on opium after all, and at least a little bit The Raven and nepenthe. 
 
 Husband dead. Herself, alive. Children half a world away.
 

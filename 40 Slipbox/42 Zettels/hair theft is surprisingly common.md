@@ -1,0 +1,1 @@
+I found out about this via `@depths of wikipedia` on twitter, but [hair theft is a thing](https://twitter.com/depthsofwiki/status/1521510851915747329?t=q-oTAdAVAfVCDIuE8WlnAg), mostly because human-hair wigs are really expensive. However, [birds also use mammalian hair in their nest-building, sometimes taking it from living mammals](https://doi.org/10.1002/ecy.3501). 

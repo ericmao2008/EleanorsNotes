@@ -1,6 +1,6 @@
 ## Timbuktu is an important example of an African city that came to prominence because of the government's protection of trade. Were there others in other regions?
 
-<cite>via [[rAskHistorians|r/AskHistorians]]</cite>
+via [[rAskHistorians|r/AskHistorians]]
 
 I've recently learned more about some of the predecessor cultures and civilizations in [[Mesoamerica]] that show up in the common core state standards for American education, and as a history teacher, it reminded me that what I teach to 12 year olds is by necessity a really limited glance into a slice-of-life sort of cherrypicked example...
 

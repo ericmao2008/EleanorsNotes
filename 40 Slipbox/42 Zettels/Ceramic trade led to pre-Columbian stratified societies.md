@@ -1,3 +1,0 @@
-#research this, it's a claim made by [this paper](https://www.semanticscholar.org/paper/Pre-Columbian-pottery%3A-research-in-the-Maya-region-Bishop/a958563886fba63da7adeec7a18ce3014b7ec2fd) but I only have access to hints from the abstract: 
-
-> Outlines the role of ceramic exchange in the development of pre-Columbian stratified societies on the basis of both analytical and archaeological information. Reviews the history of compositional research on Maya ceramics, based at first on petrographic methods, and relying now on advanced electronics technology

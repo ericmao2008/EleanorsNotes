@@ -1,0 +1,65 @@
+- [i]  [Tweet](https://twitter.com/i/status/1521739542172213253) by [[Alice Evans]] on [[May 4th, 2022]]:
+
+- To protect themselves from predators, primates tend to live in groups.
+  - For a group to expand, it must cooperate.
+  - Social bonding was encouraged by religion.
+  - Elites often emerged as groups grew larger, and used religion to legitimise their institutions.
+  - (Figure in Dunbar 2022) [pic.twitter.com/e3mOIi4vlB](https://twitter.com/_alice_evans/status/1521739542172213253/photo/1)
+- People cooperate with their nearest and dearest, but necessarily not at scale.
+  - Religion can reinforce social ties &amp; prevent fission - either via fears of supranatural punishment or religious rituals that create a sense of belonging
+  - This helped groups expand, argues Dunbar👇 [pic.twitter.com/Yp8e0MLGYN](https://twitter.com/_alice_evans/status/1521742913725681665/photo/1)
+- Grooming is another kind of ‘social glue’.
+  - Monkeys and apes groom each other to maintain cohesion and expectations of reciprocity.
+  - But this is capped.
+  - No individual animal can reciprocally groom more than 50 others. [pic.twitter.com/QONYRXtyrH](https://twitter.com/_alice_evans/status/1521743705723576320/photo/1)
+- Laughing, singing, dancing, emotional storytelling, communal earring &amp; drinking, as well as religion all trigger the release of endorphins - creating social bonding.
+  - These have the same effects as grooming, but can all be done at a much larger scale - Dunbar.
+- The endorphin effect increased by 100% when people exercised together.
+  - (This is totally in-line with my understanding of team sports like rugby and male bonding) [pic.twitter.com/41ZaDf65et](https://twitter.com/_alice_evans/status/1521755596424368128/photo/1)
+- Dunbar argues that the neurological effects of religion are not that mystic, they are similar to other synchronous, communal rituals.
+  - All increase social bonding and in-group cooperation. [pic.twitter.com/02nied2KbI](https://twitter.com/_alice_evans/status/1521756206401994753/photo/1)
+- So what explains the rise of religion?
+  - Dunbar points to anarchy &amp; raids.
+  - Strength in numbers held protect members from attacks. [pic.twitter.com/JMaPpze77W](https://twitter.com/_alice_evans/status/1521760094194704384/photo/1)
+- But as groups expand, disagreements erupt.
+  - Among San in Namibia, common complaints include jealousy, stinginess, refusal to share, and non-fulfilment of kinship obligations.
+  - Those who offend these norms are often ostracised or violently punished. [pic.twitter.com/QFp1CplGZZ](https://twitter.com/_alice_evans/status/1521760101044043776/photo/1)
+- Social glue is needed for the group to cohere and then withstand attacks.
+  - This could take the form of community bonding, marriage, and religious rituals. [pic.twitter.com/IN84KUdaNX](https://twitter.com/_alice_evans/status/1521760374902730753/photo/1)
+- What’s the relationship between religion and private property?
+  - Some argue that moralising high gods allowed property owning pastoral and agricultural elites to legitimise wealth accumulation. [pic.twitter.com/xo9GpK8heW](https://twitter.com/_alice_evans/status/1521762516954599424/photo/1)
+- But Dunbar thinks group cohesion was far more important:
+  - Religion’s primary role was not to legitimise social stratification, or prevent theft within a community, but to ensure community cohesion for mutual protection. [pic.twitter.com/rIYdlkwIph](https://twitter.com/_alice_evans/status/1521762524730957825/photo/1)
+- Religious cultural evolution occurred with socio-economic complexity &amp; growing populations - Dunbar.
+  - Belief in divine retribution (eg Aztec child sacrifices to placate the rain god) encourages pro-social behaviour and societies expand.
+  - Later we see Moralising High Gods. [pic.twitter.com/KcLEJcIwIG](https://twitter.com/_alice_evans/status/1521790970739765248/photo/1)
+- So Dunbar sees it as a co-evolutionary process.
+  - Religion is not the sole driver of population expansion or social complexity. He recognises the roles of commerce &amp; climate.
+  - But religious innovations (Moralising High Gods) allow societies to manage violence in bigger cities. [pic.twitter.com/cvReNhCzuo](https://twitter.com/_alice_evans/status/1521790978629287936/photo/1)
+- Religion certainly matters for Dunbar, but so does geography
+  - All the major world religions emerged in a very narrow latitudinal band of the northern subtropical zone just above the tropics
+  - The stars mark all the Monotheisistic religions. [pic.twitter.com/u4J3hLaiei](https://twitter.com/_alice_evans/status/1521791959186223105/photo/1)
+- Why do areas with more diseases have a higher number of tribal religions?? [pic.twitter.com/01BtmOojhY](https://twitter.com/_alice_evans/status/1521796461205364736/photo/1)
+- Why is there an inverse correlation between individualism and historical pathogens?? [pic.twitter.com/NWt0p55Yvb](https://twitter.com/_alice_evans/status/1521796467375157249/photo/1)
+- Why is the residual number of languages higher in places with a longer growing season??
+  - In short, what’s the relationship between culture and geography? [pic.twitter.com/DGozbNn1Q9](https://twitter.com/_alice_evans/status/1521796473192599552/photo/1)
+- Diseases destroy human populations.
+  - To reduce the number of people with whom one might contract a deadly disease one must reduce one’s circle of trade/marriage.
+  - Dunbar argues that the only cultures that would thrive amid diseases would be collectivist with differing religions. [pic.twitter.com/M8o8b5zieK](https://twitter.com/_alice_evans/status/1521797155899736064/photo/1)
+- The tropics reduce the necessity of trade.
+  - Each group can be self-sufficient, growing for 12 months a year.
+  - So they needn’t trade with each other.
+  - In the tropics, groups can survive without big commercial centres.
+  - They stay small, collectivist &amp; tribal. [pic.twitter.com/aRiTAw9vxM](https://twitter.com/_alice_evans/status/1521797616543145984/photo/1)
+- Why does PNG (180,000 square miles) have 850 official languages?
+  - Food is plentiful, small groups can be self-reliant without trading with other groups.
+  - In higher latitudes by contrast, food is unpredictable. Survival requires vast trading networks. This favoured common language [pic.twitter.com/6yIR5QNLVe](https://twitter.com/_alice_evans/status/1521823172458340352/photo/1)
+- In the tropics, small groups can thrive without trade: rich growing conditions mean food is superabundant.
+  - Trade is actually a threat: increasing the risk of disease transmission.
+- Socio-political fragmentation in the tropics is thus an evolved response to the problem of disease burden and the possibility of self-sufficient food production - argues Dunbar.
+- Temperate zones have a goldilocks situation: long enough growing season to be productive (unlike polar extremes), but low disease prevalence (unlike tropics). [pic.twitter.com/jhrkg8ebqJ](https://twitter.com/_alice_evans/status/1521824603894595584/photo/1)
+- Societies grew larger in certain climates, and more organised forms of religion were developed to respond to the social problems created by living together at scale.
+  - That’s why all the Monotheistic religions evolved within this narrow band - argues Dunbar. [pic.twitter.com/oOiOAdIGEP](https://twitter.com/_alice_evans/status/1521826409932546049/photo/1)
+- TLDR: Dunbar’s new book is fantastic.
+  - Drawing on both neurobiology experiments &amp; spanning history since the Neolithic, Dunbar persuasively argues that religious rituals promoted cohesion and pro-sociality for large groups that had achieved scale.
+
