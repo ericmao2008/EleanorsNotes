@@ -1,0 +1,6 @@
+- [<] Status Log
+	- created:: [[2022-05-12]]
+	- status-updated:: [[2022-05-12]]
+	- current-status:: #nonfic/articleSeed/afterword 
+- [S] Marketing
+	- purpose:: Afterword for [[Sedge (MF)]]
