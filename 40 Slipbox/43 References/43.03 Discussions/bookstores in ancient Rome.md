@@ -5,15 +5,15 @@ date: 2021-10-01
 <cite>by u/tinyblondeduckling</cite>
 
 ## Metadata
-- Author: [[Reddit]]
+- Author: tinyblondeduckling
+- Via:: [[rAskHistorians]]
 - Full Title: Are There Any Records of Dedicated Bookstores Existing (And Succeeding) Prior to the Invention of the Printing Press? At What Point in History Would Book Production Costs Been Low Enough and Literacy Rates High Enough to Make a Bookstore a Viable Business?
 - Link: https://reddit.com/r/AskHistorians/comments/ppz392/are_there_any_records_of_dedicated_bookstores
-
-###### Outline
-- [[Rome had dedicated booksellers]]
-- [[Roman authors hand-copied books to give to friends]]
-- [[bookmaking in antiquity mostly used papyrus]]
-- [[book acquisition in ancient Rome relied on personal connections]]
+- [i] Outline 
+	- [[Rome had dedicated booksellers]]
+	- [[Roman authors hand-copied books to give to friends]]
+	- [[bookmaking in antiquity mostly used papyrus]]
+	- [[book acquisition in ancient Rome relied on personal connections]]
 
 ## Highlights
 

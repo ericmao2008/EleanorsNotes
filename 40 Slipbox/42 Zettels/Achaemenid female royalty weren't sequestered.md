@@ -1,3 +1,5 @@
 * [b] [[royal court of the Achaemenid empire]]
 	* ["] Achaemenid royal and noble women were also not sequestered. They had freedom of movement, property, wealth, and homes independent of the king. They also dined and interacted with men at court. Sometimes they would live and travel with the royal court, but other times they would leave and hold their own sort of court at their personal estates. Were a king to want nothing to do with one of his wives, she would most likely be dismissed and told to go live on her own, possibly with her royal children. Those children would not be cut out royal legitimacy for all the reasons stated above.
 	* ["] While women were not forced to live in seclusion, privacy was a distinct privilege of the nobility. Today, fame and being well known in the public are the height of social prestige in most cultures. In the ancient Near East, the opposite was true. Anybody could be seen in public, but only the rich and powerful could live in private rooms or private homes and travel in closed carriages or litters. 
+
+- [I] This reminds me a bit of how access to private discords and invite-only events are symbols of social cachet today. 

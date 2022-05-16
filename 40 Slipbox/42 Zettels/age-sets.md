@@ -1,8 +1,7 @@
-![[The Civilizations of Africa by Christopher Ehret#ch04p132 Agricultural Intensification in the Ethopian Rift Cultural Effects]]
-![[The Civilizations of Africa by Christopher Ehret#ch07p296 The Ethopian Highlands Political Relations and Commerce in the Eastern Areas 300-1270]]
-
+* [[The Civilizations of Africa by Christopher Ehret#ch04p132 Agricultural Intensification in the Ethopian Rift Cultural Effects]]
+* [[The Civilizations of Africa by Christopher Ehret#ch07p296 The Ethopian Highlands Political Relations and Commerce in the Eastern Areas 300-1270]]
 * [[Oromo Indigenous Philosophy (Gadaa System)]]
-* [[Unusual Governments To Take Inspiration From]] > [[Unusual Governments by E_Konik v2.docx]]
+* [[Unusual Governments To Take Inspiration From]]
 * [[danielsKalenjinAgeSetCoordination1982]] %% #pkm/finishReading & process this article a bit more neatly; forgot to highlight when I was reading it %%
 
 ## See Also

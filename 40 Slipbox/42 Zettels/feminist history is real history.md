@@ -1,1 +1,14 @@
 - [b] [The real Amazons: how the legendary warrior women inspired fighters, feminists and Wonder Woman](https://www.historyextra.com/period/ancient-greece/the-real-amazons-how-the-legendary-warrior-women-inspired-fighters-and-feminists) 
+- [[Roman sumptuary laws failed]] because of the power of women protesting. 
+- [[women stopped brewing beer because of hops]] _matters_ from a historical perspective; the changing role of women in economics is not something we should ignore. 
+- [[Benin has had women fighters for centuries]]
+- [[social status of women in Viking culture]]
+- [[Dynasties and Powerful Women]]
+- [[Early Medieval English women had some legal protections]]
+	- [[Early Medieval English women could inherit]]
+- [[Female Judges as Rulers]]
+- [[female Greek painters were mostly the daughters of famous painters]]
+- [[more female leaders in parliamentary system]]
+- [[Achaemenid female royalty weren't sequestered]]
+- [[Inuit tattooists were female elders]]
+

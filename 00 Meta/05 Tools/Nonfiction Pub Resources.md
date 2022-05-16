@@ -1,6 +1,6 @@
 ## Formatting
 
-- [ ] [Leanpub: Publish Early, Publish Often](https://leanpub.com/)
+- [Leanpub: Publish Early, Publish Often](https://leanpub.com/)
 
 ## Copyeditors
 

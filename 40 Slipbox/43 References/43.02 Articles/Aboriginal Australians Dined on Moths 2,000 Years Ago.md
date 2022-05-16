@@ -1,18 +1,15 @@
 ---
 alias: gershonAboriginalMothGrindstone2021
-date: 2/18/2021
-tags: 
-
+publication-date: 2021-02-18
 ---
 
 # Aboriginal Australians Dined on Moths 2,000 Years Ago
-<cite>-- Livia Gershon </cite>
 
-###### Links
-* URL: [https://www.smithsonianmag.com/smart-news/moths-used-food-australia-2000-years-ago-180977048/](https://www.smithsonianmag.com/smart-news/moths-used-food-australia-2000-years-ago-180977048/)
-* [Local library](zotero://select/items/1_LTQ3CJZ9)
+## Metadata
+* Author:: Livia Gershon
+* link:: [https://www.smithsonianmag.com/smart-news/moths-used-food-australia-2000-years-ago-180977048/](https://www.smithsonianmag.com/smart-news/moths-used-food-australia-2000-years-ago-180977048/)
 
-* * * 
+## Highlights
 
 ### first evidence of insect remains on stone artifacts in the world
 
@@ -25,8 +22,6 @@ tags:
 ### Australian Aboriginal oral histories about moth consumption confirmed
 
 > The tool’s discovery confirms long-held oral histories, showing that Aboriginal families have harvested, cooked and feasted on Bogong months for upward of 65 generations. 
-
-- [i] added to [[oral traditions are often trustworthy]]
 
 ### Indigenous peoples stopped moth harvests because of European colonialism, but the practice was revived.
 

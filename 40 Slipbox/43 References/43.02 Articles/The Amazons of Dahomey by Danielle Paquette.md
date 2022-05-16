@@ -13,7 +13,7 @@ publication-date: 2021-08-26
 - Link: https://washingtonpost.com/world/2021/08/26/amazons-dahomey-benin
 
 ###### Outline
-- [[has had women fighters for centuries]]
+- [[Benin has had women fighters for centuries]]
 - [[had fraternal twin co-rulers]]
 - [[had thousands of female troops in the 1800s]]
 - [[African Amazons defended children]]

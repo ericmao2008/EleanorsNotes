@@ -51,6 +51,4 @@ date: 2021-10-11
 >
 > a century on from Asser’s cautions around the dangers of queenly power, a consecrated queen stood at the head of English government as mother and regent.
 
-- might be relevant for my questions about [[regencies that ended smoothly with a competent ruler]]. [[Newsletter Ideas|newsletter idea]]: Regencies. 
-
  * [View Highlight](https://read.readwise.io/read/01fj78ye736y6mhr4w55c5zv4y)

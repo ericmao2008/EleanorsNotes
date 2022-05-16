@@ -1,6 +1,6 @@
 - [i] related:: [[Persia]] & [[achaemenid-empire.png]]
-- [b] [What was the royal court of the Achaemenid empire like at the time of the story of Purim?](https://www.reddit.com/r/AskHistorians/comments/tc61wv/what_was_the_royal_court_of_the_achaemenid_empire/i0tzjmg/) via [[rAskHistorians]] & answered by [[Trevor Culley]] on [[2022-03-11]], notes recorded [[2022-03-21]]
-	- [[Achaemenid female royalty were not sequestered]]
+- [b] [What was the royal court of the Achaemenid empire like at the time of the story of Purim?](https://www.reddit.com/r/AskHistorians/comments/tc61wv/what_was_the_royal_court_of_the_achaemenid_empire/i0tzjmg/) via [[rAskHistorians]] & answered by [[Trevor Culley]] on 2022-03-11, notes recorded 2022-03-21
+	- [[Achaemenid female royalty weren't sequestered]]
 	- [[Achaemenid harem is synonymous with royal family]]
 	- [[royal marriages are very political]]
 	- [[Achaemenid royals married within their ethnic group]]
