@@ -1,24 +1,19 @@
----
-story: "Temple Mage"
-protagonist: "Kia"
-length: "scene"
-chapter: "01.1"
-section: ""
-status: "complete"
-location: "Senna's Ford"
-time: "day 0 (tenth moon)"
-pitch: "Kia and her father Khent try to catch fish in the river, but the floodwaters are late and there seem to be no fish."
----
-# Metadata 
-## Notes
 
-1.  [Tuareg sandshoe sandal image](https://www.alamy.com/algeria-sahara-djanet-oasis-tuareg-wearing-large-shoes-as-sandshoes-image882549.html)
-2.  [Lake Karum salt lake with thick salt crust and water beneath](https://en.wikipedia.org/wiki/Lake_Karum)
-3.  [Namib Desert dune grasses](https://www.alamy.com/stock-photo-namib-desert-dune-grass-dieprivier-namibia-16757102.html)
-4.  [Date palm information](http://www.palmpedia.net/wiki/Hyphaene_thebaica)
-5.  [Cows in dry season: Upper Nile](https://www.flickr.com/photos/npaus/7679259918/)
-6.  [Alluvial Plain information](https://en.wikipedia.org/wiki/Alluvial_plain)
-7.  [Lunar / Solar Calendar Alignment](https://en.wikipedia.org/wiki/Metonic_cycle)
+* story: [[Temple Mage]]
+* protagonist: [[kia]]
+* length: "scene"
+* chapter: "01.1"
+* location: [[Senna's Ford]]
+* time: day 0 (tenth decan)
+* pitch: "Kia and her father Khent try to catch fish in the river, but the floodwaters are late and there seem to be no fish."
+* References
+	1.  [Tuareg sandshoe sandal image](https://www.alamy.com/algeria-sahara-djanet-oasis-tuareg-wearing-large-shoes-as-sandshoes-image882549.html)
+	2.  [Lake Karum salt lake with thick salt crust and water beneath](https://en.wikipedia.org/wiki/Lake_Karum)
+	3.  [Namib Desert dune grasses](https://www.alamy.com/stock-photo-namib-desert-dune-grass-dieprivier-namibia-16757102.html)
+	4.  [Date palm information](http://www.palmpedia.net/wiki/Hyphaene_thebaica)
+	5.  [Cows in dry season: Upper Nile](https://www.flickr.com/photos/npaus/7679259918/)
+	6.  [Alluvial Plain information](https://en.wikipedia.org/wiki/Alluvial_plain)
+	7.  [Lunar / Solar Calendar Alignment](https://en.wikipedia.org/wiki/Metonic_cycle)
 
 # Chapter 01.1
 

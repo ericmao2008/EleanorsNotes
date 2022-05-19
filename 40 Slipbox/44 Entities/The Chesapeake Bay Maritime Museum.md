@@ -1,4 +1,4 @@
-All my pictures got deleted :sob: Here's what I managed to salvage from my visit to the [Chesapeake Bay Maritime Museum](https://cbmm.org/) during my [[Spring 2021 trip to St Michaels]].
+All my pictures got deleted :sob: Here's what I managed to salvage from my visit to the [Chesapeake Bay Maritime Museum](https://cbmm.org/) during my [[2021-04-10 trip to St Michaels]].
 
 - I didn't know you could forge cannons out of bronze! 
 - What did privateers do when there wasn't a war on?? 
