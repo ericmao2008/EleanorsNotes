@@ -6,7 +6,7 @@
       {
         "id": "00fd1ff2d9ba6c60",
         "type": "leaf",
-        "dimension": 52.86916602907421,
+        "dimension": 35.933437337493494,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "07a44758f22329f9",
         "type": "leaf",
-        "dimension": 47.130833970925785,
+        "dimension": 64.06656266250651,
         "state": {
           "type": "markdown",
           "state": {
@@ -122,6 +122,7 @@
   "active": "00fd1ff2d9ba6c60",
   "lastOpenFiles": [
     "00 Meta/03 Guidance/Welcome.md",
+    "00 Meta/02 Templates/04T Obsidian Roundup Template.md",
     "00 Meta/02 Templates/03T Obsidian Roundup template.md",
     "70 Products/71 Primitives/Obsidian Roundup 2022.06.04.md",
     "00 Meta/03 Guidance/using Obsidian.md",
@@ -129,7 +130,6 @@
     "70 Products/73 Complete/(MF - P) Survival.md",
     "40 Indexes/44 Assemblages/freelance copywriters.md",
     "70 Products/71 Primitives/royal protection of foreigners.md",
-    "70 Products/74 Published/Historical tips for worldbuilding realistic symbolism.md",
-    "70 Products/74 Published/2022.06.08a The spread of euphoric gum.md"
+    "70 Products/74 Published/Historical tips for worldbuilding realistic symbolism.md"
   ]
 }

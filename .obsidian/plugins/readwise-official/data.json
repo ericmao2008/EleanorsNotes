@@ -5,14 +5,17 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 4647915,
+  "lastSavedStatusID": 4650069,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
-  "booksToRefresh": [],
+  "booksToRefresh": [
+    "11055281"
+  ],
   "booksIDsMap": {
     "10 Pending/15 ReadwiseID/Articles/Housing the Occult How Superstitions Shape Architecture Around the World by Kurt Kohlstedt.md": "15727596",
     "10 Pending/15 ReadwiseID/Articles/Women Leaders in African History Ana Nzinga, Queen of Ndongo by Alexander Ives Bortolot.md": "15736379",
-    "10 Pending/15 ReadwiseID/Articles/The Wartime Spies Who Used Knitting as an Espionage Tool by Natalie Zarrelli.md": "15736401"
+    "10 Pending/15 ReadwiseID/Articles/The Wartime Spies Who Used Knitting as an Espionage Tool by Natalie Zarrelli.md": "15736401",
+    "10 Pending/15 ReadwiseID/Tweets/OK 🧵time\nHeres What I... by @suzannahtweets on Twitter.md": "11055281"
   },
   "reimportShowConfirmation": true
 }
