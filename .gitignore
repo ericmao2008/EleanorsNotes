@@ -3,7 +3,6 @@
 .trash/
 .github/
 *.vault-stats
-*.js
 *.ico
 
 # Ignore folders with private contents 
