@@ -24,7 +24,7 @@
 
 # Ignore specific files with private contents
 
-00 Meta/04 Templates/03T Obsidian Roundup Template.md
+*Obsidian Roundup*
 publish.css
 
 # Ignore potentially large files
