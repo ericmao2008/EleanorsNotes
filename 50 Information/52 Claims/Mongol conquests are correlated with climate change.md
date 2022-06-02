@@ -1,0 +1,6 @@
+> [!quote] [Kochevnik81](https://www.reddit.com/user/Kochevnik81/)via [[rAskHistorians]]
+> Regarding "Mongol Conquests caused global cooling" - this comes from Julia Pongratz _et al_'s [article](https://journals.sagepub.com/doi/abs/10.1177/0959683610386981)"Coupled climate–carbon simulations indicate minor global effects of wars and epidemics on atmospheric CO2 between ad 800 and 1850", published in _The Holocene_ in January 2011.
+> 
+> I'd point out that there is an opposite argument, ie that global cooling _caused_ the Mongol conquests. This is made in Neil Peterson _et al_'s "Pluvials, droughts, the Mongol Empire, and modern Mongolia", published in 2014 in the _Proceedings of the National Academy of Sciences_.
+
+- [I] Evidence for [[climate change requires reaction regardless of cause]] — it doesn't matter whether Mongols _caused_ global cooling or were _driven_ by it, the point is that the wars and epidemics were something for people to be aware of, and the climate change of 800-1850 probably had discernable impacts. 

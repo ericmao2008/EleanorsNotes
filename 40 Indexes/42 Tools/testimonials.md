@@ -1,0 +1,1 @@
+- Uri Bram of The Browser [tweeted](https://twitter.com/UriBram/status/1475787016570867716) "Eleanor's newsletter is consistently the weirdest, most intriguing thing that pops up in my inbox. Just the perfect level of eclectic, thematically-connected facts each week for people with a magpie-brain." 

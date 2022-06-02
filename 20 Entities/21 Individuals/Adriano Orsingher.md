@@ -1,0 +1,3 @@
+* a Postdoctoral Research Fellow at the Institute of Biblical Archaeology at the Eberhard Karls University of Tübingen (Germany).
+* His research focuses on the ancient Mediterranean, in particular on the islands of Sicily and Cyprus. 
+* He is especially interested in colonial situations, bordering regions, cross-cultural interactions, movements of people and material culture, through lenses of postcolonial theory, agency and gender.

@@ -1,5 +1,0 @@
-* [[macrofungi have visible fruit]]
-* [[2021.06.21 Fungus]]
-* [[meierHouseFungusMesopotamia1989.pdf]]
-* [[2021.07.21a A single fungus can destroy an entire way of life]]
-* [[edible mushrooms]]

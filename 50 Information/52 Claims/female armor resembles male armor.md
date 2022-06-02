@@ -1,0 +1,3 @@
+> [!quote] [Fireside Friday, April 8, 2022](https://acoup.blog/2022/04/08/fireside-friday-april-8-2022/) by [[Bret Devereaux]]
+> 
+> Historically, I should note, we don’t see evidence for specialized armor by gender. While armor has to be made to fit, the nature of actual armor – with layers of padding, somewhat loose-hanging mail or globular shapes designed to deflect blows – means that the overall shape of armor doesn’t change much – often not at all – to conform to a male or female figure. 

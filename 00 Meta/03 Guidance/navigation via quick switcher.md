@@ -1,0 +1,3 @@
+The **quick switcher** looks like the command palette and can be brought up with either `ctrl/cmd+o` hotkey or by clicking the icon on the left-hand ribbon that looks like a page with a magnifying glass on top. 
+
+You can type in the name of file (or parts of the file path) you are looking for, and it will show you the closest match using "fuzzy" search. Note that it assumes your letters are in order, so if you're looking for something like `Onboarding Index` and try to find `Index Onboar` you won't get any results. 

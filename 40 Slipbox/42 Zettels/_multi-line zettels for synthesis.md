@@ -1,4 +1,0 @@
-```query
-/(?:\* .+\n)+/ path:Zettel
-```
-

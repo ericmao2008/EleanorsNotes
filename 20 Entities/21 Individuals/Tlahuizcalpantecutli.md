@@ -1,0 +1,2 @@
+- frequent commentor for [[rAskHistorians]], focused on Indigenous Culture & Practices of Arido/Mesoamerican Peoples. 
+- The name may be a reference to Tlahuizcalpantecuhtli;  a Mesoamerican god who represented a menacing aspect of Venus, the morning star, and was one of the four gods which held up the sky. The people of the ancient Americas believed his rays could damage people, crops, and water sources.

@@ -1,1 +1,0 @@
-* Vanth is an Etruscan psychopomp written about by `@BM#5424` for their master's thesis

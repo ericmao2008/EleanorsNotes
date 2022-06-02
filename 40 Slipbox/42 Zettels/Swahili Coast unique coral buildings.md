@@ -1,5 +1,0 @@
-* [[The Civilizations of Africa by Christopher Ehret#ch01p14 Africans and Technical Innovation]]
-* [[Early African Trade Centers#Swahili Coast]] discusses Kilwa Kisiwani which is a good example of this. 
-* [[coral architecture on the Swahili coast]] 
-* [[the interrelationship between architecture trade and climate]]
-* [[2021.04.19 Masonry#Set In Coral]] discusses how the coral stone help stabilize society, which us useful for [[Backwards Mapping Fiction]] to compare to the Imager Portfolio & the timber-house culture vs. stone house culture discussion when they firebombed the enemy cities. 

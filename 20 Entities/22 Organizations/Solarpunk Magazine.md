@@ -1,0 +1,2 @@
+- Wants upbeat stories with a hopeful take on the near future. Scifi only. Not utopian necessarily. 
+- Rolling submission windows, normally not themed. 

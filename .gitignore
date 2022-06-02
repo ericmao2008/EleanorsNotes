@@ -10,25 +10,23 @@
 # Ignore folders with private contents 
 
 00 Meta/01 Attachments/
-00 Meta/02 Pending/
-00 Meta/07 Platform/
-00 Meta/08 Markets/
-10 Dated/
-20 Private/
-30 Interests/31 Programming/
-30 Interests/34 Writing/
-40 Slipbox/43 References/43.05 PDFs/
-40 Slipbox/43 References/43.07 Unaltered/
-40 Slipbox/44 Entities/44.1 Acquaintances/
-60 Characters/61 Character Ideas/
-60 Characters/62 Character References/
-70 Newsletters/71 Iceberg/71.1 MMRR Ideas/
-90 Articles/
+10 Pending/
+20 Entities/23 Private
+30 References/33 Unaltered
+30 References/34 Unread
+40 Indexes/44 Assemblages
+70 Products/71 Primitives
+70 Products/72 Primordial
+70 Products/73 Complete
+70 Products/75 Proprietary
+70 Products/76 Submitted
+77 Products/77 Longform
+80 Goals/
+90 Life/
 
 # Ignore specific files with private contents
 
-00 Meta/04 Templates/Obsidian Roundup Template.md
-00 Meta/04 Templates/Refind Deep Dives Template.md
+00 Meta/04 Templates/03T Obsidian Roundup Template.md
 publish.css
 
 # Ignore potentially large files

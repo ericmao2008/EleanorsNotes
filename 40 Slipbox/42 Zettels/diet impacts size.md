@@ -1,3 +1,0 @@
-* the [[Yamnaya]] people of the Pontic steppes are easily identified in burial tombs by their skeletons because they were significantly larger than their agrarian counterparts. 
-* one of the reasons that the [[Roman]] people found Germans so brutish was because they were significantly larger — thanks to a diet heavy in wild game instead of olive oil and bread. 
-* Japan offers proof of how [the increase of protein in the diet leads to taller and huskier populace](https://www.nytimes.com/1970/05/17/archives/taller-and-huskier-young-japanese-are-attributed-to-increase-of.html). 

@@ -1,0 +1,1 @@
+- author-friendly anthology publisher run by [[Joshua Palmatier]]. They mostly run off of kickstarters. 

@@ -1,1 +1,0 @@
-* [v] [1993 video from a landslide in Malaysia](https://www.youtube.com/watch?v=H6Ma0SVjMHA) which formed [this cove](https://www.google.com/maps/@4.402039,100.5917748,1546m/data=!3m1!1e3?hl=en). 

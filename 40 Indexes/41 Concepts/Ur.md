@@ -1,0 +1,3 @@
+- An important city-state in Sumer. 
+- [[ea-Nasir was a businessman from Ur|Ea-Nāşir]] is from here. 
+- Here's a [Virtual reconstruction](https://twitter.com/TheAncientWorld/status/1357197849541320704) of the city of Ur during the Neo-Sumerian period (late third millennium BCE). The open rectangular era is the sacred quarter of the moon god Nanna/Sin. From “Mesopotamia, Civilization Begins” (Thomas, Potts)

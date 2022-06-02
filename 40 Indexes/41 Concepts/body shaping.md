@@ -1,0 +1,2 @@
+- waist shaping in Ghana & other west African countries
+- foot-binding

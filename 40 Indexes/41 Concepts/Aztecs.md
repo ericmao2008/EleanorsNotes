@@ -1,0 +1,2 @@
+> [!quote] [The Aztec Empire](https://www.guggenheim.org/publication/the-aztec-empire) via The Guggenheim
+> The Aztecs were the Native American people who dominated northern Mexico at the time of the Spanish conquest in the early 16th century. A nomadic culture, the Aztecs eventually settled on several small islands in Lake Texcoco where, in 1325, they founded the town of Tenochtitlan, modern-day Mexico City.

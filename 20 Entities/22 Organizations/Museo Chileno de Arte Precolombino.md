@@ -1,0 +1,2 @@
+* opened its doors to the public in December 1981.  
+* an institution to conserve, study and diffuse the artistic legacy of the pre-Columbian peoples of all of the Americas was a pioneering, and remains a unique, initiative in Latin America.

@@ -1,0 +1,1 @@
+- dislikes “disembodied voice” first line dialog. 

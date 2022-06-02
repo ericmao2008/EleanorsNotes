@@ -1,2 +1,0 @@
-* Ancient, or Archaic, Greece – 700-480 B.C.
-* Classical Age (480-323 B.C.).

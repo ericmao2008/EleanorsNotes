@@ -1,4 +1,0 @@
-* [i] related:: [[Achaemenid female royalty weren't sequestered]]
-* [b] [[royal court of the Achaemenid empire]]
-	* ["]  If being removed from the public was a sign of status, then the king had to be the most remove of all. This was a longstanding tradition in the ancient Near East addressed by poetry and literature from Assyria, Babylon, and even the biblical Book of Psalms. It's also reflected in Persian records pertaining to supplies and feasts in the royal household and Greek records of the Persian Empire.
-	* ["] The king was formally inaccessible to all but his closest circle of nobles, who had the unique privelege of coming and going from the king's presence as they wished. Being invited to dine with the king was considered an immense personal honor. Serving as one of the king's regular attendants was reserved for only the highest echelons of the nobility. 

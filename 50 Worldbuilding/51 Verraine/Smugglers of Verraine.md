@@ -1,3 +1,0 @@
-* [[Chariot Racing Story]], [[Luella]]'s father. 
-* [[(MF) Smuggler]]
-* [[2022.02.02 The Bitter Business of Sweetwater Beans (FF)]]

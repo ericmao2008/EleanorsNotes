@@ -1,0 +1,1 @@
+- a British weekly newspaper that focuses on current affairs, international business, politics, technology, and culture.

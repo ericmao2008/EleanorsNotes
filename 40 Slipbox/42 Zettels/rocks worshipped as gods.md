@@ -1,2 +1,0 @@
-* [[Assyrian imperialism#q1b Assur is associated with a rock outcropping]]
-* [[5 SFF Novels That Shed Light on Obscure History#The Raven Tower by Ann Leckie]]

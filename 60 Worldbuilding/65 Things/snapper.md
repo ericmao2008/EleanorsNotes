@@ -1,0 +1,9 @@
+A horrifying cross between a snapping turtle and a [[axolotl]], snappers spend their juvenile stage in the [[Arais Delta]], hunting like crocodiles (i.e. they will hunt and eat people), before heading out to sea, where the females become deep sea hunters (a la giant squid) and the males basically cluster around at the surface messing around with ships and seals (think orcas) until the females release their eggs, whereupon each male selects an egg and carefully herds it back to the marshes, where it's fertilized. The males wrap themselves around the egg, bury themselves in the muck, and die — becoming the first food source for the newly hatched snappers. 
+
+Like the axolotl, they can regrow lost limbs, possess external gills, and can change color. Also like the axolotl, this reproductive process is actually a symptom of neoteny from "insufficient food supply." 
+
+Snappers are an invasive species, brought by the Realmwalker by accident when he created [[Eheu Isle]]. The oceans of Verraine lack sufficient nutrients to trigger metamorphosis. Snappers are opportunistically cannibalistic; when they engage in sufficient cannibalism to get the necessary nutrients, they leave the juvenile stage (see also: neoteny) and become large terrestrial creatures that are functionally indestructible. There is only one exemplar of a fully metamorphosed adult snapper in Verraine: [[Surzi]].
+
+Metamorphosis is more like a caterpillar chrysalis than the usual way a [[morphed axolotl]] develops.
+
+Like many salamanders, they are capable of making weird little popping noises by the opening and closing of valves in the nose.

@@ -1,4 +1,0 @@
-* author with Tor
-* historian specializing in [[classical antiquity]]
-* military & law enforcement career
-* willing to retweet relevant stuff if I tag him and include a link to his thing :D #nonfic/twitterFodder and has 50k followers

@@ -1,1 +1,0 @@
-![[Domestic Storage Behavior in Mesoamerica#p56 Mesoamerican governments distributed taxed food in times of famine]]

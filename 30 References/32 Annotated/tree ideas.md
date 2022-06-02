@@ -1,0 +1,2 @@
+- What do you do when the [[Maehlorn]] trees start dying out, for example. #fic/storyStem  
+- A manufactured plague on the trees would be an interesting analogue to cyber warfare in a fantasy setting, because of how it targets infrastructure instead of armies and it's not soldiers who are hurt but regular people. #fic/storyStem 

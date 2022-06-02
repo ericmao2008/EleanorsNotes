@@ -1,0 +1,4 @@
+- Met at [[2021-08 Worldcon]]
+- Writes Cradle-esque LitRPG stories. 
+- Canadian business owner with a lot of marketing expertise. 
+- Has marketing tips and behind the scenes stuff on his Patreon. 

@@ -1,0 +1,4 @@
+
+> [!quote] [Roman Buildings Grow Up](https://archaeology.org/issues/117-features/top10/1578-roman-architecture-gabii-rome-monumental) by Jason Urbanus  ([ReadwiseID: 261068711](https://read.readwise.io/read/01fqhheyf5n8211b2wne5p29ge))
+> 
+> **Eleven miles east of Rome,** in the ancient city of Gabii, archaeologists unearthed a building complex that may represent the earliest instance of Roman monumental architecture. This enormous structure, dating to the fourth or third century B.C., was excavated by a team from the University of Michigan and predates most of the grand monuments of Rome itself. The large stone–block construction sprawls across three man-made terraces, enveloping a space of more than 22,000 square feet—roughly an entire ancient city block. The exceptional design features colonnades, geometrically patterned floors, wall paintings, and a grand staircase.

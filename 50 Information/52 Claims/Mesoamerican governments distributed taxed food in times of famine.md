@@ -1,0 +1,3 @@
+![[Domestic Storage Behavior in Mesoamerica#p56 Mesoamerican governments distributed taxed food in times of famine]]
+
+- [I] This seems pretty similar to the way that taxed foods were gathered into a surplus as part of the religious tithes in the Levant and then redistributed as charity as needed. This could be used as an #nonfic/articleSeed for comparing the role of government vs. religion in different societies, including whether charities should be government or religiously run. The whole thing about “I don’t like to give homeless people money because I would prefer a more efficient system in which my taxes go to helping them by leveraging economies of scale.” 

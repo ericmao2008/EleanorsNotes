@@ -1,0 +1,1 @@
+- [b] [The real Amazons: how the legendary warrior women inspired fighters, feminists and Wonder Woman](https://www.historyextra.com/period/ancient-greece/the-real-amazons-how-the-legendary-warrior-women-inspired-fighters-and-feminists) 

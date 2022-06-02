@@ -1,0 +1,3 @@
+- has been around for about 13 years now. 
+- editor in chief is [[Scott H. Andrews]]
+- all rejections are personalized

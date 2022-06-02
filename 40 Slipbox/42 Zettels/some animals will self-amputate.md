@@ -1,1 +1,0 @@
-* [Crabs](https://www.reddit.com/r/interestingasfuck/comments/r43us2/crab_amputates_its_own_claw/)

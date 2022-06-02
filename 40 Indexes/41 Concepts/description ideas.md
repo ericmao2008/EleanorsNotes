@@ -1,0 +1,4 @@
+- Sepia-dark skin
+- Skin eggshell pale 
+- Daisy pale laugh lines radiated from her eyes like spider legs 
+- [[Character description based on Matt]] 

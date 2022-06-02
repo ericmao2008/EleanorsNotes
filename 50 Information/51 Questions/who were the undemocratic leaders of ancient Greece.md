@@ -1,0 +1,1 @@
+- Reference [[The Tyrants of Syracuse by Jeff Champion]] and [[rAskHistorians|r/AskHistorians]] and also Sean Manning of Book and Sword blog. #nonfic/articleSeed/essay "Beyond Democracy The Real Leaders of Ancient Greece"

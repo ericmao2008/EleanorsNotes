@@ -1,0 +1,2 @@
+Nomadic peoples of Northwest Africa. Related to the Tuareg. Probably the inspiration for the Fremen of Dune. 
+- [[The Civilizations of Africa by Christopher Ehret#ch04p153 North African Steppe and Desert Peoples 3500-1000 BCE]]

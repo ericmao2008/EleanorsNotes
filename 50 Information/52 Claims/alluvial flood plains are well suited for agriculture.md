@@ -1,0 +1,11 @@
+  > [!quote] [[Why didn’t civilization develop around the Rhine river the way it did on the Nile, Indus, Fertile Crescent, etc]]
+  > 
+The problem with agriculture is that it’s self-limiting. When you harvest crops, you remove nutrients from the soil, until it turns barren. Even the most fertile land will lose productivity after 10-15 years of farming, unless you replenish the soil with fertilizer. In the early days of agriculture before fertilizers or techniques for prolonging the fertility of land (such as crop rotation) had been invented, the solution was slash-and-burn farming. People farmed land for a few years until it stopped producing, then moved on to farm elsewhere. This limited the scope of farming, because short stays are not conducive to land improvement. People don’t invest enormous amounts of labor in digging canals or building dykes if they plan to move on in a few years.
+> 
+> The one place where farming could be sustained indefinitely were alluvial floodplains. If you have a handy river nearby that floods on a predictable schedule, the floodwater will deposit silt which replenishes the soil. On an alluvial floodplain, you can farm the same land for 5,000 years without worrying about losing fertility. In fact, all floodplains where those ancient civilizations developed are still being farmed today.
+> 
+> Of course, there are some caveats. The floodplain should be broad enough that some significant acreage is fertilized. The floods should recede as quickly as they come, and not leave the land a soggy marsh. The plain should be relatively flat, not a terraced fluvial floodplain like some rivers have. Despite the large number of rivers in the world, all these factors don’t come together very often. But when they do, such places are excellent for long term agriculture, as they proved for ancient civilizations.
+> 
+> It’s not an accident that all ancient civilizations developed on floodplains – the Tigris/Euphrates in Mesopotamia, the Nile in Egypt, the Indus and Gangetic floodplains of India, the Yellow, Yangtze and Pearl rivers in China, the Rio Bravo in Central America.
+
+- relevant for [[Nahrian Basin]]

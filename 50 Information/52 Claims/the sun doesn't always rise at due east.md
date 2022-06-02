@@ -1,0 +1,1 @@
+- This neat [visual series about sunsets](https://apod.nasa.gov/apod/ap220105.html) is relevant to how Stonehenge works and how as the months change, the direction toward the rising Sun changes, too.

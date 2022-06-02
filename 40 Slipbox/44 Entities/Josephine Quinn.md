@@ -1,5 +1,0 @@
-* Expert on Phoenicia & Carthage
-* [Email Chain](https://mail.google.com/mail/u/0/?zx=rocdqz27h6k4#search/josephine.quinn%40classics.ox.ac.uk/QgrcJHsNjpXHnZzXbLMjMbbthPcZKxjjtRB) for [[Cyprus Correspondence]]
-* Twitter interaction: [2021-04-01](https://twitter.com/josephinequinn/status/1377753981838065672) 
-* Gave talk on [[Wandering Dido by Josephine Quinn]]
-* author of [[In Search of the Phoenicians by Josephine Quinn]]. 

@@ -1,0 +1,3 @@
+- [b] [[On Age of Sail captains and taking their families on sea voyages#^c23480]]
+	* adolescent boys were selected for placement as "young gentlemen" and midshipmen based on how many senior officers they had connections to. Captains gamed this by illegally getting their sons entered onto the books of their friends' ships so they'd get early seagoing experience. 
+	* everybody looked the other way about the earl-access stuff, but it was frowned upon to serve on the same ship as their father. 

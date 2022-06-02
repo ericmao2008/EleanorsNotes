@@ -1,0 +1,7 @@
+## Worldcon 2022 (ChiCon)
+
+Eleanor Konik teaches (& research) ancient civilizations, then writes stories & articles inspired by all eras of history... which involves a fair amount of notetaking. Her nonfiction articles have been published by Tor.com, Worldbuilding Magazine, and the SFWA blog. She sells her short fiction (flash and micro) directly to fans using the newsletter business model  and teaches people how to use modern notetaking apps to organize their writing notes. In her free time, she reads slush for Diabolical Plots, maintains a very practical garden, and enjoys programmatically-generated storytelling engines (aka video games).
+
+## Diabolical Plots
+
+Eleanor Konik teaches (& researches) ancient civilizations, then writes stories & articles inspired by all eras of history. Her nonfiction articles have been published by Tor.com, Worldbuilding Magazine, and the SFWA blog. She shares her short fiction (flash and micro) [directly to fans subscribed to her newsletter](https://newsletter.eleanorkonik.com/), alongside nonfiction essays illuminating the obscure history and science behind each piece. In her free time, she helps sort submissions for Diabolical Plots, maintains a very practical garden, and enjoys programmatically-generated storytelling engines (aka video games). You can follow her on Twitter for updates [@EleanorKonik](https://twitter.com/EleanorKonik).

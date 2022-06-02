@@ -1,0 +1,2 @@
+- https://www.vulgarlang.com/
+	- Use for [[(FF) A Good Host]] language on Maehlorn called [[Maehlensh]] 

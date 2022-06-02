@@ -1,0 +1,5 @@
+- r/worldbuilding allows self-promo: [[rWorldbuilding]]
+- r/slatestarcodex allows self-promo, this is good for longform book reviews in particular. 
+- r/fantasywriters allows self-promo on their weekly writing check-ins on Wednesdays
+- r/history allows self-promo if it's less than 10% of what you're doing there, but it's obnoxiously hard to actually engage there. 
+- r/historyblogs doesn't have a ton of traffic, but it also doesn't require a ton of engagement

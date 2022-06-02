@@ -1,0 +1,7 @@
+Scientists think that many ancients without access to indigo literally couldn't distinguish blue from other colors. The Egyptians were basically the only ancient civilization with a word for "blue" — the Greeks tended to use phrases meaning stuff like "wine-dark" for ocean-blue, for example. When they did a study, they confirmed that people from cultures with no word for blue but plenty for green can differentiate between very similar shades of green but struggle to differentiate between blue and green more generally. The reverse is also true; Americans can't easily distinguish between very similar shades of green, but can easily distinguish blue and green. 
+
+Another [study by MIT scientists in 2007](https://www.newscientist.com/article/dn11759-russian-speakers-get-the-blues/) showed that native Russian speakers, who don't have one single word for blue, but instead have a word for light blue (goluboy) and dark blue (siniy), can discriminate between light and dark shades of blue much faster than English speakers.
+
+## References
+
+- [There's Evidence Humans Didn't Actually See Blue Until Modern Times](https://www.sciencealert.com/humans-didn-t-see-the-colour-blue-until-modern-times-evidence-science)

@@ -1,0 +1,5 @@
+- [example screenshot of a table that list stories in chronological order, with description and status](https://discord.com/channels/686053708261228577/805952223124520961/816239735491788822)
+- [example screenshot of fully generated index of things tagged in a certain way](https://discord.com/channels/686053708261228577/805952223124520961/816007154493423616) -  I want to use this to create an index of mocs for my entry point note. and for that matter I think I should make an moc of my fiction that contains entry points... And can I use this to automate chapters?
+- [dataview snippet showcase](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673)
+- [github repo with directions](https://blacksmithgu.github.io/obsidian-dataview/#/functions?id=functions)
+- [dataview can include internal links](https://discord.com/channels/686053708261228577/710585052769157141/825718572683624459) 

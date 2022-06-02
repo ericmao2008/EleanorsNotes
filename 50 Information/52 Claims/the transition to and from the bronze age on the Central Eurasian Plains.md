@@ -1,0 +1,1 @@
+- [[The Horse The Wheel And Language by David Anthony]] talks a lot about the transition to the Bronze Age in the Eurasian Plains region. I need to #pkm/synthesize and pull just those details into a note.

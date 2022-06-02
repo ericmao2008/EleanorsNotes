@@ -1,0 +1,2 @@
+- [[The Horse The Wheel And Language by David Anthony#ch12p277 Crisis and Change on the Tripolye Frontier - Towns bigger than Cities]]
+- [Frontiers | The Origins of Trypillia Megasites > But Were the Trypillia Megasites “Cities”? | Digital Humanities](https://www.frontiersin.org/articles/10.3389/fdigh.2019.00010/full#h8)

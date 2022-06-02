@@ -1,2 +1,0 @@
-- [l] broader:: [[pigs]]
-* Apparently pigs are pretty good at video games, according to [a study](https://www.huffpost.com/entry/pigs-play-video-games_n_6026b303c5b6741597e1a3ac) shared in the Huffington Post. Notably, the pigs did better than a dog. 

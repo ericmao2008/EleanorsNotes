@@ -1,4 +1,0 @@
-> [!quote] [Gap Week](https://acoup.blog/2022/04/29/gap-week-april-29-2022/) by [[Bret Devereaux]] 
-> how soldiers understand their role influences how they carry that role out. If soldiers imagine they are all 'warfighters' then they are more likely to respond to their mission by war-fighting it, which can be a real problem in the many missions soldiers may have which are not war-fightable.
-
-- [n] This is really important for the [[Peacekeeper]] folks in [[GeneE]], like Demetrius and other characters in [[(FF) Recycled]], [[TheGenocideDraft]], [[2022.04.22 Can Androids Cope With Tiny Goats (FF)]] and [[(FF) Recycled]]. 

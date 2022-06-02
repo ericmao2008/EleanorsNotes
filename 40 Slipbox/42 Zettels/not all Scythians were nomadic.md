@@ -1,4 +1,0 @@
-* [l] broader:: [[Scythian]]
-* [b] [[millerReevaluatingScythianLifeways2021.pdf]]
-	* ["] The Scythians are frequently presented, inpopular and academic thought alike, as highly mobile warrior nomads who posed a great economic risk to growing Mediterranean empires from the Iron Age into the Classical period. Archaeological studies provide evidence of first millennium BCE urbanism in the steppe while historical texts reference steppe agriculture, challenging traditional characterizations of Scythians as nomads. However, there have been few direct studies of the diet and mobility of populations living in the Pontic steppe and forest-steppe during the Scythian era.
-	* ["] Some individuals show evidence for long-distance mobility, likely associated with significant inter-regional connections. We argue that this pattern supports economic diversity of urban locales and complex trading networks, rather than a homogeneous nomadic population.

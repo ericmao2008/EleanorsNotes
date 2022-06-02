@@ -1,5 +1,0 @@
-* broader:: [[animals]]
-* [l] [[monkeys seek out alcohol]]
-* [l] [[2021.06.21 Fungus#Pee Shrooms]]
-* [b] [[8 animals that take hallucinogenic drugs and enjoy it]]
-- [c] but see also: [animals that drink ethanol and don't seem impacted](https://blogs.scientificamerican.com/not-bad-science/dwarf-hamsters-hold-their-drink/)

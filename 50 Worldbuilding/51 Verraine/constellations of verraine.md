@@ -1,1 +1,0 @@
-* the Great Bow is high in the sky during the non-typhoon equinox ([[units of measure]] for [[Eheu Isle]]). 

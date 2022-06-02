@@ -1,2 +1,0 @@
-* [Pexels](https://www.pexels.com/) - Free high quality stock images
-* [Unsplash](https://unsplash.com/) - same

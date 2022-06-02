@@ -1,0 +1,3 @@
+- [StreamYard](https://streamyard.com/pricing) is what Nick uses. Free for 6 onscreen participants, brand colors, 20 hours per month on the free plan, and lets you stream anywhere — facebook,  youtube, linkedin, twitter & twitch. I've heard they've had some problems due to a new update, though, and I always have issues with my mic cutting out weirdly there. 
+- [melon](https://melonapp.com/) is free for up to 4 hours, allows for real-time alerts, 2 participants, and has limited branding options. $5 (with coupon) it's $5/mo to mirror to up to 3 platforms (i.e. twitch / youtube / twitter)
+- [obs](https://obsproject.com/) is confusing and hard to use, but FOSS. 

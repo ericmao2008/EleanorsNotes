@@ -1,0 +1,5 @@
+- molting hormones: [[2021.01.18 Blood|Blood Newsletter]]
+- testosterone: [[2022.05.02 Hunting|Hunting Newsletter]]
+- oxytocin & other bonding hormones: [[2022.06.06 Love|Love Newsletter]]
+- [[impact of moon phases]] on hormonal cycles
+- insulin: [[The Sugar Conspiracy by Ian Leslie]] 

@@ -1,0 +1,4 @@
+- [[reword_very.png]]
+- [[Story Genuis by Lisa Cron]]
+- [[Save the Cat! by Blake Snyder]]
+- [[Create Great Characters by Ian Irvine]]

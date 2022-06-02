@@ -1,0 +1,4 @@
+> [!quote] [Wikipedia](https://en.wikipedia.org/wiki/Basques) accessed 2022-05-23
+> The Basques are a Southwestern European ethnic group, characterised by the Basque language, a common culture and shared genetic ancestry to the ancient Vascones and Aquitanians. Basques are indigenous to and primarily inhabit an area traditionally known as the Basque Country (Basque: Euskal Herria), a region that is located around the western end of the Pyrenees on the coast of the Bay of Biscay and straddles parts of north-central Spain and south-western France. Basque Country is neither linguistically nor culturally homogeneous, and certain areas have a majority of people who do not consider themselves Basque, such as the south of Navarre.
+
+- [n] I named [[Savyn Euskara]] after the Basque name for their language. 

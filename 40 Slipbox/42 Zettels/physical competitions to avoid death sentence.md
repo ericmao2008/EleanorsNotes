@@ -1,2 +1,0 @@
-* Roman gladiator games? #research 
-* [Death Row inmates in Wyoming](https://www.reddit.com/r/interestingasfuck/comments/swtc9u/back_in_1910_death_row_inmates_in_wyoming/): literally played baseball for their lives. For every game they won, their execution dates were moved back ([Confirmed via the New York Post](https://nypost.com/2014/09/14/the-death-row-inmates-who-were-forced-to-play-baseball-for-their-lives/amp/))

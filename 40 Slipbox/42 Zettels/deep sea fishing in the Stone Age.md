@@ -1,2 +1,0 @@
-* [[Tamed by Alice Roberts#ch02p80 deep sea fishing in the Stone Age]]
-* [ direct evidence for advanced fishing equipment, methods and forward planning](https://www.nature.com/articles/nature.2011.9461)

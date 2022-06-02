@@ -1,1 +1,0 @@
-* author of Big, a substack newsletter aimed at raising awareness of monopolies. He's also an activist who works with congressmen to stop monopolies. 

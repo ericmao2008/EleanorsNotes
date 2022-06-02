@@ -1,5 +1,0 @@
-* https://stash.thesocio.club/
-* [[survey and form tools]]
-* [[Ghost publishing platform]]
-* https://www.hotjar.com/pricing/ - heatmap of website traffic "see what your users see" ?
-* [[stock image sources]]

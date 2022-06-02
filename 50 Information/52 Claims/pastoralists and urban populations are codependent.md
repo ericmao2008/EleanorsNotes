@@ -1,0 +1,6 @@
+- [Was trading by nomads crucial to the rise of cities?](https://www.sciencemag.org/news/2017/12/was-trading-nomads-crucial-rise-cities)
+	Super interesting article (largely related to [[Mesopotamia]] that can be used to discuss how important the [[Monche Nomads]] are to the success of [[Nahria]]'s civilization, particularly with regards to how the peoples of [[Haqara]] and [[Lysaria]] exchange knowledge and goods. The paper profiled by the article claims that pastoralists mostly stuck close to cities (i.e. shepherds, who sold meat and milk to the cities and mostly fed penned animals fodder), but references other sources because that is not actually the predominant view. (See also: [Science Mag](https://science.sciencemag.org/content/358/6370/1518.summary))
+- #pkm/xref with other evidence of this, I know I have other stuff along these lines, especially from [[The Dawn of Everything by David Graeber & David Wengrow]] and [[Against the Grain by James C. Scott]]
+
+## Further Reading
+- [Nomads, Tribes, and the State in the Ancient Near East: Cross-Disciplinary Perspectives](https://oi.uchicago.edu/research/symposia/nomads-tribes-and-state-ancient-near-east-cross-disciplinary-perspectives-1)

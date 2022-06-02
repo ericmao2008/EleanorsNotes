@@ -1,0 +1,2 @@
+- [b] [[royal court of the Achaemenid empire]]
+	* ["] The historical, Achaemenid harem (and its near contemporaries) refers to all of the women associated with the king, their children, and sometimes the royal family as a whole. That includes the king's wives, concubines, the Queen mother, and all of their servants. Many of these women were sexually available to the king, but many of them were officially unavailable for a number of different reasons.

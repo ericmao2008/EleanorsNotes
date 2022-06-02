@@ -1,2 +1,0 @@
-* [[tamarisk]]
-* [[mangroves]]

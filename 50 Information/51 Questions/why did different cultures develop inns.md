@@ -1,0 +1,3 @@
+- I remember reading about how Mary and Joseph should have been able to stay with family, and not an inn, and how donkeys and horses and such in the house would have maybe been normal?
+- [[Backwards Mapping Fiction]] to discuss the role of inns in fiction like the recluse novels by [[L. E. Modesitt|Lee Modesitt]]
+- for modern hotel information, see [[fregoneseHotelGeopoliticsResearch2015.pdf]] & [[nowickiHotelisationHousingCrisis2019.pdf]] & [[devendraHotelIndustryIndia2001.pdf]]

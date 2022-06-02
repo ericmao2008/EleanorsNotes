@@ -1,0 +1,6 @@
+- [[Agent Choosing Process Tips]]
+- [[Agent Query writing tips]]
+- [[Agent Querying Formatting tips]]
+- [[Marketing Tips via Alex Garcia]]
+- [[newsletter_tips_via_annHandley.pdf]]
+- [[youtube marketing tips]]

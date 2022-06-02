@@ -1,0 +1,1 @@
+A colony of Tyre that came to dominate North Africa and the Mediterranean region. Fought with Syracause and was later destroyed by Rome. Legend says it was founded by [[Dido|Elissa of Carthage]].  [[The relationship between Carthage and the Hellenes]] was pretty acrimonious; [[Carthaginian Connections]] goes into more detail about their trade partners.

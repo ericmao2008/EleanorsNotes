@@ -1,1 +1,0 @@
-* [maryland based website](https://www.finegardening.com/article/10-plants-for-year-round-containers) listing which plants to get. 

@@ -1,0 +1,3 @@
+- [[Ancient Mesopotamian epidemics lecture by Troels Arboll#Military Camps]] discusses how there is Biblical evidence of Assyrian military camps having prophylactic rituals to avoid diseases. 
+- [[Cyrus the Great of Persia]] is referenced by Isaiah 45:1 — he’s the only non-Jewish figure in the Bible to be referred to as a messiah. 
+- [[Negotiation between Solomon and Queen of Sheba|chomynSolomonQueenSheba2014]] is a discussion of some of the powerful women in the Bible with a focus on the Queen of Sheba and her relationship with Solomon. 

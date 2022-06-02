@@ -1,0 +1,5 @@
+
+> [!quote] [Children Prioritize Humans Over Animals Less Than Adults Do](https://doi.org/10.1177/0956797620960398) by Matti Wilks, Lucius Caviola, Guy Kahane, & Paul Bloom
+> Children had a weaker tendency than adults to prioritize humans over animals. They often chose to save multiple dogs over one human, and many valued the life of a dog as much as the life of a human. Although they valued pigs less, the majority still prioritized 10 pigs over one human. By contrast, almost all adults chose to save one human over even 100 dogs or pigs. Our findings suggest that **the common view that humans are far more morally important than animals appears late in development and is likely socially acquired.**
+
+There's a thought here on how to relate this to the [[Monche Nomads]] and their views on animals; maybe dig deeper on the research? But don't forget the very thoughtful points made in the [reddit thread](https://www.reddit.com/r/science/comments/kjx2kk/5_to_9yearold_children_chose_to_save_multiple/); this may be because children expect people to not need saving, or because children don't view other people as their *responsibility* the way they do their pets. 

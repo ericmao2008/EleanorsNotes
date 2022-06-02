@@ -1,3 +1,0 @@
-* [[How Cortés' invasion of Mexico was able to be successful#q1 cavalry charges are designed to break enemy morale|Cortes' invasion of Mexico was able to be successful at least in part because he had access to horses: Europeans had a lot of practice using cavalry charges to rout enemies]]. 
-* [[Sabres from the American Civil War got used|During the Civil War, the psychological effect of a charge frequently was more significant than actual casualties inflicted. It's very rare for a standup fight of any length to occur after a charge, it's much more likely that one side or the other loses their nerve.]]
-

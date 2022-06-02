@@ -1,1 +1,0 @@
-* Fordham University is a private Jesuit research university in New York City.

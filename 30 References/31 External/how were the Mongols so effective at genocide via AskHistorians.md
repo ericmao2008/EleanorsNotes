@@ -1,0 +1,4 @@
+- [The Mongols exterminated ~60 million people during their conquests, including 90% of the Iranian population (Hitler's Holocaust murdered 66% of European Jews, by comparison). Just how was the Mongol genocide machinery so effective in the absence of modern technology and bureaucracy?](https://www.reddit.com/r/AskHistorians/comments/ty8dhr/the_mongols_exterminated_60_million_people_during/) via [[rAskHistorians]] 
+	- [[nomads can support a 75% male militarization rate]]
+	- [[historical numbers are often just guesses]]
+	- [[Mongol conquests are correlated with climate change]]

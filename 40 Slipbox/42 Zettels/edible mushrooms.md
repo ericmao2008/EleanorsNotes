@@ -1,1 +1,0 @@
-* the west African mushroom Termitomyces titanicus (info relayed by `@Hesitation-Marx#1118`) is enormous and edible 

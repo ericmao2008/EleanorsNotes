@@ -1,2 +1,0 @@
-- [Joan Francesc Oliveras Pallerols](https://jfoliveras.artstation.com/albums/911283) — beautiful illustrations of Alexander the Great & his successors, Pytheas of Massalia, Zhang Qian, and other historical figures. 
-- [Henning Ludvigsen](https://www.henningludvigsen.com/) makes wonderful game & pinup art. 

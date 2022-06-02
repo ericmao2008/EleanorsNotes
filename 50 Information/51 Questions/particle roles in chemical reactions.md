@@ -1,0 +1,1 @@
+- [?] If there are particles that play "no role" in chemical reactions, like Mulligan's _Introductory College Physics_ claims, how can that be? Even light is a product, right?
