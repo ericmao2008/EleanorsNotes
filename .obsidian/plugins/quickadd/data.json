@@ -1,0 +1,68 @@
+{
+  "choices": [
+    {
+      "id": "0e667dac-8041-42a7-b04f-eff779f48ded",
+      "name": "👩‍🍼 Capture to Max Log",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "90 Life/92 Family/Max log.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{DATE}}: {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "de736f40-0f50-497a-9793-e38dbc5077aa",
+      "name": "zettelize",
+      "type": "Macro",
+      "command": false,
+      "macroId": "dc2ee549-b541-46cd-9fd5-a88f7f2e5922"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Capture to Max Log",
+      "id": "5c19a1ba-1079-48e3-8030-0befcd69b461",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "spinnote",
+      "id": "dc2ee549-b541-46cd-9fd5-a88f7f2e5922",
+      "commands": [
+        {
+          "name": "Zettelizer",
+          "type": "UserScript",
+          "id": "c32648c5-aeb8-464c-b30f-b9b73115214e",
+          "path": "00 Meta/02 Templates/Zettelizer.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Karla",
+  "textFontFamily": "Karla",
+  "enabledCssSnippets": [
+    "checkboxes"
+  ],
+  "baseFontSize": 15
+}

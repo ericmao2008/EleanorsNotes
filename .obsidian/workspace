@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "2b96e14dcf89ead6",
+    "type": "split",
+    "children": [
+      {
+        "id": "00fd1ff2d9ba6c60",
+        "type": "leaf",
+        "dimension": 52.86916602907421,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 Meta/03 Guidance/Welcome.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "07a44758f22329f9",
+        "type": "leaf",
+        "dimension": 47.130833970925785,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 Meta/03 Guidance/using Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6052aa5edc26beb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c2c6e779023a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a89e170fad7a849",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6a4b8d401adab68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "alien death cult",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213
+  },
+  "right": {
+    "id": "54fb038f94436ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "397aeca8ca7ff12a",
+        "type": "tabs",
+        "dimension": 59.9802371541502,
+        "children": [
+          {
+            "id": "0dcccf5bfb6e9c0c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3257abee6e044556",
+        "type": "tabs",
+        "dimension": 40.019762845849804,
+        "children": [
+          {
+            "id": "8a27d34858f6f3f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Meta/03 Guidance/using Obsidian.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5ca280b85841f1c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "active": "07a44758f22329f9",
+  "lastOpenFiles": [
+    "00 Meta/03 Guidance/using Obsidian.md",
+    "00 Meta/03 Guidance/Welcome.md",
+    "70 Products/73 Complete/(MF - P) Survival.md",
+    "00 Meta/02 Templates/03T Obsidian Roundup template.md",
+    "40 Indexes/44 Assemblages/freelance copywriters.md",
+    "70 Products/71 Primitives/royal protection of foreigners.md",
+    "70 Products/74 Published/Historical tips for worldbuilding realistic symbolism.md",
+    "70 Products/74 Published/2022.06.08a The spread of euphoric gum.md",
+    "70 Products/74 Published/2022.04.20 Blame (MF).md",
+    "70 Products/74 Published/2022.02.23a Architectural optimizations for high density housing.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "10 Pending/13 Zotdumps",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image"
+    }
+  ],
+  "exeVersion": "1.0.1"
+}

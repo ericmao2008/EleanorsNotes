@@ -1,0 +1,7 @@
+{
+  "folder": "",
+  "frontmatter": "",
+  "content": "> [!info] Metadata\n> - Real Title:: {{title}}\n> - Author:: {{author}}\n> - Via:: {{publisher}}\n> - Publication Date:: {{publishDate}}\n> - ISBN:: {{isbn10}} / {{isbn13}}",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case"
+}

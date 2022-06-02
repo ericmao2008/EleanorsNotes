@@ -1,0 +1,3225 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Unified",
+      "description": "A calendar of things I'm publishing",
+      "static": {
+        "incrementDay": true,
+        "displayMoons": false,
+        "firstWeekDay": 6,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_19ea684b4a08"
+          },
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_2928b90ab949"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_0ad9a8f9e95b"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_195a4b290bc9"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_abe8c89b0999"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_2b5b8a79fa4a"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_1a78cb79c8cb"
+          }
+        ],
+        "months": [
+          {
+            "name": "January",
+            "type": "month",
+            "length": 31,
+            "id": "ID_e9997a780b3a"
+          },
+          {
+            "name": "February",
+            "type": "month",
+            "length": 28,
+            "id": "ID_b8c9ebeb0b89"
+          },
+          {
+            "name": "March",
+            "type": "month",
+            "length": 31,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 30,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 31,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 30,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 31,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 31,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 30,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 31,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 30,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 31,
+            "id": "ID_ba1bab4a3a28"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 9.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_a9ab186b1819"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_b91ad86a887a"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Before Christ",
+            "description": "",
+            "format": "Year {{abs_year}} - {{era_name}}",
+            "start": {
+              "year": -1,
+              "month": 0,
+              "day": 31
+            }
+          },
+          {
+            "name": "Anno Domini",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "start": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ],
+        "offset": 2
+      },
+      "current": {
+        "day": 8,
+        "month": 5,
+        "year": 2022
+      },
+      "events": [
+        {
+          "name": "Summer Solstice",
+          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "824599",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+          "id": "824600",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824601",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824602",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "824604",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Easter",
+          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
+          "id": "824605",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Easter Monday",
+          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
+          "id": "824606",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Good Friday",
+          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
+          "id": "824607",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Pentecost",
+          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
+          "id": "824608",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "New Year's Day",
+          "description": "New Year's Day marks the start of a new year on the Gregorian Calendar. It starts when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+          "id": "824609",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 0
+          },
+          "category": "secular-holidays",
+          "end": {
+            "day": 1,
+            "year": null,
+            "month": 0
+          }
+        },
+        {
+          "name": "Valentine's Day",
+          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+          "id": "824610",
+          "note": null,
+          "date": {
+            "day": 14,
+            "year": null,
+            "month": 1
+          },
+          "category": "secular-holidays",
+          "end": {
+            "day": 14,
+            "year": null,
+            "month": 1
+          }
+        },
+        {
+          "name": "Halloween",
+          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+          "id": "824611",
+          "note": null,
+          "date": {
+            "day": 31,
+            "year": null,
+            "month": 9
+          },
+          "category": "secular-holidays",
+          "end": {
+            "day": 31,
+            "year": null,
+            "month": 9
+          }
+        },
+        {
+          "name": "Christmas",
+          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+          "id": "824603",
+          "note": null,
+          "date": {
+            "day": 25,
+            "year": null,
+            "month": 11
+          },
+          "category": "christian-holidays",
+          "end": {
+            "day": 25,
+            "year": null,
+            "month": 11
+          }
+        },
+        {
+          "name": "Introduction of the Gregorian Calendar",
+          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+          "id": "824614",
+          "note": null,
+          "date": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          },
+          "category": "historical-events",
+          "end": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          }
+        },
+        {
+          "name": "Work on the first version of this calendar started.",
+          "description": "Aecius started work on the first version Gregorian Calendar for Fantasy Calendar on this day.",
+          "id": "824612",
+          "note": null,
+          "date": {
+            "day": 23,
+            "year": 2019,
+            "month": 5
+          },
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 23,
+            "year": 2019,
+            "month": 5
+          }
+        },
+        {
+          "name": "Work on this version of the Gregorian Calendar started.",
+          "description": "On this day, Aecius started to rework the Gregorian Calendar from scratch to make it work with the updates Wasp and Alex implemented since the summer of 2019.",
+          "id": "824613",
+          "note": null,
+          "date": {
+            "day": 21,
+            "year": 2020,
+            "month": 0
+          },
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 21,
+            "year": 2020,
+            "month": 0
+          }
+        },
+        {
+          "name": "Roundup",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 9,
+            "year": 2021
+          },
+          "id": "ID_f9eb590a7bb9",
+          "note": "2021.10.16",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 16,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        {
+          "name": "Iceberg: Taxes",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 18,
+            "year": 2021
+          },
+          "id": "ID_38d8787b0a6b",
+          "note": "2021.10.18 Taxes",
+          "category": "miscellaneous-events",
+          "end": {
+            "month": 9,
+            "day": 18,
+            "year": 2021
+          }
+        },
+        {
+          "name": "Eavesdrop",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 9,
+            "year": 2021
+          },
+          "id": "ID_b82a6be998fb",
+          "note": "2021.10.20 Eavesdrop (MF)",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 20,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        {
+          "name": "Ship Burning",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 9,
+            "year": 2021
+          },
+          "id": "ID_880aa889a9c9",
+          "note": "2021.10.20a did conquerors ever burn their ships",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 20,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        {
+          "name": "Roundup",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 9,
+            "year": 2021
+          },
+          "id": "ID_787b9a6b790b",
+          "note": "2021.10.23",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 23,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        {
+          "name": "2021.10.25 Maritime Disasters",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 25,
+            "year": 2021
+          },
+          "id": "ID_aacbabfb3bca",
+          "note": "2021.10.25 Maritime Disasters",
+          "category": "miscellaneous-events",
+          "end": {
+            "month": 9,
+            "day": 25,
+            "year": 2021
+          }
+        },
+        {
+          "id": "ID_89eaeb3939cb",
+          "name": "2021.10.25 Maritime Disasters",
+          "note": "70 Newsletters/71 Iceberg/2021.10.25 Maritime Disasters.md",
+          "date": {
+            "day": 25,
+            "month": 9,
+            "year": 2021
+          },
+          "end": null,
+          "category": "miscellaneous-events",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "Laxatives",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 9,
+            "year": 2021
+          },
+          "id": "ID_9b5b188aa929",
+          "note": "Laxatives",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 27,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        {
+          "name": "Poison",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 9,
+            "year": 2021
+          },
+          "id": "ID_2ad8eb8909f8",
+          "note": "Poison",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 27,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        {
+          "name": "Obsidian Roundup 2021.10.30",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 9,
+            "year": 2021
+          },
+          "id": "ID_8a09791a5bc8",
+          "note": "Obsidian Roundup 2021.10.30",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 9,
+            "day": 30
+          }
+        },
+        {
+          "name": "2021.11.01 Marriage",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_984b49599a5a",
+          "note": "2021.11.01 Marriage",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 1,
+            "month": 10,
+            "year": 2021
+          }
+        },
+        {
+          "name": "2021.11.03a Snowshoeing is better than skiing",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_da1b88e89b6b",
+          "note": "2021.11.03a Snowshoeing is better than skiing",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 3,
+            "month": 10,
+            "year": 2021
+          }
+        },
+        {
+          "name": "(SS) The Impossible Knife",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_58aad9793afa",
+          "note": "(SS) The Impossible Knife",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 3,
+            "month": 10,
+            "year": 2021
+          }
+        },
+        {
+          "name": "2021-11-05 Updates",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_7918aab9fa38",
+          "note": "2021-11-05 Updates",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 10,
+            "day": 5
+          }
+        },
+        {
+          "name": "Obsidian Roundup 2021.11.06",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_28ab9a1ad8a8",
+          "note": "Obsidian Roundup 2021.11.06",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 10,
+            "day": 6
+          }
+        },
+        {
+          "name": "2021.11.08 Inheritance",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_1b5b88294a09",
+          "note": "2021.11.08 Inheritance",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 8,
+            "month": 10,
+            "year": 2021
+          }
+        },
+        {
+          "name": "chicken farming",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_e9d8c84a9b78",
+          "note": "chicken farming",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 10,
+            "day": 10
+          }
+        },
+        {
+          "name": "(MF) Vapid",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_ca793828c9f8",
+          "note": "(MF) Vapid",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 10,
+            "day": 10
+          }
+        },
+        {
+          "name": "Obsidian Roundup 2021.11.13",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_dbb848b8795b",
+          "note": "Obsidian Roundup 2021.11.13",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 10,
+            "day": 13
+          }
+        },
+        {
+          "name": "Islanders",
+          "description": null,
+          "date": {
+            "day": 15,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_89c9c97a7a8b",
+          "note": null,
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 15,
+            "month": 10,
+            "year": 2021
+          }
+        },
+        {
+          "name": "The tension between herosim and parenthood",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_2938692a1ba8",
+          "note": null,
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 17,
+            "month": 10,
+            "year": 2021
+          }
+        },
+        {
+          "name": "2021.11.20 Obsidian Roundup",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_9829abaa1848",
+          "note": "70 Newsletters/72 Obsidian Roundup/2021.11.20 Obsidian Roundup.md",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 20,
+            "month": 10,
+            "year": 2021
+          }
+        },
+        {
+          "name": "2021.11.27 Obsidian Roundup",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 10,
+            "year": 2021
+          },
+          "id": "ID_2a7a9b48bbe8",
+          "note": "70 Newsletters/72 Obsidian Roundup/2021.11.27 Obsidian Roundup.md",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 10,
+            "day": 27
+          }
+        },
+        {
+          "name": "2021.12.04 Obsidian Roundup",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 11,
+            "year": 2021
+          },
+          "id": "ID_0ad91a181ada",
+          "note": "70 Newsletters/72 Obsidian Roundup/2021.12.04 Obsidian Roundup.md",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 11,
+            "day": 4
+          }
+        },
+        {
+          "name": "2021.12.11 Obsidian Roundup",
+          "description": null,
+          "date": {
+            "day": 11,
+            "month": 11,
+            "year": 2021
+          },
+          "id": "ID_dbeb5868ca2b",
+          "note": "70 Newsletters/72 Obsidian Roundup/2021.12.11 Obsidian Roundup.md",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2021,
+            "month": 11,
+            "day": 11
+          }
+        },
+        {
+          "name": "2021.12.18 Obsidian Roundup",
+          "description": null,
+          "date": {
+            "day": 18,
+            "month": 11,
+            "year": 2021
+          },
+          "id": "ID_d9bb29891a0b",
+          "note": "70 Newsletters/72 Obsidian Roundup/2021.12.18 Obsidian Roundup.md",
+          "category": "miscellaneous-events",
+          "end": {
+            "day": 18,
+            "month": 11,
+            "year": 2021
+          }
+        },
+        {
+          "name": "2021.12.25 Obsidian Roundup",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 11,
+            "year": 2021
+          },
+          "id": "ID_fbfada1b9bfb",
+          "note": null,
+          "category": "ID_0a399b68abab",
+          "end": {
+            "day": 25,
+            "month": 11,
+            "year": 2021
+          }
+        },
+        {
+          "id": "ID_3b0839c869e9",
+          "name": "2021-12-24",
+          "note": "10 Dated/11 Daily Notes/2021-12-24.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 24
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_984a5ac9a86b",
+          "name": "2021-12-27",
+          "note": "10 Dated/11 Daily Notes/2021-12-27.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 27
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_c81b6ba84b09",
+          "name": "2021-12-26",
+          "note": "10 Dated/11 Daily Notes/2021-12-26.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 26
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_891abb2a39a8",
+          "name": "2021-12-25",
+          "note": "10 Dated/11 Daily Notes/2021-12-25.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 25
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_18da188a3b49",
+          "name": "2021-12-28",
+          "note": "10 Dated/11 Daily Notes/2021-12-28.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 28
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fb88dae92a1b",
+          "name": "2021-12-29",
+          "note": "10 Dated/11 Daily Notes/2021-12-29.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 29
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a93bd85a7a48",
+          "name": "2021-12-30",
+          "note": "10 Dated/11 Daily Notes/2021-12-30.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 30
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2ae9d85978e9",
+          "name": "2021-12-31",
+          "note": "10 Dated/11 Daily Notes/2021-12-31.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 31
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_bbdac9a92af9",
+          "name": "2022-01-01",
+          "note": "10 Dated/11 Daily Notes/2022-01-01.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 1
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_39abeada0be9",
+          "name": "2022-01-02",
+          "note": "10 Dated/11 Daily Notes/2022-01-02.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 2
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_298bf8faaaa9",
+          "name": "2022-01-03",
+          "note": "10 Dated/11 Daily Notes/2022-01-03.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 3
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_69da69eb2ba9",
+          "name": "2022-01-04",
+          "note": "10 Dated/11 Daily Notes/2022-01-04.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 4
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4bfb8a58382b",
+          "name": "2022-01-04 (conflict 2022-01-04-16-14-12)",
+          "note": null,
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 4
+          },
+          "category": "ID_8acb1ad928aa",
+          "end": {
+            "year": 2022,
+            "month": 0,
+            "day": 4
+          }
+        },
+        {
+          "id": "ID_887beb2adad9",
+          "name": "2022-01-05",
+          "note": "10 Dated/11 Daily Notes/2022-01-05.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 5
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_690b0b992beb",
+          "name": "2022-01-06",
+          "note": "10 Dated/11 Daily Notes/2022-01-06.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 6
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_08aa0a494a0b",
+          "name": "2022-01-07",
+          "note": "10 Dated/11 Daily Notes/2022-01-07.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 7
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ba1b1b29fba9",
+          "name": "2022-01-09",
+          "note": "10 Dated/11 Daily Notes/2022-01-09.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 9
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5929ca184b5a",
+          "name": "2022-01-08",
+          "note": "10 Dated/11 Daily Notes/2022-01-08.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 7
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_db0bc90b0889",
+          "name": "2022-01-10",
+          "note": "10 Dated/11 Daily Notes/2022-01-10.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 10
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_7bd808ab79cb",
+          "name": "2022-01-11",
+          "note": "10 Dated/11 Daily Notes/2022-01-11.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 11
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d95bea0a1bb9",
+          "name": "2022-01-12",
+          "note": "10 Dated/11 Daily Notes/2022-01-12.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 12
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_b87b7b49a8ea",
+          "name": "2022-01-13",
+          "note": "10 Dated/11 Daily Notes/2022-01-13.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 13
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_38cafb5b0878",
+          "name": "2022-01-17",
+          "note": "10 Dated/11 Daily Notes/2022-01-17.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 17
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_6bbb5b3b6b7b",
+          "name": "2022-01-14",
+          "note": "10 Dated/11 Daily Notes/2022-01-14.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 14
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "(MF) Shift",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 0,
+            "year": 2022
+          },
+          "id": "ID_9b1aaa6918a9",
+          "note": null,
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2022,
+            "month": 0,
+            "day": 19
+          }
+        },
+        {
+          "id": "ID_09581898a9a9",
+          "name": "2022-01-15",
+          "note": "10 Dated/11 Daily Notes/2022-01-15.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 15
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a4a0a2aa809",
+          "name": "2022-01-16",
+          "note": "10 Dated/11 Daily Notes/2022-01-16.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 16
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_9a783b1a0af8",
+          "name": "2022-01-19",
+          "note": "10 Dated/11 Daily Notes/2022-01-19.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 19
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_19dad9dbc959",
+          "name": "2022-01-20",
+          "note": "10 Dated/11 Daily Notes/2022-01-20.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 20
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_38189a9bbb0b",
+          "name": "2022-01-21",
+          "note": "10 Dated/11 Daily Notes/2022-01-21.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 21
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_39a868eab9ba",
+          "name": "2022-01-22",
+          "note": "10 Dated/11 Daily Notes/2022-01-22.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 22
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a8a1af9a95b",
+          "name": "2022-01-23",
+          "note": "10 Dated/11 Daily Notes/2022-01-23.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 23
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_3a193a381a79",
+          "name": "2022-01-24",
+          "note": "10 Dated/11 Daily Notes/2022-01-24.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 24
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_59e93919cb99",
+          "name": "2022-01-25",
+          "note": "10 Dated/11 Daily Notes/2022-01-25.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 25
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_39baf8bb6a88",
+          "name": "2022-01-26",
+          "note": "10 Dated/11 Daily Notes/2022-01-26.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 26
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5ba858bb48f9",
+          "name": "2022-01-27",
+          "note": "10 Dated/11 Daily Notes/2022-01-27.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 27
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5a4b68ea9a3a",
+          "name": "2022-01-29",
+          "note": "10 Dated/11 Daily Notes/2022-01-29.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 29
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d819eb2b680b",
+          "name": "2022-01-30",
+          "note": "10 Dated/11 Daily Notes/2022-01-30.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 30
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d8eaa8a9ba09",
+          "name": "2022-01-31",
+          "note": "10 Dated/11 Daily Notes/2022-01-31.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 31
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a98a596a6af9",
+          "name": "2022-02-01",
+          "note": "10 Dated/11 Daily Notes/2022-02-01.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 1
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_7a2869fbab6a",
+          "name": "2022-02-02",
+          "note": "10 Dated/11 Daily Notes/2022-02-02.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_c9b8fbc968e8",
+          "name": "2022-02-03",
+          "note": "10 Dated/11 Daily Notes/2022-02-03.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 3
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_7bfb6848abfa",
+          "name": "2022-02-04",
+          "note": "10 Dated/11 Daily Notes/2022-02-04.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 4
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_09582b3b8a28",
+          "name": "2022-02-05",
+          "note": "10 Dated/11 Daily Notes/2022-02-05.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 5
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_5b0bca5b1879",
+          "name": "2022-02-07",
+          "note": "10 Dated/11 Daily Notes/2022-02-07.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 7
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ba4978a8c8c9",
+          "name": "2022-02-08",
+          "note": "10 Dated/11 Daily Notes/2022-02-08.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 8
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_e95998f81898",
+          "name": "2022-02-09",
+          "note": "10 Dated/11 Daily Notes/2022-02-09.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 9
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_db8be869a9ba",
+          "name": "2022-02-06",
+          "note": "10 Dated/11 Daily Notes/2022-02-06.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 6
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_abca7b98a89a",
+          "name": "2022-02-10",
+          "note": "10 Dated/11 Daily Notes/2022-02-10.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 10
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_79c888980a9b",
+          "name": "2022-02-11",
+          "note": "10 Dated/11 Daily Notes/2022-02-11.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 11
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_990898fbeaba",
+          "name": "2022-02-12",
+          "note": "10 Dated/11 Daily Notes/2022-02-12.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 12
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_8bda49ea189a",
+          "name": "2022-02-13",
+          "note": "10 Dated/11 Daily Notes/2022-02-13.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 13
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_68c92aa82bc9",
+          "name": "2022-02-14",
+          "note": "10 Dated/11 Daily Notes/2022-02-14.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 14
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_9a9adbd8088b",
+          "name": "2022-02-15",
+          "note": "10 Dated/11 Daily Notes/2022-02-15.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 15
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_892af8c87b59",
+          "name": "2022-02-16",
+          "note": "10 Dated/11 Daily Notes/2022-02-16.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 16
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_3bf9dbb83819",
+          "name": "2022-02-17",
+          "note": "10 Dated/11 Daily Notes/2022-02-17.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 17
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ea1928f87969",
+          "name": "2022-02-18",
+          "note": "10 Dated/11 Daily Notes/2022-02-18.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 18
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_8b287a0bd9eb",
+          "name": "2022-02-19",
+          "note": "10 Dated/11 Daily Notes/2022-02-19.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 19
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_69e8db9b5bc9",
+          "name": "2022-02-20",
+          "note": "10 Dated/11 Daily Notes/2022-02-20.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 20
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_38d90aa80bcb",
+          "name": "2022-02-22",
+          "note": "10 Dated/11 Daily Notes/2022-02-22.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 22
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "Stop Feeling Guilty - Rebrand Your TBR List",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_fb1ab84a4aab",
+          "note": "90 Articles/94 Nonfic Products/Stop Feeling Guilty - Rebrand Your TBR List",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.02.26",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 1,
+            "year": 2022
+          },
+          "id": "ID_8bea5b5809e8",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.02.26",
+          "category": "ID_0a399b68abab"
+        },
+        {
+          "name": "2021.02.28 Potatoes",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 1,
+            "year": 2022
+          },
+          "id": "ID_8ada8b0a3ae8",
+          "note": "70 Newsletters/71 Iceberg/71.1 MMRR Ideas/2021.02.28 Potatoes",
+          "category": "miscellaneous-events"
+        },
+        {
+          "id": "ID_ea2909a9582b",
+          "name": "2022-02-24",
+          "note": "10 Dated/11 Daily Notes/2022-02-24.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 24
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ea2a897bbab9",
+          "name": "2022-02-27",
+          "note": "10 Dated/11 Daily Notes/2022-02-27.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 27
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "2022-APR Updates",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_9a58caeb9b78",
+          "note": "70 Newsletters/71 Iceberg/2022-APR Updates",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.03.05",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_ca68bbd8f949",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.03.05",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Sensemaking Thru Fiction",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_bb5b19383979",
+          "note": "90 Articles/95 Efficient Notes/Efficient Notes/Sensemaking Thru Fiction",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.02 Wyrden Eyes (SS)",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_58b8aa18796b",
+          "note": "70 Newsletters/71 Iceberg/2022.03.02 Wyrden Eyes (SS)",
+          "category": "miscellaneous-events",
+          "end": {
+            "year": 2022,
+            "month": 2,
+            "day": 2
+          }
+        },
+        {
+          "name": "2022.03.02a War is complicated and messy",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_a93afbcb49b8",
+          "note": "70 Newsletters/71 Iceberg/2022.03.02a War is complicated and messy",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.07 Armor",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_49297b286b6b",
+          "note": "70 Newsletters/71 Iceberg/2022.03.07 Armor",
+          "category": "miscellaneous-events"
+        },
+        {
+          "id": "ID_b8fb4889b808",
+          "name": "2022-03-06",
+          "note": "10 Dated/11 Daily Notes/2022-03-06.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 6
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ba99ca7af988",
+          "name": "2022-03-10",
+          "note": "10 Dated/11 Daily Notes/2022-03-10.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 10
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "2022.03.14 Lactating Egglayers",
+          "description": null,
+          "date": {
+            "day": 14,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_db7acaa9dbcb",
+          "note": "70 Newsletters/71 Iceberg/2022.03.14 Lactating Egglayers",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.21 Wings",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_5ada28ea684a",
+          "note": "70 Newsletters/71 Iceberg/71.1 MMRR Ideas/2022.03.21 Wings",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.09a Exotic foods serve ritual purposes",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_883b3b58fbb9",
+          "note": "90 Articles/92 WIP/2022.03.09a Exotic foods serve ritual purposes",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.09 Peahen (MF)",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_395b4b49885b",
+          "note": "70 Newsletters/71 Iceberg/2022.03.09 Peahen (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.03.12",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_59c898f9b8bb",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.03.12",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.16a Parenting in SFF",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_987bb92a8889",
+          "note": "70 Newsletters/71 Iceberg/2022.03.16a Parenting in SFF",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.16 Egg (MF)",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_baa8585b8be8",
+          "note": "70 Newsletters/71 Iceberg/2022.03.16 Egg (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.03.19",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_6b69f9ab6b68",
+          "note": "Obsidian Roundup 2022.03.19",
+          "category": "miscellaneous-events"
+        },
+        {
+          "id": "ID_79392a788bd8",
+          "name": "2022-03-11",
+          "note": "10 Dated/11 Daily Notes/2022-03-11.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 11
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "2022.03.23 Semblance (MF)",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_2a98fb3b2b69",
+          "note": "70 Newsletters/71 Iceberg/2022.03.23 Semblance (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.23a Creature creation from the blood up",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_8848d84aa82a",
+          "note": "90 Articles/94 Nonfic Products/2022.03.23a Creature creation from the blood up",
+          "category": "miscellaneous-events"
+        },
+        {
+          "id": "ID_9b5bfb2a6b28",
+          "name": "2021-08-13",
+          "note": "10 Dated/11 Daily Notes/2021-08-13.md",
+          "date": {
+            "year": 2021,
+            "month": 7,
+            "day": 13
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a98db39e98b",
+          "name": "2021-11-10",
+          "note": "10 Dated/11 Daily Notes/2021-11-10.md",
+          "date": {
+            "year": 2021,
+            "month": 10,
+            "day": 10
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_abdb380bda28",
+          "name": "2022-02-21",
+          "note": "10 Dated/11 Daily Notes/2022-02-21.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 21
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a878d9786a9b",
+          "name": "2022-02-23",
+          "note": "10 Dated/11 Daily Notes/2022-02-23.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 23
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a95b9aab5adb",
+          "name": "2022-02-25",
+          "note": "10 Dated/11 Daily Notes/2022-02-25.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 25
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_bba8ca9a0b48",
+          "name": "2022-02-26",
+          "note": "10 Dated/11 Daily Notes/2022-02-26.md",
+          "date": {
+            "year": 2022,
+            "month": 1,
+            "day": 26
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ea99394bc9ab",
+          "name": "2022-03-05",
+          "note": "10 Dated/11 Daily Notes/2022-03-05.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 5
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fbb88a0a1a09",
+          "name": "2022-03-12",
+          "note": "10 Dated/11 Daily Notes/2022-03-12.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 12
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_b9b979697b1a",
+          "name": "2022-03-13",
+          "note": "10 Dated/11 Daily Notes/2022-03-13.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 13
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_09db981a4828",
+          "name": "2022-03-14",
+          "note": "10 Dated/11 Daily Notes/2022-03-14.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 14
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_68fbc85a087b",
+          "name": "2022-03-15",
+          "note": "10 Dated/11 Daily Notes/2022-03-15.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 15
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2a6b3a9a5b6b",
+          "name": "2022-03-16",
+          "note": "10 Dated/11 Daily Notes/2022-03-16.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 16
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ab0a5a0ba97a",
+          "name": "2022-03-17",
+          "note": "10 Dated/11 Daily Notes/2022-03-17.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 17
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_dad83b294968",
+          "name": "2022-03-18",
+          "note": "10 Dated/11 Daily Notes/2022-03-18.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 18
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "on notes bound by time and locale",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_081a9be8593b",
+          "note": "90 Articles/94 Paywalled/on notes bound by time and locale",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.03.26",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_48798929292a",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.03.26",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.28 Clothes",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_8af8186b5a1a",
+          "note": "70 Newsletters/71 Iceberg/71.1 MMRR Ideas/2022.03.28 Clothes",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.04.02",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_9a4be869c8c8",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.04.02",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.04.09",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_7a2af8997baa",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.04.09",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.03.30 Left (MF)",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_3be84909bb38",
+          "note": "70 Newsletters/71 Iceberg/2022.03.30 Left (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.023.30a Violence can solve problems",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 2,
+            "year": 2022
+          },
+          "id": "ID_6898392b1a5b",
+          "note": "70 Newsletters/71 Iceberg/2022.023.30a Violence can solve problems",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022-MAY Updates",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_aa393bdbabf8",
+          "note": "2022-MAY Updates",
+          "category": "ID_0a399b68abab"
+        },
+        {
+          "name": "2022.04.06 Haze (MF)",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_ab59d95a7b78",
+          "note": "80 Stories/84 Complete/2022.04.06 Haze (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.06a Monstrances are ostensive symbols of sacrifice",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_89a8799a4978",
+          "note": "70 Newsletters/71 Iceberg/2022.04.06a Monstrances are ostensive symbols of sacrifice",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Adaptations of a Zettelkasten",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 6,
+            "year": 2022
+          },
+          "id": "ID_f9d9fb0a6a38",
+          "note": "90 Articles/91 Primitives/Adaptations of a Zettelkasten",
+          "category": "ID_0a399b68abab"
+        },
+        {
+          "name": "2022.04.04 Aerial Combat",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_aaeac8590959",
+          "note": "70 Newsletters/71 Iceberg/71.1 MMRR Ideas/2022.04.04 Aerial Combat",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.11 Capsaicin",
+          "description": null,
+          "date": {
+            "day": 11,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_99e9ab291a89",
+          "note": "70 Newsletters/71 Iceberg/2022.04.11 Capsaicin",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.13 Opulence",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_c9699a7a289b",
+          "note": "80 Stories/84 Complete/2022.04.13 Opulence",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.13a Mercenaries make for a strange army",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_aa2aa83b785b",
+          "note": "70 Newsletters/71 Iceberg/2022.04.13a Mercenaries make for a strange army",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.18 Rebellions",
+          "description": null,
+          "date": {
+            "day": 18,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_cb5ba98bf849",
+          "note": "70 Newsletters/71 Iceberg/71.1 MMRR Ideas/2022.04.18 Rebellions",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022-04-16",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_280a987b3a7b",
+          "note": "Obsidian Roundup 2022-04-16",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.04.23",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_4a298b790a39",
+          "note": "Obsidian Roundup 2022.04.23",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.20a Blights are a big deal",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_d84af8b83a2b",
+          "note": "70 Newsletters/71 Iceberg/2022.04.20a Blights are a big deal",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.20 Blame (MF)",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_f809ba9a0a6b",
+          "note": "70 Newsletters/71 Iceberg/2022.04.20 Blame (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "(FF) Can Androids Cope With Tiny Goats",
+          "description": null,
+          "date": {
+            "day": 22,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_58493bab4809",
+          "note": "80 Stories/86 Shipped/(FF) Can Androids Cope With Tiny Goats",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.22a Intergalactic teleportation & organic robots",
+          "description": null,
+          "date": {
+            "day": 22,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_ba7a8b3abaaa",
+          "note": "70 Newsletters/71 Iceberg/2022.04.22a Intergalactic teleportation & organic robots",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.25 Bats",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_79b8da981a3a",
+          "note": "70 Newsletters/71 Iceberg/2022.04.25 Bats",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "(FF) Recycled",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_eb58293bb95b",
+          "note": "70 Products/76 Submitted/(FF) Recycled",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.27 The Apothecary's Daughter (MF)",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_1a58da8979ca",
+          "note": "70 Newsletters/71 Iceberg/2022.04.27 The Apothecary's Daughter (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.04.27a A Tale of Two Tropes - Frankenstein and the Healer",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_19c8096958aa",
+          "note": "70 Newsletters/71 Iceberg/2022.04.27a A Tale of Two Tropes - Frankenstein and the Healer",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.04a alternatives to guard dogs",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_882989882b29",
+          "note": "40 Slipbox/42 Zettels/2022.05.04a alternatives to guard dogs",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.04 the goose that guards the garden gate (mf)",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_8889d89a1a89",
+          "note": "80 Stories/81 Primordial/2022.05.04 the goose that guards the garden gate (mf)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.04.30",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_98887bf819b9",
+          "note": "Obsidian Roundup 2022.04.30",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.02 Hunting",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_b9ba7b3b0b68",
+          "note": "70 Newsletters/71 Iceberg/2022.05.02 Hunting",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.05.07",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_0b092a78f858",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.05.07",
+          "category": "ID_0a399b68abab"
+        },
+        {
+          "name": "Roundup_2202-05-06",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_9ac85aab389a",
+          "note": "40 Slipbox/43 References/43.07 Unaltered/Roundup_2202-05-06",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "TC's thing",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_18b97a9a8a4a",
+          "note": null,
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "TC's thing",
+          "description": null,
+          "date": {
+            "day": 11,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_2a5b7b08180b",
+          "note": null,
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.09 Canals",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_db6a0a4a6969",
+          "note": "70 Newsletters/71 Iceberg/71.1 MMRR Ideas/2022.05.09 Canals",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Weird taxes",
+          "description": null,
+          "date": {
+            "day": 18,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_e8995b68fb3b",
+          "note": "Weird taxes",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Barnacles (MF)",
+          "description": null,
+          "date": {
+            "day": 18,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_6aba29e9395a",
+          "note": "Barnacles (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Herbs",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_8a2a69bb5939",
+          "note": "70 Newsletters/71 Iceberg/2022.05.23 Trade",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.30 Itinerants",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_b9da7a7a5b3b",
+          "note": "70 Products/74 Published/2022.05.30 Itinerants",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Obsidian Roundup 2022.05.14",
+          "description": null,
+          "date": {
+            "day": 14,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_99da6968e8bb",
+          "note": "70 Newsletters/72 Obsidian Roundup/Obsidian Roundup 2022.05.14",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Tax Collectors",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_ba992b78ea48",
+          "note": null,
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.25 Sedge",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_d96bdbfbd879",
+          "note": "70 Products/2022.05.25 Sedge",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.25a The dangers egglayers face",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_d82a1ab9c989",
+          "note": "70 Products/74 Published/2022.05.25a The dangers egglayers face",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.05.27a Luddite engineers & failed failsafes",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 4,
+            "year": 2022
+          },
+          "id": "ID_f9fbcb8a2b8b",
+          "note": "70 Products/74 Published/2022.05.27a Luddite engineers & failed failsafes",
+          "category": "miscellaneous-events"
+        },
+        {
+          "id": "ID_aa49cacac9ca",
+          "name": "2022-01-20",
+          "note": "90 Life/97 Days/2022-01-20.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 20
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "2022.06.01 Breeder (MF)",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_ea2a9b7a296a",
+          "note": "70 Products/74 Published/2022.06.01 Breeder (MF)",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.06.01a the hormones of love and immortality",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_38da39ba8bab",
+          "note": "70 Products/74 Published/2022.06.01a the hormones of love and immortality",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.06.06 Love",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_ca3b69e9299b",
+          "note": "70 Products/74 Published/2022.06.06 Love",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "2022.06.06 Trade",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_aa9a1adb1a48",
+          "note": "70 Products/74 Published/2022.06.06 Trade",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "(MF - D) Surviving the Siege",
+          "description": null,
+          "date": {
+            "day": 15,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_cb083bca4bca",
+          "note": "70 Products/73 Complete/(MF - D) Surviving the Siege",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "(MF - P) Survival",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_0a1b1bc809b9",
+          "note": "70 Products/73 Complete/(MF - P) Survival",
+          "category": "ID_0a399b68abab"
+        },
+        {
+          "name": "(MF - P) Breakdown",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_7adb2b382ada",
+          "note": "70 Products/73 Complete/(MF - P) Breakdown",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "quaff this kind nepenthe",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_5bfa281a9a58",
+          "note": "quaff this kind nepenthe",
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Going your own way - an alternative to daily notes",
+          "description": null,
+          "date": {
+            "day": 23,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_da282a496b0a",
+          "note": "70 Products/71 Primitives/Going your own way - an alternative to daily notes",
+          "category": "ID_0a399b68abab"
+        },
+        {
+          "name": "2022.06.15a short sieges and impenetrable castles",
+          "description": null,
+          "date": {
+            "day": 15,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_1b7aaa4a6989",
+          "note": "2022.06.15a short sieges and impenetrable castles",
+          "category": "miscellaneous-events"
+        },
+        {
+          "id": "ID_9bfb8b4adbb8",
+          "name": "2021.10.25 Maritime Disasters",
+          "note": "70 Products/74 Published/2021.10.25 Maritime Disasters.md",
+          "date": {
+            "day": 25,
+            "month": 9,
+            "year": 2021
+          },
+          "end": null,
+          "category": "miscellaneous-events",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_881a59baab3a",
+          "name": "2021-12-24",
+          "note": "90 Life/97 Days/2021-12-24.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 24
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a5868b86b9a",
+          "name": "2021-12-25",
+          "note": "90 Life/97 Days/2021-12-25.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 25
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f9985bd829db",
+          "name": "2021-12-28",
+          "note": "90 Life/97 Days/2021-12-28.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 28
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_686bbb3ae978",
+          "name": "2021-12-29",
+          "note": "90 Life/97 Days/2021-12-29.md",
+          "date": {
+            "year": 2021,
+            "month": 11,
+            "day": 29
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_39dae9fbfb0a",
+          "name": "2022-01-04",
+          "note": "90 Life/97 Days/2022-01-04.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 4
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_a88908f94a5b",
+          "name": "2022-01-08",
+          "note": "90 Life/97 Days/2022-01-08.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 7
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_fba8a9086a7a",
+          "name": "2022-01-09",
+          "note": "90 Life/97 Days/2022-01-09.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 9
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a4b9bfb3bb9",
+          "name": "2022-01-10",
+          "note": "90 Life/97 Days/2022-01-10.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 10
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f8b9cb3b7b39",
+          "name": "2022-01-12",
+          "note": "90 Life/97 Days/2022-01-12.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 12
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_688b4988a86a",
+          "name": "2022-01-13",
+          "note": "90 Life/97 Days/2022-01-13.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 13
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_3b09780aaa18",
+          "name": "2022-01-15",
+          "note": "90 Life/97 Days/2022-01-15.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 15
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_d849f99b8ada",
+          "name": "2022-01-17",
+          "note": "90 Life/97 Days/2022-01-17.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 17
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_593919895928",
+          "name": "2022-01-21",
+          "note": "90 Life/97 Days/2022-01-21.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 21
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_489bda6a1b28",
+          "name": "2022-01-23",
+          "note": "90 Life/97 Days/2022-01-23.md",
+          "date": {
+            "year": 2022,
+            "month": 0,
+            "day": 23
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2ad8ca2a891a",
+          "name": "2022-03-12",
+          "note": "90 Life/97 Days/2022-03-12.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 12
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_19f8c9894a6b",
+          "name": "2022-03-16",
+          "note": "90 Life/97 Days/2022-03-16.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 16
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_882bf928088b",
+          "name": "2022-03-17",
+          "note": "90 Life/97 Days/2022-03-17.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 17
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_ba784818689b",
+          "name": "2022-03-18",
+          "note": "90 Life/97 Days/2022-03-18.md",
+          "date": {
+            "year": 2022,
+            "month": 2,
+            "day": 18
+          },
+          "end": null,
+          "category": "ID_8acb1ad928aa",
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "Obsidian roundup 2022.06.04",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 5,
+            "year": 2022
+          },
+          "id": "ID_3aba9af8292a",
+          "note": "Obsidian roundup 2022.06.04",
+          "category": "ID_0a399b68abab"
+        }
+      ],
+      "id": "ID_89b9bb487979",
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Christian Holidays",
+          "id": "christian-holidays",
+          "color": "#9b2c2c"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Published",
+          "id": "miscellaneous-events",
+          "color": "#45a39f"
+        },
+        {
+          "id": "ID_0a399b68abab",
+          "color": "#ea4c67",
+          "name": "WIP"
+        },
+        {
+          "id": "ID_8acb1ad928aa",
+          "color": "#808080",
+          "name": "DNP"
+        },
+        {
+          "id": "ID_abc97a081be8",
+          "color": "#6519d7",
+          "name": "Events"
+        }
+      ],
+      "date": 1654174416653
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": "ID_89b9bb487979",
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_89b9bb487979",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false,
+  "path": "/"
+}
